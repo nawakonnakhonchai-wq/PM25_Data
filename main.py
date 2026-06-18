@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 
 def fetch_air_quality_to_geojson():
     url = "http://air4thai.pcd.go.th/services/getNewAQI_JSON.php"
@@ -11,14 +11,10 @@ def fetch_air_quality_to_geojson():
         if response.status_code == 200:
             raw_data = response.json()
             
-            # คำนวณเวลาไทย (UTC+7) สำหรับ Metadata ของไฟล์
-            time_th_now = datetime.utcnow() + timedelta(hours=7)
-            
             geojson = {
                 "type": "FeatureCollection",
                 "metadata": {
-                    "last_updated_utc": datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'),
-                    "last_updated_thai": time_th_now.strftime('%Y-%m-%d %H:%M:%S')
+                    "last_updated_thai": datetime.now().strftime('%Y-%m-%d %H:%M:%S')
                 },
                 "features": []
             }
@@ -29,6 +25,11 @@ def fetch_air_quality_to_geojson():
                 
                 aqi_info = station.get('AQILast', {})
                 
+                # รวมวันที่และเวลาเป็นฟอร์แมตที่ ArcGIS ชอบ: YYYY-MM-DD HH:MM:00
+                date_val = aqi_info.get('date', '1900-01-01')
+                time_val = aqi_info.get('time', '00:00')
+                combined_timestamp = f"{date_val} {time_val}:00"
+
                 # สร้าง Feature
                 feature = {
                     "type": "Feature",
@@ -39,10 +40,7 @@ def fetch_air_quality_to_geojson():
                     "properties": {
                         "stationID": station.get('stationID'),
                         "nameTH": station.get('nameTH'),
-                        "nameEN": station.get('nameEN'),
-                        # เพิ่มช่องเวลาไทยโดยเฉพาะ (แปลงจาก string ใน API)
-                        "time_th": aqi_info.get('time'), # ของเดิมเป็นเวลาไทยจาก API อยู่แล้ว
-                        "date_th": aqi_info.get('date'),
+                        "timestamp": combined_timestamp, # ArcGIS จะจำว่าเป็น Field วันที่โดยอัตโนมัติ
                         "PM25_value": float(aqi_info.get("PM25", {}).get("value", -1)),
                         "PM25_aqi": int(aqi_info.get("PM25", {}).get("aqi", -1)),
                         "overall_aqi": int(aqi_info.get("AQI", {}).get("aqi", -1)),
@@ -54,7 +52,7 @@ def fetch_air_quality_to_geojson():
             with open("air_quality.geojson", "w", encoding="utf-8") as f:
                 json.dump(geojson, f, ensure_ascii=False, indent=4)
             
-            print(f"[+] สร้างไฟล์ air_quality.geojson พร้อมเวลาไทยเรียบร้อยแล้ว!")
+            print(f"[+] สร้างไฟล์ air_quality.geojson สำเร็จ! พร้อมคอลัมน์ timestamp")
             return True
     except Exception as e:
         print(f"[-] เกิดข้อผิดพลาด: {e}")
