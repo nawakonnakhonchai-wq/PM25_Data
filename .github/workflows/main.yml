@@ -1,0 +1,46 @@
+name: Hourly Air Quality Update
+
+on:
+  schedule:
+    # รันทุกชั่วโมง (นาทีที่ 0)
+    - cron: '0 * * * *'
+  # อนุญาตให้กดรันเองได้จากหน้า GitHub Actions
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    # สำคัญมาก: ต้องให้สิทธิ์การเขียนในระดับ Permissions
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run Scraper
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          # ตั้งค่าข้อมูลผู้ทำรายการ
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # ตรวจสอบว่ามีการเปลี่ยนแปลงไฟล์หรือไม่
+          if [[ -n $(git status -s) ]]; then
+            git add air_quality_latest.json
+            git commit -m "Update Air Quality Data: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes detected, skipping commit."
+          fi
