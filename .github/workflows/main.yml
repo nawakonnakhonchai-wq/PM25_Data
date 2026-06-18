@@ -1,8 +1,11 @@
-name: Hourly Air Quality Update (GeoJSON)
+name: Hourly Air Quality Update
 
 on:
+  # รับสัญญาณจากภายนอก (ผ่าน cron-job.org)
+  repository_dispatch:
+    types: [run-air-quality-update]
+  # รันทุกชั่วโมง (นาทีที่ 0)
   schedule:
-    # รันทุกชั่วโมง (นาทีที่ 0)
     - cron: '0 * * * *'
   # รองรับการกดรันด้วยมือผ่านหน้า GitHub Actions
   workflow_dispatch:
@@ -10,11 +13,9 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
-    
-    # ให้สิทธิ์การเขียนไฟล์กลับเข้า Repository
     permissions:
       contents: write
-
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -32,11 +33,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          # ตั้งค่าบัญชีผู้กระทำ (ใช้บอทของ GitHub)
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           
-          # ตรวจสอบสถานะว่ามีการสร้างไฟล์ใหม่หรืออัปเดตไฟล์หรือไม่
+          # ตรวจสอบการเปลี่ยนแปลง
           if [[ -n $(git status --porcelain) ]]; then
             git add air_quality.geojson
             git commit -m "Auto-update GeoJSON: $(date +'%Y-%m-%d %H:%M:%S')"
