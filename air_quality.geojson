@@ -1,0 +1,3505 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.9180489,
+                    8.0506237
+                ]
+            },
+            "properties": {
+                "stationID": "119t",
+                "nameTH": "สวนสาธารณะธารา",
+                "nameEN": "Thara Public Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.6,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.487662,
+                    13.732846
+                ]
+            },
+            "properties": {
+                "stationID": "02t",
+                "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
+                "nameEN": "Bansomdejchaopraya Rajabhat University",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.2,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.414262,
+                    13.636514
+                ]
+            },
+            "properties": {
+                "stationID": "03t",
+                "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
+                "nameEN": "Highway NO.3902 km.13 +600",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.6,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.605742,
+                    13.666183
+                ]
+            },
+            "properties": {
+                "stationID": "05t",
+                "nameTH": "กรมอุตุนิยมวิทยาบางนา",
+                "nameEN": "Thai Meteorological Department ",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.1,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5473333,
+                    13.70806667
+                ]
+            },
+            "properties": {
+                "stationID": "12t",
+                "nameTH": "โรงเรียนนนทรีวิทยา ",
+                "nameEN": "Nonsi Witthaya School",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.0,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.536501,
+                    13.729852
+                ]
+            },
+            "properties": {
+                "stationID": "50t",
+                "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
+                "nameEN": "Chulalongkorn Hospital",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.5,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.486568,
+                    13.727622
+                ]
+            },
+            "properties": {
+                "stationID": "52t",
+                "nameTH": "การไฟฟ้าย่อยธนบุรี ",
+                "nameEN": "Thonburi Power Sub-Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.4,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5930298,
+                    13.7954248
+                ]
+            },
+            "properties": {
+                "stationID": "53t",
+                "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
+                "nameEN": "Chokchai Police Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.1,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5502,
+                    13.76251667
+                ]
+            },
+            "properties": {
+                "stationID": "54t",
+                "nameTH": "การเคหะชุมชนดินแดง ",
+                "nameEN": "National Housing Authority Dindaeng",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.2,
+                "PM25_aqi": 26,
+                "overall_aqi": 26,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.540489,
+                    13.783185
+                ]
+            },
+            "properties": {
+                "stationID": "59t",
+                "nameTH": "กรมประชาสัมพันธ์",
+                "nameEN": "The Government Public Relations Department ",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.0,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.614567,
+                    13.769634
+                ]
+            },
+            "properties": {
+                "stationID": "61t",
+                "nameTH": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
+                "nameEN": "Bodindecha Sing Singhaseni School",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.1,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.669183,
+                    13.785212
+                ]
+            },
+            "properties": {
+                "stationID": "bkp100t",
+                "nameTH": "สำนักงานเขตบึงกุ่ม",
+                "nameEN": "Bueng Kum District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.4,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.704002,
+                    13.859911
+                ]
+            },
+            "properties": {
+                "stationID": "bkp101t",
+                "nameTH": "สำนักงานเขตคลองสามวา",
+                "nameEN": "Khlong Sam Wa District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.5,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.483861,
+                    13.677757
+                ]
+            },
+            "properties": {
+                "stationID": "bkp102t",
+                "nameTH": "สำนักงานเขตจอมทอง",
+                "nameEN": "Chomthong District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.1,
+                "PM25_aqi": 14,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.504956,
+                    13.793965
+                ]
+            },
+            "properties": {
+                "stationID": "bkp103t",
+                "nameTH": "สำนักงานเขตบางพลัด",
+                "nameEN": "Bang Phlat District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.3,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.409049,
+                    13.696314
+                ]
+            },
+            "properties": {
+                "stationID": "bkp104t",
+                "nameTH": "สำนักงานเขตบางแค",
+                "nameEN": "Bang Khae District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.6,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.435902,
+                    13.659908
+                ]
+            },
+            "properties": {
+                "stationID": "bkp105t",
+                "nameTH": "สำนักงานเขตบางขุนเทียน",
+                "nameEN": "Bang Khun Thian District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.4,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5448381,
+                    13.732225
+                ]
+            },
+            "properties": {
+                "stationID": "bkp114t",
+                "nameTH": "สวนลุมพินี ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน",
+                "nameEN": "Lumpini park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.3,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5535825,
+                    13.8118516
+                ]
+            },
+            "properties": {
+                "stationID": "bkp115t",
+                "nameTH": "สวนวชิรเบญจทัศ ถนนกำแพงเพชร 3 แขวงลาดยาว เขตจตุจักร",
+                "nameEN": "Wacchirabenchatat Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.7,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5509191,
+                    13.802546
+                ]
+            },
+            "properties": {
+                "stationID": "bkp116t",
+                "nameTH": "สวนจตุจักร ถนนพหลโยธิน แขวงจตุจักร เขตจตุจักร",
+                "nameEN": "Chatuchak Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.9,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6579657,
+                    13.6881393
+                ]
+            },
+            "properties": {
+                "stationID": "bkp117t",
+                "nameTH": "สวนหลวง ร.9 ถนนเฉลิมพระเกียรติ ร.9 แขวงหนองบอน เขตประเวศ",
+                "nameEN": "Suan Luang Rama IX",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.8,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7302101,
+                    13.7631141
+                ]
+            },
+            "properties": {
+                "stationID": "bkp118t",
+                "nameTH": "สวน 60 พรรษาสมเด็จพระนางเจ้าพระบรมราชินีนาถ ถนนเคหะร่มเกล้า เขตลาดกระบัง",
+                "nameEN": "60th Anniversary of Queen Sirikit Park ,Kheha Romklao Road, Lat Krabang, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 13.9,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5684634,
+                    13.7304916
+                ]
+            },
+            "properties": {
+                "stationID": "bkp119t",
+                "nameTH": "อุทยานเบญจสิริ",
+                "nameEN": "Benchasiri Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.8,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5684666,
+                    13.9288678
+                ]
+            },
+            "properties": {
+                "stationID": "bkp120t",
+                "nameTH": "สวนรมณีย์ทุ่งสีกัน",
+                "nameEN": "Rommani Thungsikan Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.4,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4909771,
+                    13.6502295
+                ]
+            },
+            "properties": {
+                "stationID": "bkp121t",
+                "nameTH": "สวนธนบุรีรมย์",
+                "nameEN": "Thonburirom Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.9,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5600172,
+                    13.7328791
+                ]
+            },
+            "properties": {
+                "stationID": "bkp122t",
+                "nameTH": "สวนเบญจกิติ",
+                "nameEN": "Benjakitti Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.7,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5488338,
+                    13.8055472
+                ]
+            },
+            "properties": {
+                "stationID": "bkp123t",
+                "nameTH": "สวนสมเด็จพระนางเจ้าสิริกิติ์ฯ",
+                "nameEN": "Queen Sirikit Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.0,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4681128,
+                    13.7716446
+                ]
+            },
+            "properties": {
+                "stationID": "bkp124t",
+                "nameTH": "สวนเฉลิมพระเกียรติ 80 พรรษา",
+                "nameEN": "80th Anniversary Commemoration Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 13.5,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6733359,
+                    13.7855673
+                ]
+            },
+            "properties": {
+                "stationID": "bkp125t",
+                "nameTH": "สวนเสรีไทย",
+                "nameEN": "Serithai Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 13.5,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3844036,
+                    13.6863478
+                ]
+            },
+            "properties": {
+                "stationID": "bkp126t",
+                "nameTH": "สวนบางแคภิรมย์",
+                "nameEN": "Bang Khae Phirom Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.5,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.3526893,
+                    13.7435329
+                ]
+            },
+            "properties": {
+                "stationID": "bkp127t",
+                "nameTH": "สวนทวีวนารมย์",
+                "nameEN": "Thawee Wanarom Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.1,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7807077,
+                    13.7201042
+                ]
+            },
+            "properties": {
+                "stationID": "bkp128t",
+                "nameTH": "สวนพระนคร",
+                "nameEN": "Phra Nakhon Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.9,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.8585539,
+                    13.855656
+                ]
+            },
+            "properties": {
+                "stationID": "bkp129t",
+                "nameTH": "สวนหนองจอก",
+                "nameEN": "Nong Chok Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.3,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.6207085,
+                    13.8778763
+                ]
+            },
+            "properties": {
+                "stationID": "bkp130t",
+                "nameTH": "สวนกีฬารามอินทรา",
+                "nameEN": "Ramintra Sports Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.9,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.51830028147444,
+                    13.685524189587932
+                ]
+            },
+            "properties": {
+                "stationID": "bkp131t",
+                "nameTH": "สวนสาธารณะเฉลิมพระเกียรติ 6 รอบพระชนมพรรษา",
+                "nameEN": "Public Park to commemorate the sixth anniversary of His Majesty the King",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.3,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4945337,
+                    13.7693437
+                ]
+            },
+            "properties": {
+                "stationID": "bkp133t",
+                "nameTH": "สวนหลวงพระราม 8",
+                "nameEN": "Rama VIII Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.1,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.558606,
+                    13.7619223
+                ]
+            },
+            "properties": {
+                "stationID": "bkp56t",
+                "nameTH": "สำนักงานเขตดินแดง กรุงเทพฯ",
+                "nameEN": "Din Dang, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.5,
+                "PM25_aqi": 21,
+                "overall_aqi": 27,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.61457,
+                    13.691511
+                ]
+            },
+            "properties": {
+                "stationID": "bkp57t",
+                "nameTH": "สำนักงานเขตพระโขนง กรุงเทพฯ",
+                "nameEN": "Phra Kanong District Office,  Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.7,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5060513,
+                    13.6821364
+                ]
+            },
+            "properties": {
+                "stationID": "bkp58t",
+                "nameTH": "สำนักงานเขตราษฎร์บูรณะ กรุงเทพฯ",
+                "nameEN": "Rat Burana District Office,  Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.8,
+                "PM25_aqi": 28,
+                "overall_aqi": 28,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5345788,
+                    13.7590851
+                ]
+            },
+            "properties": {
+                "stationID": "bkp59t",
+                "nameTH": "สำนักงานเขตราชเทวี กรุงเทพฯ",
+                "nameEN": "Ratchathewi District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.2,
+                "PM25_aqi": 14,
+                "overall_aqi": 22,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.520982,
+                    13.776664
+                ]
+            },
+            "properties": {
+                "stationID": "bkp60t",
+                "nameTH": "ริมสวนหย่อมตรงข้ามสำนักงานเขตดุสิต",
+                "nameEN": "Dusit District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.6,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.514267,
+                    13.756281
+                ]
+            },
+            "properties": {
+                "stationID": "bkp61t",
+                "nameTH": "สำนักงานคณะกรรมการพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
+                "nameEN": "National Economic and Social Development Council Office",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.7,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.512734,
+                    13.737136
+                ]
+            },
+            "properties": {
+                "stationID": "bkp62t",
+                "nameTH": "วงเวียนโอเดียน",
+                "nameEN": "Odeon Circus",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 18.0,
+                "PM25_aqi": 33,
+                "overall_aqi": 33,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5344645,
+                    13.783554
+                ]
+            },
+            "properties": {
+                "stationID": "bkp63t",
+                "nameTH": "แฟลตทหารบก สามเสน",
+                "nameEN": "Army Apartment Sam Sen",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.6,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.622294,
+                    13.778981
+                ]
+            },
+            "properties": {
+                "stationID": "bkp64t",
+                "nameTH": "สำนักงานเขตวังทองหลาง",
+                "nameEN": "Wang Thonglang District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 16.5,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.52829,
+                    13.733136
+                ]
+            },
+            "properties": {
+                "stationID": "bkp65t",
+                "nameTH": "สามย่านมิตรทาวน์",
+                "nameEN": "Samyan Mitrtown",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.8,
+                "PM25_aqi": 28,
+                "overall_aqi": 28,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.528055,
+                    13.726136
+                ]
+            },
+            "properties": {
+                "stationID": "bkp66t",
+                "nameTH": "ลานบางรักเลิฟลี่ พลาซ่า",
+                "nameEN": "Bangrak Lovely Plaza",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.0,
+                "PM25_aqi": 25,
+                "overall_aqi": 25,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.526787,
+                    13.707763
+                ]
+            },
+            "properties": {
+                "stationID": "bkp67t",
+                "nameTH": "สำนักงานเขตสาทร",
+                "nameEN": "Sathon District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 13.9,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.54687,
+                    13.679226
+                ]
+            },
+            "properties": {
+                "stationID": "bkp69t",
+                "nameTH": "ธนาคารกรุงศรีอยุธยา สำนักงานใหญ่",
+                "nameEN": "Bank of Ayuthaya Head Office Yan Nawa, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.7,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.584559,
+                    13.722096
+                ]
+            },
+            "properties": {
+                "stationID": "bkp70t",
+                "nameTH": "ริมถนนซอยสุขุมวิท 63",
+                "nameEN": "Soi Sukhumwit 63 Roadside Wattana, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.4,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.651705,
+                    13.731051
+                ]
+            },
+            "properties": {
+                "stationID": "bkp71t",
+                "nameTH": "สำนักงานเขตสวนหลวง",
+                "nameEN": "Suan Luang District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.3,
+                "PM25_aqi": 12,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.635313,
+                    13.667987
+                ]
+            },
+            "properties": {
+                "stationID": "bkp72t",
+                "nameTH": "บิ๊กซี ซุปเปอร์เซ็นเตอร์ บางนา",
+                "nameEN": "Big C Supercenter Bang Na",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 19.9,
+                "PM25_aqi": 38,
+                "overall_aqi": 38,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.575632,
+                    13.839923
+                ]
+            },
+            "properties": {
+                "stationID": "bkp73t",
+                "nameTH": "มหาวิทยาลัยเกษตรศาสตร์",
+                "nameEN": "Kasertsart University",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.5,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.594877,
+                    13.910986
+                ]
+            },
+            "properties": {
+                "stationID": "bkp74t",
+                "nameTH": "สำนักงานเขตดอนเมือง",
+                "nameEN": "Don Mueng District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.5,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.660628,
+                    13.896035
+                ]
+            },
+            "properties": {
+                "stationID": "bkp75t",
+                "nameTH": "สำนักงานเขตสายไหม",
+                "nameEN": "Sai Mai District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 13.8,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.647785,
+                    13.766478
+                ]
+            },
+            "properties": {
+                "stationID": "bkp76t",
+                "nameTH": "สำนักงานเขตบางกะปิ",
+                "nameEN": "Bang Kapi District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.3,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.686594,
+                    13.813844
+                ]
+            },
+            "properties": {
+                "stationID": "bkp77t",
+                "nameTH": "แยกสวนสยาม-รามอินทรา",
+                "nameEN": "Suan Sayam-Ram Intra Intersection",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.7,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.784069,
+                    13.72205
+                ]
+            },
+            "properties": {
+                "stationID": "bkp78t",
+                "nameTH": "โรงพยาบาลลาดกระบัง",
+                "nameEN": "Lat Krabang Hospital",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 20.0,
+                "PM25_aqi": 38,
+                "overall_aqi": 38,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.73208,
+                    13.813578
+                ]
+            },
+            "properties": {
+                "stationID": "bkp79t",
+                "nameTH": "สวนเฉลิมพระเกียรติ ร.9",
+                "nameEN": "Chaloem Phrakiat Rama 9 Park Min buri, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.6,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.86267,
+                    13.855362
+                ]
+            },
+            "properties": {
+                "stationID": "bkp80t",
+                "nameTH": "สำนักงานเขตหนองจอก",
+                "nameEN": "Nong Chok District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.6,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.647615,
+                    13.695561
+                ]
+            },
+            "properties": {
+                "stationID": "bkp81t",
+                "nameTH": "ซีคอน สแควร์",
+                "nameEN": "Seacon Square",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 16.6,
+                "PM25_aqi": 30,
+                "overall_aqi": 34,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.48465,
+                    13.70515
+                ]
+            },
+            "properties": {
+                "stationID": "bkp82t",
+                "nameTH": "แยกมไหศวรรย์",
+                "nameEN": "Mahaisawan Intersection",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.6,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.508782,
+                    13.719705
+                ]
+            },
+            "properties": {
+                "stationID": "bkp83t",
+                "nameTH": "ห้องสมุดใต้สะพานสมเด็จพระเจ้าตากสิน",
+                "nameEN": "Library under King Taksin Bridge",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.2,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.474373,
+                    13.729431
+                ]
+            },
+            "properties": {
+                "stationID": "bkp84t",
+                "nameTH": "สี่แยกท่าพระ",
+                "nameEN": "Tha phra Intersection",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.7,
+                "PM25_aqi": 25,
+                "overall_aqi": 25,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.481137,
+                    13.759619
+                ]
+            },
+            "properties": {
+                "stationID": "bkp85t",
+                "nameTH": "สถานีตำรวจรถไฟบางกอกน้อย",
+                "nameEN": "Bangkok Noi Train Police Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.4,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.426727,
+                    13.780778
+                ]
+            },
+            "properties": {
+                "stationID": "bkp86t",
+                "nameTH": "ถนนพุทธมณฑลสาย 1 ตัดกับถนนบรมราชชนนี",
+                "nameEN": "Phutthamonthon 1 - Borommaratchachonnani Intersection",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.2,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.355099,
+                    13.746257
+                ]
+            },
+            "properties": {
+                "stationID": "bkp87t",
+                "nameTH": "ตลาดธนบุรีสนามหลวง 2",
+                "nameEN": "Thon Buri Market Sanam Luang 2",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.3,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.45391,
+                    13.718689
+                ]
+            },
+            "properties": {
+                "stationID": "bkp88t",
+                "nameTH": "มหาวิทยาลัยสยาม",
+                "nameEN": "Siam University",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.1,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.343164,
+                    13.705582
+                ]
+            },
+            "properties": {
+                "stationID": "bkp89t",
+                "nameTH": "ริมถนนมาเจริญ เพชรเกษม 8, เขตหนองแขม",
+                "nameEN": "Ma Charean Roadside, Petcha Kasem 8, Nong Khaem",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 18.0,
+                "PM25_aqi": 33,
+                "overall_aqi": 33,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.372958,
+                    13.639165
+                ]
+            },
+            "properties": {
+                "stationID": "bkp90t",
+                "nameTH": "ตลาดบางบอน 5",
+                "nameEN": "Bang Bon 5 Market",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.2,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.496673,
+                    13.651004
+                ]
+            },
+            "properties": {
+                "stationID": "bkp91t",
+                "nameTH": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
+                "nameEN": "King Mongkut's University of Technology Thonburi ",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.6,
+                "PM25_aqi": 14,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.499077,
+                    13.76415
+                ]
+            },
+            "properties": {
+                "stationID": "bkp92t",
+                "nameTH": "สำนักงานเขตพระนคร",
+                "nameEN": "Phra Nakhon District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.7,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.579543,
+                    13.77682
+                ]
+            },
+            "properties": {
+                "stationID": "bkp93t",
+                "nameTH": "สำนักงานเขตห้วยขวาง",
+                "nameEN": "Huai Khwang District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.5,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.583747,
+                    13.708488
+                ]
+            },
+            "properties": {
+                "stationID": "bkp94t",
+                "nameTH": "สำนักงานเขตคลองเตย",
+                "nameEN": "Khlong Toei District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.2,
+                "PM25_aqi": 26,
+                "overall_aqi": 26,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.537883,
+                    13.809596
+                ]
+            },
+            "properties": {
+                "stationID": "bkp95t",
+                "nameTH": "สำนักงานเขตบางซื่อ",
+                "nameEN": "Bang Sue District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.7,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.607535,
+                    13.803587
+                ]
+            },
+            "properties": {
+                "stationID": "bkp96t",
+                "nameTH": "สำนักงานเขตลาดพร้าว",
+                "nameEN": "Ladphrao District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.1,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.579247,
+                    13.887395
+                ]
+            },
+            "properties": {
+                "stationID": "bkp97t",
+                "nameTH": "สำนักงานเขตหลักสี่",
+                "nameEN": "Lak Si District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.3,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.595839,
+                    13.873603
+                ]
+            },
+            "properties": {
+                "stationID": "bkp98t",
+                "nameTH": "สำนักงานเขตบางเขน",
+                "nameEN": "Bang Khen District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.7,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.685743,
+                    13.768892
+                ]
+            },
+            "properties": {
+                "stationID": "bkp99t",
+                "nameTH": "สำนักงานเขตสะพานสูง",
+                "nameEN": "Saphan Sung District Office, Bangkok",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.3,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
+                "stationType": "BKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.646009,
+                    13.779873
+                ]
+            },
+            "properties": {
+                "stationID": "o10",
+                "nameTH": "เคหะชุมชนคลองจั่น",
+                "nameEN": "National Housing Authority Klongchan",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.5,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.536195,
+                    14.022376
+                ]
+            },
+            "properties": {
+                "stationID": "79t",
+                "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
+                "nameEN": "Kanchanaburi Meteorological Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 19.4,
+                "PM25_aqi": 36,
+                "overall_aqi": 36,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.513,
+                    16.4436
+                ]
+            },
+            "properties": {
+                "stationID": "107t",
+                "nameTH": "สวนสาธารณะแก่งดอนกลาง",
+                "nameEN": "KAENG DON KLANG PARK",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.6,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.525425,
+                    16.475374
+                ]
+            },
+            "properties": {
+                "stationID": "94t",
+                "nameTH": "ลานอนุรักษ์วัฒนธรรมไทยสิริจิตอุทยาน",
+                "nameEN": "Sirichit Thai Cultural Conservation Ground",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 5.7,
+                "PM25_aqi": 10,
+                "overall_aqi": 10,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.83525,
+                    16.44538333
+                ]
+            },
+            "properties": {
+                "stationID": "46t",
+                "nameTH": "ส่วนอุทกวิทยา สำนักงานทรัพยากรน้ำภาคที่4 ขอนแก่น",
+                "nameEN": "Hydrogeological Group Water Resources Regional Office4 khonkaen",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 17.3,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.1040804,
+                    12.6095704
+                ]
+            },
+            "properties": {
+                "stationID": "100t",
+                "nameTH": "สถานีอุตุนิยมวิทยาจันทบุรี",
+                "nameEN": "Chanthaburi Meteorological Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.8,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.2863333,
+                    13.5885
+                ]
+            },
+            "properties": {
+                "stationID": "60t",
+                "nameTH": "สำนักงานเทศบาลตำบลทุ่งสะเดา",
+                "nameEN": "Municipality Office Tungsadao",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.5,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.91855,
+                    13.11923333
+                ]
+            },
+            "properties": {
+                "stationID": "32t",
+                "nameTH": "สนามกีฬาเทศบาลแหลมฉบัง ",
+                "nameEN": "Laem Chabang Municipal Stadium",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.3,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.098128,
+                    13.054551
+                ]
+            },
+            "properties": {
+                "stationID": "33t",
+                "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
+                "nameEN": "Health Promotion Hospital Bankhaohin",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 20.1,
+                "PM25_aqi": 38,
+                "overall_aqi": 38,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.9792167,
+                    13.35461667
+                ]
+            },
+            "properties": {
+                "stationID": "34t",
+                "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่ 13 ",
+                "nameEN": "Environment Agency Section 13, Chonburi",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 19.9,
+                "PM25_aqi": 38,
+                "overall_aqi": 38,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.132105,
+                    15.173475
+                ]
+            },
+            "properties": {
+                "stationID": "117t",
+                "nameTH": "สวนสาธารณะเฉลิมพระเกียรติ ร. 9",
+                "nameEN": "Chalermprakiat Rama IX Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.4,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.02281,
+                    15.81148
+                ]
+            },
+            "properties": {
+                "stationID": "108t",
+                "nameTH": "สนามกีฬาเทศบาลเมืองชัยภูมิ",
+                "nameEN": "Mueang Chaiyaphum Municipality Stadium",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.0,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.18935409512319,
+                    10.495142389105824
+                ]
+            },
+            "properties": {
+                "stationID": "118t",
+                "nameTH": "สนามกีฬา จ.ชุมพร",
+                "nameEN": "Sports Stadium, Chumphon Province",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 6.7,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.588743,
+                    7.570238
+                ]
+            },
+            "properties": {
+                "stationID": "93t",
+                "nameTH": "วิทยาลัยสารพัดช่างตรัง",
+                "nameEN": "Polytechnic College, Trang ",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.5,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.523721,
+                    12.234862
+                ]
+            },
+            "properties": {
+                "stationID": "87t",
+                "nameTH": "สนามกีฬากลางจังหวัดตราด",
+                "nameEN": "Trat Provincial Central Stadium",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.6,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.566961,
+                    16.734413
+                ]
+            },
+            "properties": {
+                "stationID": "76t",
+                "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
+                "nameEN": "Non-Formal Education Centre, Mea Sot",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.0,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.21509,
+                    14.20422
+                ]
+            },
+            "properties": {
+                "stationID": "105t",
+                "nameTH": "ศูนย์บริการสาธารณสุขเทศบาลเมืองนครนายก",
+                "nameEN": "Nakhon Nayok Municipality Public Health Service Center",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.8,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.057961,
+                    13.832076
+                ]
+            },
+            "properties": {
+                "stationID": "81t",
+                "nameTH": "อ่างเก็บน้ำประปา",
+                "nameEN": "Water reservoir",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.0,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.7786123,
+                    17.412345
+                ]
+            },
+            "properties": {
+                "stationID": "88t",
+                "nameTH": "สถานีอุตุนิยมวิทยานครพนม",
+                "nameEN": "Meteorological stations, Nakhon Phanom",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.2,
+                "PM25_aqi": 26,
+                "overall_aqi": 26,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.098335,
+                    14.979537
+                ]
+            },
+            "properties": {
+                "stationID": "47t",
+                "nameTH": "สถานีสูบน้ำประตูพลแสน",
+                "nameEN": "Municipal Waste Water Pumping Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.6,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.961469,
+                    8.426923
+                ]
+            },
+            "properties": {
+                "stationID": "89t",
+                "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
+                "nameEN": "Elderly Health Rehabilitation Center",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.2,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.110556,
+                    15.68623
+                ]
+            },
+            "properties": {
+                "stationID": "41t",
+                "nameTH": "โครงการชลประทานนครสวรรค์",
+                "nameEN": "Nakhonsawan Irrigation Project ",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.4,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.529444,
+                    13.852778
+                ]
+            },
+            "properties": {
+                "stationID": "13t",
+                "nameTH": "กรมควบคุมโรค",
+                "nameEN": "Department of Disease Control",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.0,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.535641,
+                    13.907861
+                ]
+            },
+            "properties": {
+                "stationID": "22t",
+                "nameTH": "มหาวิทยาลัยสุโขทัยธรรมาธิราช ",
+                "nameEN": "Sukhothai Thammathirat Open University",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.1,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.823388,
+                    6.426853
+                ]
+            },
+            "properties": {
+                "stationID": "62t",
+                "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
+                "nameEN": "City Hall, Narathiwat",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.3,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7763166,
+                    18.7888833
+                ]
+            },
+            "properties": {
+                "stationID": "67t",
+                "nameTH": "สำนักงานเทศบาลเมืองน่าน",
+                "nameEN": "Municipality Office, Nan",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 17.6,
+                "PM25_aqi": 32,
+                "overall_aqi": 32,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.0815166,
+                    19.5759666
+                ]
+            },
+            "properties": {
+                "stationID": "75t",
+                "nameTH": "โรงพยาบาลเฉลิมพระเกียรติ ",
+                "nameEN": "Chalermprakiet Hospital",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 6.1,
+                "PM25_aqi": 10,
+                "overall_aqi": 10,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.65977,
+                    18.362008
+                ]
+            },
+            "properties": {
+                "stationID": "106t",
+                "nameTH": "สวนสาธารณะหนองบึงกาฬ",
+                "nameEN": "Nong Bueng Kan Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 5.4,
+                "PM25_aqi": 9,
+                "overall_aqi": 9,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.105896,
+                    14.945452
+                ]
+            },
+            "properties": {
+                "stationID": "101t",
+                "nameTH": "ศาลากลางจังหวัดบุรีรัมย์",
+                "nameEN": "Buriram City Hall",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.8,
+                "PM25_aqi": 15,
+                "overall_aqi": 18,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.605216,
+                    14.03742
+                ]
+            },
+            "properties": {
+                "stationID": "20t",
+                "nameTH": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
+                "nameEN": "Bangkok University Rangsit Campus",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.3,
+                "PM25_aqi": 26,
+                "overall_aqi": 26,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.953663,
+                    12.577835
+                ]
+            },
+            "properties": {
+                "stationID": "103t",
+                "nameTH": " สถานีตรวจอากาศหัวหิน สถานีอุตุนิยมวิทยาประจวบคีรีขันธ์",
+                "nameEN": "Hua Hin Weather Station Prachuap Khiri Khan Meteorological Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.6,
+                "PM25_aqi": 13,
+                "overall_aqi": 17,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.590529,
+                    13.917563
+                ]
+            },
+            "properties": {
+                "stationID": "77t",
+                "nameTH": "ศาลาประชาคมบ้านบุยายใบ",
+                "nameEN": "Bu Yai Bai Hall Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 18.2,
+                "PM25_aqi": 34,
+                "overall_aqi": 34,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.250888,
+                    6.890637
+                ]
+            },
+            "properties": {
+                "stationID": "121t",
+                "nameTH": "ศูนย์ป่าไม้จังหวัดปัตตานี",
+                "nameEN": "Pattani Provincial Forestry Center",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.2,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.565325,
+                    14.35222
+                ]
+            },
+            "properties": {
+                "stationID": "21t",
+                "nameTH": "โรงเรียนอยุธยาวิทยาลัย",
+                "nameEN": "Ayutthaya Witthayalai School",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.0,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.893048,
+                    19.200226
+                ]
+            },
+            "properties": {
+                "stationID": "70t",
+                "nameTH": "สนามกีฬาจังหวัดพะเยา",
+                "nameEN": "Phayao Provincial, Phayao",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.6,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.0480234,
+                    7.6156514
+                ]
+            },
+            "properties": {
+                "stationID": "120t",
+                "nameTH": "สนามกีฬากลางจังหวัดพัทลุง",
+                "nameEN": "Phatthalung Provincial Stadium",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.1,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.322756,
+                    16.442554
+                ]
+            },
+            "properties": {
+                "stationID": "95t",
+                "nameTH": "สนามกีฬาจังหวัดพิจิตร",
+                "nameEN": " Phichit Provincial , Phichit",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 5.1,
+                "PM25_aqi": 9,
+                "overall_aqi": 9,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.258056,
+                    16.820833
+                ]
+            },
+            "properties": {
+                "stationID": "86t",
+                "nameTH": "สวนชมน่านเฉลิมพระเกียรติ",
+                "nameEN": "Chom Nan Chaloem Phrakiat Public Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 5.3,
+                "PM25_aqi": 9,
+                "overall_aqi": 9,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.391283,
+                    7.884488
+                ]
+            },
+            "properties": {
+                "stationID": "43t",
+                "nameTH": "ศูนย์บริการสาธารณสุขเทศบาลภูเก็ต",
+                "nameEN": "Municipal Health Center",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.7,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.299824,
+                    16.177283
+                ]
+            },
+            "properties": {
+                "stationID": "114t",
+                "nameTH": "สวนสุขภาพประมวลสุข",
+                "nameEN": "Pramuan Suk Health Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.7,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.7192,
+                    16.54257
+                ]
+            },
+            "properties": {
+                "stationID": "102t",
+                "nameTH": "สนามกีฬากลางจังหวัดมุกดาหาร",
+                "nameEN": "Mukdahan Provincial Stadium",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 13.8,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.283137,
+                    6.546205
+                ]
+            },
+            "properties": {
+                "stationID": "63t",
+                "nameTH": "สนามโรงพิธีช้างเผือก ",
+                "nameEN": "White Elephant Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.1,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.067903,
+                    5.763873
+                ]
+            },
+            "properties": {
+                "stationID": "78t",
+                "nameTH": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
+                "nameEN": "child development centers, Betong",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.7,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.154639,
+                    15.783861
+                ]
+            },
+            "properties": {
+                "stationID": "109t",
+                "nameTH": "สวนสาธารณะพญาแถน",
+                "nameEN": "Phaya Thaen Public Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 6.5,
+                "PM25_aqi": 11,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.21285,
+                    12.97378333
+                ]
+            },
+            "properties": {
+                "stationID": "28t",
+                "nameTH": "สำนักงานสาธารณสุขอำเภอปลวกแดง",
+                "nameEN": "Pluakdaeng District Health Office",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.6,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.1659833,
+                    12.70865
+                ]
+            },
+            "properties": {
+                "stationID": "29t",
+                "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลมาบตาพุด ",
+                "nameEN": "Health Promotion Hospital Maptaput",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 40.9,
+                "PM25_aqi": 110,
+                "overall_aqi": 110,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.234664,
+                    12.678917
+                ]
+            },
+            "properties": {
+                "stationID": "30t",
+                "nameTH": "สนามกีฬากลางจังหวัดระยอง",
+                "nameEN": "Rayong Provincial Stadium",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.6,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.13565,
+                    12.73518333
+                ]
+            },
+            "properties": {
+                "stationID": "31t",
+                "nameTH": "ศูนย์วิจัยพืชไร่ระยอง ",
+                "nameEN": "Field Crop Research Center, Rayong",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.3,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.18055,
+                    12.7066
+                ]
+            },
+            "properties": {
+                "stationID": "74t",
+                "nameTH": "ศูนย์ราชการจังหวัดระยอง ",
+                "nameEN": "Government Complex, Rayong",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.1,
+                "PM25_aqi": 20,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.32245,
+                    12.648576
+                ]
+            },
+            "properties": {
+                "stationID": "o38",
+                "nameTH": "ค่ายสุรสิงหนาท",
+                "nameEN": "Khai Surasinghanat",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.5,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "MOBILE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.814082,
+                    13.52344
+                ]
+            },
+            "properties": {
+                "stationID": "26t",
+                "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่8",
+                "nameEN": "Environmental Office 8 ratchaburi",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.1,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.651056,
+                    16.057448
+                ]
+            },
+            "properties": {
+                "stationID": "113t",
+                "nameTH": "บึงพลาญชัย",
+                "nameEN": "Bueng Planchai",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.8,
+                "PM25_aqi": 13,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.628548,
+                    14.800032
+                ]
+            },
+            "properties": {
+                "stationID": "99t",
+                "nameTH": "สถานีอุตุนิยมวิทยาลพบุรี",
+                "nameEN": " Meteorological Station Lopburi",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.7,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.5064666,
+                    18.2783333
+                ]
+            },
+            "properties": {
+                "stationID": "37t",
+                "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
+                "nameEN": "Meteorological stations, Lampang",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.7,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.76395,
+                    18.2508166
+                ]
+            },
+            "properties": {
+                "stationID": "38t",
+                "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
+                "nameEN": "Health Promotion Hospital Sob Pad, Lampang",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.4,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.7576333,
+                    18.4267833
+                ]
+            },
+            "properties": {
+                "stationID": "39t",
+                "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
+                "nameEN": "Health Promotion Hospital Banthasri",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.2,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.6598166,
+                    18.2826333
+                ]
+            },
+            "properties": {
+                "stationID": "40t",
+                "nameTH": "การประปาส่วนภูมิภาคแม่เมาะ",
+                "nameEN": "Provincial Waterworks Authority Mae Moh",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.5,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.038639,
+                    18.567194
+                ]
+            },
+            "properties": {
+                "stationID": "68t",
+                "nameTH": "อุตุนิยมวิทยาลำพูน",
+                "nameEN": "Meteorological Staions, Lamphun",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.8,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.326787,
+                    15.087087
+                ]
+            },
+            "properties": {
+                "stationID": "112t",
+                "nameTH": "สถานีอุตุนิยมวิทยาศรีสะเกษ",
+                "nameEN": "Sisaket Meteorological Center",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.7,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.133216,
+                    17.15662
+                ]
+            },
+            "properties": {
+                "stationID": "90t",
+                "nameTH": "สถานีอุตุนิยมวิทยาสกลนคร",
+                "nameEN": "Meteorological stations, Sakon Nakhon",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.3,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.484088,
+                    7.020434
+                ]
+            },
+            "properties": {
+                "stationID": "44t",
+                "nameTH": "เทศบาลนครหาดใหญ่ ",
+                "nameEN": "Hat Yai Municipality",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.3,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.32726914385205,
+                    6.66638438023621
+                ]
+            },
+            "properties": {
+                "stationID": "o28",
+                "nameTH": "โรงเรียนชุมชนบ้านปาดังเบซาร์",
+                "nameEN": "Chumchon Banpadang School",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.7,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "MOBILE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.066159,
+                    6.624747
+                ]
+            },
+            "properties": {
+                "stationID": "80t",
+                "nameTH": "ศาลากลาง จ.สตูล",
+                "nameEN": "City Hall, Satun",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.5,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.543436,
+                    13.664087
+                ]
+            },
+            "properties": {
+                "stationID": "08t",
+                "nameTH": "ศูนย์ฟื้นฟูอาชีพคนพิการและทุพลภาพ ",
+                "nameEN": "Prabadang Rehabiltation Center",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 16.4,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.5562,
+                    13.618
+                ]
+            },
+            "properties": {
+                "stationID": "16t",
+                "nameTH": "โรงไฟฟ้าพระนครใต้ ",
+                "nameEN": "South Bangkok Power Plant",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.8,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.531805,
+                    13.652141
+                ]
+            },
+            "properties": {
+                "stationID": "17t",
+                "nameTH": "บ้านพักกรมอุตสาหกรรมพื้นฐานและการเหมืองแร่",
+                "nameEN": "Residence for Dept. of Mineral Resources",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 15.4,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.597345,
+                    13.599149
+                ]
+            },
+            "properties": {
+                "stationID": "18t",
+                "nameTH": "ศาลากลางจังหวัดสมุทรปราการ ",
+                "nameEN": "City Hall, Samut Prakan",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 20.3,
+                "PM25_aqi": 39,
+                "overall_aqi": 39,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.7862867,
+                    13.5705
+                ]
+            },
+            "properties": {
+                "stationID": "19t",
+                "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
+                "nameEN": "National Housing Authority Bangplee",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 14.3,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.024664,
+                    13.428581
+                ]
+            },
+            "properties": {
+                "stationID": "84t",
+                "nameTH": "สำนักงานสาธารณสุขจังหวัดสมุทรสงคราม",
+                "nameEN": "Samut Songkhram Health Office",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.7,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.315622,
+                    13.7054879
+                ]
+            },
+            "properties": {
+                "stationID": "14t",
+                "nameTH": "แขวงการทางสมุทรสาคร ",
+                "nameEN": "Highway District",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.8,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.2647676,
+                    13.5502631
+                ]
+            },
+            "properties": {
+                "stationID": "27t",
+                "nameTH": "โรงเรียนสมุทรสาครวิทยาลัย",
+                "nameEN": "Samut Sakhon Wittayalai School",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.2,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.871996,
+                    14.685833
+                ]
+            },
+            "properties": {
+                "stationID": "24t",
+                "nameTH": "สถานีตำรวจภูธรตำบลหน้าพระลาน ",
+                "nameEN": "Na Phralan Police Station ",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 19.4,
+                "PM25_aqi": 36,
+                "overall_aqi": 51,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.926047,
+                    14.526343
+                ]
+            },
+            "properties": {
+                "stationID": "25t",
+                "nameTH": "สถานีดับเพลิงพระลักษณ์",
+                "nameEN": "Khao Noi Fire Station",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.0,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.510442,
+                    13.691047
+                ]
+            },
+            "properties": {
+                "stationID": "71t",
+                "nameTH": "สวนกาญจนาภิเษก ร.9 (ฝั่งสวนหิน)",
+                "nameEN": "Kanjanapisek Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.0,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.4130773,
+                    14.8933874
+                ]
+            },
+            "properties": {
+                "stationID": "104t",
+                "nameTH": "โรงเรียนสิงห์บุรี",
+                "nameEN": "SINGBURI SCHOOL",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.0,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.086095,
+                    14.476214
+                ]
+            },
+            "properties": {
+                "stationID": "85t",
+                "nameTH": "สนามกีฬากลางจังหวัดสุพรรณบุรี",
+                "nameEN": "Suphan Buri Provincial Central Stadium",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.4,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.325145,
+                    9.126017
+                ]
+            },
+            "properties": {
+                "stationID": "42t",
+                "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่ 14",
+                "nameEN": "Environment Agency Section 14, Surat Thani",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.4,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.4965833,
+                    14.8762222
+                ]
+            },
+            "properties": {
+                "stationID": "111t",
+                "nameTH": "สถานีอุตุนิยมวิทยาสุรินทร์",
+                "nameEN": "Surin Meteorological Center",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.3,
+                "PM25_aqi": 12,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.81927,
+                    17.006059
+                ]
+            },
+            "properties": {
+                "stationID": "96t",
+                "nameTH": "สวนสาธารณะ ชุมชนเลอไทย",
+                "nameEN": "Le Thai Community Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 5.2,
+                "PM25_aqi": 9,
+                "overall_aqi": 9,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.728925,
+                    17.87748
+                ]
+            },
+            "properties": {
+                "stationID": "82t",
+                "nameTH": "สวนสาธารณะหนองถิ่น",
+                "nameEN": "Nong Thin Public Park, Nong Khai",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 17.7,
+                "PM25_aqi": 32,
+                "overall_aqi": 32,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.4585009,
+                    17.193824
+                ]
+            },
+            "properties": {
+                "stationID": "115t",
+                "nameTH": "องค์การริหารส่วนจังหวัดหนองบัวลำภู",
+                "nameEN": "Nong Bua Lamphu Provincial Administrative Organization ",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 7.7,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.6223,
+                    15.8758
+                ]
+            },
+            "properties": {
+                "stationID": "110t",
+                "nameTH": "สำนักงานเทศบาลเมืองอำนาจเจริญ",
+                "nameEN": "Amnat Charoen Municipality",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.7,
+                "PM25_aqi": 15,
+                "overall_aqi": 17,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.780926,
+                    17.414174
+                ]
+            },
+            "properties": {
+                "stationID": "91t",
+                "nameTH": "สวนสาธารณะหนองประจักษ์ อุดรธานี",
+                "nameEN": "Nong Prajak Public Park, Udon Thani",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.1,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.09896,
+                    17.631352
+                ]
+            },
+            "properties": {
+                "stationID": "92t",
+                "nameTH": "สวนมหามงคลเฉลิมพระชนมพรรษา 6 รอบ 5 ธันวาคม 2552 อุตรดิตถ์",
+                "nameEN": "72nd Anniversary King Bhumibol Public Park, Uttaradit",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.1,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.024992,
+                    15.384667
+                ]
+            },
+            "properties": {
+                "stationID": "98t",
+                "nameTH": "สถานีสวนเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เฉลิมพระชนมพรรษา 80 พรรษา",
+                "nameEN": "Chaloem Phrakiat Park Station 80th birthday celebration",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 10.7,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.846219,
+                    15.245413
+                ]
+            },
+            "properties": {
+                "stationID": "83t",
+                "nameTH": "ศูนย์แสดงและจำหน่ายสินค้า OTOP จังหวัดอุบลราชธานี",
+                "nameEN": "OTOP Center, Ubon Ratchathani",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.2,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.453589,
+                    14.606306
+                ]
+            },
+            "properties": {
+                "stationID": "116t",
+                "nameTH": " สวนน้ำเฉลิมพระเกียรติ ",
+                "nameEN": "Chaloem Phra Kiat Water Park",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 4.0,
+                "PM25_aqi": 7,
+                "overall_aqi": 11,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.823467,
+                    19.909217
+                ]
+            },
+            "properties": {
+                "stationID": "57t",
+                "nameTH": "สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดเชียงราย",
+                "nameEN": "Natural Resources and Environment Office, Chiangrai",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 5.2,
+                "PM25_aqi": 9,
+                "overall_aqi": 12,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.883842,
+                    20.427325
+                ]
+            },
+            "properties": {
+                "stationID": "73t",
+                "nameTH": "สำนักงานสาธารณสุขแม่สาย",
+                "nameEN": "Maesai Health Office",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 11.8,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.96978,
+                    18.840732
+                ]
+            },
+            "properties": {
+                "stationID": "35t",
+                "nameTH": "ศูนย์ราชการจังหวัดเชียงใหม่ ",
+                "nameEN": "City Hall, Chiangmai",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 12.6,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.99,
+                    18.7909333
+                ]
+            },
+            "properties": {
+                "stationID": "36t",
+                "nameTH": "โรงเรียนยุพราชวิทยาลัย ",
+                "nameEN": "Yupparaj Wittayalai School",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.5,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.9461325,
+                    13.11249031
+                ]
+            },
+            "properties": {
+                "stationID": "o72",
+                "nameTH": "สำนักงานเทศบาลเมืองเพชรบุรี ",
+                "nameEN": "Phetchaburi Municipality",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.9,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
+                "stationType": "MOBILE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.156556,
+                    16.418417
+                ]
+            },
+            "properties": {
+                "stationID": "97t",
+                "nameTH": "สวนเพชบุระ",
+                "nameEN": "Phetbura garden",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 9.4,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.732734,
+                    17.48462
+                ]
+            },
+            "properties": {
+                "stationID": "72t",
+                "nameTH": "สวนสาธารณะเฉลิมพระเกียรติ 60 พรรษามหาราชินี จังหวัดเลย",
+                "nameEN": "60th Anniversary Queen Sirikit Public Park, Loei",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 6.8,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.1624333,
+                    18.1283666
+                ]
+            },
+            "properties": {
+                "stationID": "69t",
+                "nameTH": "อุตุนิยมวิทยาจังหวัดแพร่",
+                "nameEN": "Meteorology Center, Phrae",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 8.5,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
+                "stationType": "GROUND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.97165,
+                    19.30455
+                ]
+            },
+            "properties": {
+                "stationID": "58t",
+                "nameTH": "สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน",
+                "nameEN": "Natural Resources and Environment Office, Mae Hongson",
+                "last_updated": "2026-06-18 03:12:40",
+                "PM25_value": 5.9,
+                "PM25_aqi": 10,
+                "overall_aqi": 10,
+                "stationType": "GROUND"
+            }
+        }
+    ]
+}
