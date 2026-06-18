@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 def fetch_air_quality_to_geojson():
     url = "http://air4thai.pcd.go.th/services/getNewAQI_JSON.php"
@@ -11,14 +11,19 @@ def fetch_air_quality_to_geojson():
         if response.status_code == 200:
             raw_data = response.json()
             
-            # โครงสร้าง GeoJSON
+            # คำนวณเวลาไทย (UTC+7) สำหรับ Metadata ของไฟล์
+            time_th_now = datetime.utcnow() + timedelta(hours=7)
+            
             geojson = {
                 "type": "FeatureCollection",
+                "metadata": {
+                    "last_updated_utc": datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'),
+                    "last_updated_thai": time_th_now.strftime('%Y-%m-%d %H:%M:%S')
+                },
                 "features": []
             }
 
             for station in raw_data.get('stations', []):
-                # ข้ามสถานีที่ไม่มีพิกัด
                 if not station.get('lat') or not station.get('long'):
                     continue
                 
@@ -35,7 +40,9 @@ def fetch_air_quality_to_geojson():
                         "stationID": station.get('stationID'),
                         "nameTH": station.get('nameTH'),
                         "nameEN": station.get('nameEN'),
-                        "last_updated": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                        # เพิ่มช่องเวลาไทยโดยเฉพาะ (แปลงจาก string ใน API)
+                        "time_th": aqi_info.get('time'), # ของเดิมเป็นเวลาไทยจาก API อยู่แล้ว
+                        "date_th": aqi_info.get('date'),
                         "PM25_value": float(aqi_info.get("PM25", {}).get("value", -1)),
                         "PM25_aqi": int(aqi_info.get("PM25", {}).get("aqi", -1)),
                         "overall_aqi": int(aqi_info.get("AQI", {}).get("aqi", -1)),
@@ -44,12 +51,10 @@ def fetch_air_quality_to_geojson():
                 }
                 geojson["features"].append(feature)
             
-            # บันทึกเป็นไฟล์ .geojson
-            output_file = "air_quality.geojson"
-            with open(output_file, "w", encoding="utf-8") as f:
+            with open("air_quality.geojson", "w", encoding="utf-8") as f:
                 json.dump(geojson, f, ensure_ascii=False, indent=4)
             
-            print(f"[+] สร้างไฟล์ {output_file} สำเร็จ!")
+            print(f"[+] สร้างไฟล์ air_quality.geojson พร้อมเวลาไทยเรียบร้อยแล้ว!")
             return True
     except Exception as e:
         print(f"[-] เกิดข้อผิดพลาด: {e}")
