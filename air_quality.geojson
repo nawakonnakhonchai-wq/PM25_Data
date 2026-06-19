@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-19 05:30:25"
+        "last_updated_thai": "2026-06-19 06:00:27"
     },
     "features": [
         {
@@ -1897,10 +1897,10 @@
             "properties": {
                 "stationID": "89t",
                 "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
-                "timestamp": "2026-06-19 11:00:00",
-                "PM25_value": 7.4,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "timestamp": "2026-06-19 12:00:00",
+                "PM25_value": 7.5,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "GROUND"
             }
         },
@@ -1973,7 +1973,7 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-19 09:00:00",
+                "timestamp": "2026-06-19 12:00:00",
                 "PM25_value": 7.3,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
@@ -2296,7 +2296,7 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-06-19 09:00:00",
+                "timestamp": "2026-06-19 12:00:00",
                 "PM25_value": 7.2,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
@@ -2315,8 +2315,8 @@
             "properties": {
                 "stationID": "78t",
                 "nameTH": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
-                "timestamp": "2026-06-19 09:00:00",
-                "PM25_value": 6.9,
+                "timestamp": "2026-06-19 12:00:00",
+                "PM25_value": 7.0,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
