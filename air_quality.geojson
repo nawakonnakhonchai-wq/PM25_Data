@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-19 08:30:27"
+        "last_updated_thai": "2026-06-19 09:00:32"
     },
     "features": [
         {
@@ -2372,10 +2372,10 @@
             "properties": {
                 "stationID": "29t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลมาบตาพุด ",
-                "timestamp": "2026-06-19 14:00:00",
-                "PM25_value": 31.0,
-                "PM25_aqi": 74,
-                "overall_aqi": 74,
+                "timestamp": "2026-06-19 15:00:00",
+                "PM25_value": 30.0,
+                "PM25_aqi": 70,
+                "overall_aqi": 70,
                 "stationType": "GROUND"
             }
         },
@@ -2771,10 +2771,10 @@
             "properties": {
                 "stationID": "18t",
                 "nameTH": "ศาลากลางจังหวัดสมุทรปราการ ",
-                "timestamp": "2026-06-19 14:00:00",
-                "PM25_value": 25.5,
-                "PM25_aqi": 53,
-                "overall_aqi": 53,
+                "timestamp": "2026-06-19 15:00:00",
+                "PM25_value": 25.4,
+                "PM25_aqi": 52,
+                "overall_aqi": 52,
                 "stationType": "GROUND"
             }
         },
