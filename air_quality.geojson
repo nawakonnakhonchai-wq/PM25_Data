@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 07:30:28"
+        "last_updated_thai": "2026-06-20 07:41:17"
     },
     "features": [
         {
@@ -54,10 +54,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-06-20 12:00:00",
-                "PM25_value": 15.1,
-                "PM25_aqi": 26,
-                "overall_aqi": 26,
+                "timestamp": "2026-06-20 14:00:00",
+                "PM25_value": 15.7,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
                 "stationType": "GROUND"
             }
         },
@@ -73,8 +73,8 @@
             "properties": {
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
-                "timestamp": "2026-06-20 12:00:00",
-                "PM25_value": 12.4,
+                "timestamp": "2026-06-20 14:00:00",
+                "PM25_value": 12.8,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -92,8 +92,8 @@
             "properties": {
                 "stationID": "12t",
                 "nameTH": "โรงเรียนนนทรีวิทยา ",
-                "timestamp": "2026-06-20 12:00:00",
-                "PM25_value": 12.3,
+                "timestamp": "2026-06-20 14:00:00",
+                "PM25_value": 12.8,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -1442,9 +1442,9 @@
                 "stationID": "bkp96t",
                 "nameTH": "สำนักงานเขตลาดพร้าว",
                 "timestamp": "2026-06-20 14:00:00",
-                "PM25_value": 12.3,
-                "PM25_aqi": 21,
-                "overall_aqi": 21,
+                "PM25_value": 13.0,
+                "PM25_aqi": 22,
+                "overall_aqi": 22,
                 "stationType": "BKK"
             }
         },
@@ -2068,10 +2068,10 @@
             "properties": {
                 "stationID": "20t",
                 "nameTH": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
-                "timestamp": "2026-06-20 13:00:00",
-                "PM25_value": 14.8,
-                "PM25_aqi": 25,
-                "overall_aqi": 48,
+                "timestamp": "2026-06-20 14:00:00",
+                "PM25_value": 14.4,
+                "PM25_aqi": 24,
+                "overall_aqi": 54,
                 "stationType": "GROUND"
             }
         },
@@ -2771,7 +2771,7 @@
             "properties": {
                 "stationID": "18t",
                 "nameTH": "ศาลากลางจังหวัดสมุทรปราการ ",
-                "timestamp": "2026-06-20 13:00:00",
+                "timestamp": "2026-06-20 14:00:00",
                 "PM25_value": 24.9,
                 "PM25_aqi": 50,
                 "overall_aqi": 50,
