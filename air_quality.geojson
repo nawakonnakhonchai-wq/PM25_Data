@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 05:30:36"
+        "last_updated_thai": "2026-06-20 06:00:50"
     },
     "features": [
         {
@@ -1897,7 +1897,7 @@
             "properties": {
                 "stationID": "89t",
                 "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
-                "timestamp": "2026-06-20 11:00:00",
+                "timestamp": "2026-06-20 12:00:00",
                 "PM25_value": 6.6,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
