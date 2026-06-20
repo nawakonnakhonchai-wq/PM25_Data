@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 10:30:29"
+        "last_updated_thai": "2026-06-20 11:00:32"
     },
     "features": [
         {
@@ -54,10 +54,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-06-20 15:00:00",
-                "PM25_value": 15.9,
-                "PM25_aqi": 28,
-                "overall_aqi": 28,
+                "timestamp": "2026-06-20 17:00:00",
+                "PM25_value": 16.6,
+                "PM25_aqi": 30,
+                "overall_aqi": 30,
                 "stationType": "GROUND"
             }
         },
@@ -73,10 +73,10 @@
             "properties": {
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
-                "timestamp": "2026-06-20 15:00:00",
-                "PM25_value": 13.0,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "timestamp": "2026-06-20 17:00:00",
+                "PM25_value": 13.5,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -92,10 +92,10 @@
             "properties": {
                 "stationID": "12t",
                 "nameTH": "โรงเรียนนนทรีวิทยา ",
-                "timestamp": "2026-06-20 15:00:00",
-                "PM25_value": 12.9,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "timestamp": "2026-06-20 17:00:00",
+                "PM25_value": 13.5,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -131,7 +131,7 @@
                 "stationID": "52t",
                 "nameTH": "การไฟฟ้าย่อยธนบุรี ",
                 "timestamp": "2026-06-20 17:00:00",
-                "PM25_value": 16.2,
+                "PM25_value": 16.4,
                 "PM25_aqi": 29,
                 "overall_aqi": 29,
                 "stationType": "GROUND"
@@ -150,9 +150,9 @@
                 "stationID": "53t",
                 "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
                 "timestamp": "2026-06-20 17:00:00",
-                "PM25_value": 15.7,
-                "PM25_aqi": 27,
-                "overall_aqi": 27,
+                "PM25_value": 16.3,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "GROUND"
             }
         },
@@ -168,10 +168,10 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-06-20 15:00:00",
-                "PM25_value": 16.4,
-                "PM25_aqi": 29,
-                "overall_aqi": 29,
+                "timestamp": "2026-06-20 17:00:00",
+                "PM25_value": 17.1,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
                 "stationType": "GROUND"
             }
         },
@@ -188,8 +188,8 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-06-20 17:00:00",
-                "PM25_value": 9.2,
-                "PM25_aqi": 15,
+                "PM25_value": 10.0,
+                "PM25_aqi": 17,
                 "overall_aqi": 22,
                 "stationType": "GROUND"
             }
@@ -2012,9 +2012,9 @@
                 "stationID": "75t",
                 "nameTH": "โรงพยาบาลเฉลิมพระเกียรติ ",
                 "timestamp": "2026-06-20 17:00:00",
-                "PM25_value": 11.7,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "PM25_value": 11.6,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
