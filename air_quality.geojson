@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 14:30:30"
+        "last_updated_thai": "2026-06-20 14:58:37"
     },
     "features": [
         {
@@ -1669,8 +1669,8 @@
             "properties": {
                 "stationID": "33t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
-                "timestamp": "2026-06-20 20:00:00",
-                "PM25_value": 18.0,
+                "timestamp": "2026-06-20 21:00:00",
+                "PM25_value": 17.8,
                 "PM25_aqi": 33,
                 "overall_aqi": 33,
                 "stationType": "GROUND"
@@ -2372,10 +2372,10 @@
             "properties": {
                 "stationID": "29t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลมาบตาพุด ",
-                "timestamp": "2026-06-20 20:00:00",
-                "PM25_value": 31.5,
-                "PM25_aqi": 76,
-                "overall_aqi": 76,
+                "timestamp": "2026-06-20 21:00:00",
+                "PM25_value": 30.6,
+                "PM25_aqi": 73,
+                "overall_aqi": 73,
                 "stationType": "GROUND"
             }
         },
@@ -3304,7 +3304,7 @@
                 "stationID": "69t",
                 "nameTH": "อุตุนิยมวิทยาจังหวัดแพร่",
                 "timestamp": "2026-06-20 21:00:00",
-                "PM25_value": 11.4,
+                "PM25_value": 11.3,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "GROUND"
