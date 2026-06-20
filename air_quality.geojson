@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 12:30:30"
+        "last_updated_thai": "2026-06-20 13:00:29"
     },
     "features": [
         {
@@ -111,8 +111,8 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-06-20 18:00:00",
-                "PM25_value": 16.7,
+                "timestamp": "2026-06-20 19:00:00",
+                "PM25_value": 16.9,
                 "PM25_aqi": 30,
                 "overall_aqi": 30,
                 "stationType": "GROUND"
@@ -1575,7 +1575,7 @@
                 "stationID": "94t",
                 "nameTH": "ลานอนุรักษ์วัฒนธรรมไทยสิริจิตอุทยาน",
                 "timestamp": "2026-06-20 19:00:00",
-                "PM25_value": 9.5,
+                "PM25_value": 9.7,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "GROUND"
@@ -1802,10 +1802,10 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-06-20 18:00:00",
-                "PM25_value": 11.0,
-                "PM25_aqi": 18,
-                "overall_aqi": 18,
+                "timestamp": "2026-06-20 19:00:00",
+                "PM25_value": 11.1,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
@@ -1916,8 +1916,8 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-06-20 18:00:00",
-                "PM25_value": 10.6,
+                "timestamp": "2026-06-20 19:00:00",
+                "PM25_value": 10.7,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
                 "stationType": "GROUND"
@@ -2524,8 +2524,8 @@
             "properties": {
                 "stationID": "37t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
-                "timestamp": "2026-06-20 18:00:00",
-                "PM25_value": 12.0,
+                "timestamp": "2026-06-20 19:00:00",
+                "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
@@ -2543,8 +2543,8 @@
             "properties": {
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
-                "timestamp": "2026-06-20 18:00:00",
-                "PM25_value": 11.5,
+                "timestamp": "2026-06-20 19:00:00",
+                "PM25_value": 11.4,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "GROUND"
@@ -2562,8 +2562,8 @@
             "properties": {
                 "stationID": "39t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
-                "timestamp": "2026-06-20 18:00:00",
-                "PM25_value": 11.5,
+                "timestamp": "2026-06-20 19:00:00",
+                "PM25_value": 11.4,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "GROUND"
@@ -2582,9 +2582,9 @@
                 "stationID": "40t",
                 "nameTH": "การประปาส่วนภูมิภาคแม่เมาะ",
                 "timestamp": "2026-06-20 19:00:00",
-                "PM25_value": 11.8,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "PM25_value": 11.6,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
@@ -3322,7 +3322,7 @@
             "properties": {
                 "stationID": "58t",
                 "nameTH": "สำนักงานทรัพยากรธรรมชาติและสิ่งแวดล้อมจังหวัดแม่ฮ่องสอน",
-                "timestamp": "2026-06-20 18:00:00",
+                "timestamp": "2026-06-20 19:00:00",
                 "PM25_value": 7.3,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
