@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 03:30:31"
+        "last_updated_thai": "2026-06-20 04:00:32"
     },
     "features": [
         {
@@ -1385,7 +1385,7 @@
                 "stationID": "bkp93t",
                 "nameTH": "สำนักงานเขตห้วยขวาง",
                 "timestamp": "2026-06-20 10:00:00",
-                "PM25_value": 9.6,
+                "PM25_value": 9.8,
                 "PM25_aqi": 16,
                 "overall_aqi": 21,
                 "stationType": "BKK"
@@ -1536,7 +1536,7 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-06-20 09:00:00",
+                "timestamp": "2026-06-20 10:00:00",
                 "PM25_value": 18.3,
                 "PM25_aqi": 34,
                 "overall_aqi": 34,
