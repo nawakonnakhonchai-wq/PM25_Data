@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 19:30:28"
+        "last_updated_thai": "2026-06-20 20:00:30"
     },
     "features": [
         {
@@ -1536,10 +1536,10 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-06-21 01:00:00",
-                "PM25_value": 17.2,
-                "PM25_aqi": 31,
-                "overall_aqi": 31,
+                "timestamp": "2026-06-21 02:00:00",
+                "PM25_value": 16.7,
+                "PM25_aqi": 30,
+                "overall_aqi": 30,
                 "stationType": "GROUND"
             }
         },
@@ -1669,7 +1669,7 @@
             "properties": {
                 "stationID": "33t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
-                "timestamp": "2026-06-21 01:00:00",
+                "timestamp": "2026-06-21 02:00:00",
                 "PM25_value": 18.7,
                 "PM25_aqi": 35,
                 "overall_aqi": 35,
