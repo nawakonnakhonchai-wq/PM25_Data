@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-20 23:30:25"
+        "last_updated_thai": "2026-06-21 00:00:31"
     },
     "features": [
         {
@@ -168,8 +168,8 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-06-21 05:00:00",
-                "PM25_value": 17.5,
+                "timestamp": "2026-06-21 06:00:00",
+                "PM25_value": 17.6,
                 "PM25_aqi": 32,
                 "overall_aqi": 32,
                 "stationType": "GROUND"
@@ -1973,8 +1973,8 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-20 23:00:00",
-                "PM25_value": 6.7,
+                "timestamp": "2026-06-21 06:00:00",
+                "PM25_value": 6.8,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
@@ -2296,8 +2296,8 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-06-20 23:00:00",
-                "PM25_value": 6.5,
+                "timestamp": "2026-06-21 06:00:00",
+                "PM25_value": 6.6,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
