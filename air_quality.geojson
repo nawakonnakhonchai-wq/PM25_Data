@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-21 15:44:59"
+        "last_updated_thai": "2026-06-21 16:00:30"
     },
     "features": [
         {
@@ -36,7 +36,7 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-06-21 22:00:00",
-                "PM25_value": 9.6,
+                "PM25_value": 9.7,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "GROUND"
@@ -111,10 +111,10 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-06-21 21:00:00",
-                "PM25_value": 13.0,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "timestamp": "2026-06-21 22:00:00",
+                "PM25_value": 12.8,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
                 "stationType": "GROUND"
             }
         },
@@ -131,7 +131,7 @@
                 "stationID": "52t",
                 "nameTH": "การไฟฟ้าย่อยธนบุรี ",
                 "timestamp": "2026-06-21 22:00:00",
-                "PM25_value": 12.7,
+                "PM25_value": 12.8,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -150,9 +150,9 @@
                 "stationID": "53t",
                 "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
                 "timestamp": "2026-06-21 22:00:00",
-                "PM25_value": 11.6,
-                "PM25_aqi": 19,
-                "overall_aqi": 19,
+                "PM25_value": 12.0,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
                 "stationType": "GROUND"
             }
         },
@@ -188,7 +188,7 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-06-21 22:00:00",
-                "PM25_value": 8.1,
+                "PM25_value": 8.6,
                 "PM25_aqi": 14,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -1802,8 +1802,8 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-06-21 17:00:00",
-                "PM25_value": 10.4,
+                "timestamp": "2026-06-21 22:00:00",
+                "PM25_value": 10.1,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -1916,10 +1916,10 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-06-21 17:00:00",
-                "PM25_value": 9.9,
-                "PM25_aqi": 17,
-                "overall_aqi": 17,
+                "timestamp": "2026-06-21 22:00:00",
+                "PM25_value": 9.6,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
                 "stationType": "GROUND"
             }
         },
