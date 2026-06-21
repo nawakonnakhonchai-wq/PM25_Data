@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-21 16:30:25"
+        "last_updated_thai": "2026-06-21 17:00:33"
     },
     "features": [
         {
@@ -1973,8 +1973,8 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-21 17:00:00",
-                "PM25_value": 6.8,
+                "timestamp": "2026-06-21 23:00:00",
+                "PM25_value": 6.7,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
@@ -2296,8 +2296,8 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-06-21 17:00:00",
-                "PM25_value": 6.7,
+                "timestamp": "2026-06-21 23:00:00",
+                "PM25_value": 6.5,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
