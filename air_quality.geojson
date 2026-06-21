@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-21 09:30:27"
+        "last_updated_thai": "2026-06-21 10:00:32"
     },
     "features": [
         {
@@ -339,8 +339,8 @@
             "properties": {
                 "stationID": "bkp114t",
                 "nameTH": "สวนลุมพินี ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน",
-                "timestamp": "2026-06-21 14:00:00",
-                "PM25_value": 6.9,
+                "timestamp": "2026-06-21 16:00:00",
+                "PM25_value": 7.1,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "BKK"
@@ -814,10 +814,10 @@
             "properties": {
                 "stationID": "bkp62t",
                 "nameTH": "วงเวียนโอเดียน",
-                "timestamp": "2026-06-21 06:00:00",
-                "PM25_value": 20.1,
-                "PM25_aqi": 38,
-                "overall_aqi": 38,
+                "timestamp": "2026-06-21 16:00:00",
+                "PM25_value": 17.7,
+                "PM25_aqi": 32,
+                "overall_aqi": 32,
                 "stationType": "BKK"
             }
         },
@@ -1442,7 +1442,7 @@
                 "stationID": "bkp96t",
                 "nameTH": "สำนักงานเขตลาดพร้าว",
                 "timestamp": "2026-06-21 16:00:00",
-                "PM25_value": 12.0,
+                "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "BKK"
