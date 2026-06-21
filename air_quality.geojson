@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-21 05:30:27"
+        "last_updated_thai": "2026-06-21 06:00:30"
     },
     "features": [
         {
@@ -1973,7 +1973,7 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-21 11:00:00",
+                "timestamp": "2026-06-21 12:00:00",
                 "PM25_value": 7.0,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
