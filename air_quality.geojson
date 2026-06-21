@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-21 19:12:24"
+        "last_updated_thai": "2026-06-21 19:30:28"
     },
     "features": [
         {
@@ -16,8 +16,8 @@
             "properties": {
                 "stationID": "119t",
                 "nameTH": "สวนสาธารณะธารา",
-                "timestamp": "2026-06-22 01:00:00",
-                "PM25_value": 6.9,
+                "timestamp": "2026-06-22 02:00:00",
+                "PM25_value": 7.0,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
@@ -35,10 +35,10 @@
             "properties": {
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
-                "timestamp": "2026-06-22 01:00:00",
-                "PM25_value": 9.9,
-                "PM25_aqi": 17,
-                "overall_aqi": 17,
+                "timestamp": "2026-06-22 02:00:00",
+                "PM25_value": 10.9,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
@@ -1517,10 +1517,10 @@
             "properties": {
                 "stationID": "o10",
                 "nameTH": "เคหะชุมชนคลองจั่น",
-                "timestamp": "2026-06-22 01:00:00",
-                "PM25_value": 10.4,
-                "PM25_aqi": 17,
-                "overall_aqi": 17,
+                "timestamp": "2026-06-22 02:00:00",
+                "PM25_value": 10.6,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
