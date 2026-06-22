@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-22 05:30:26"
+        "last_updated_thai": "2026-06-22 06:00:32"
     },
     "features": [
         {
@@ -568,7 +568,7 @@
                 "stationID": "bkp126t",
                 "nameTH": "สวนบางแคภิรมย์",
                 "timestamp": "2026-06-22 12:00:00",
-                "PM25_value": 7.0,
+                "PM25_value": 7.1,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "BKK"
@@ -1290,9 +1290,9 @@
                 "stationID": "bkp88t",
                 "nameTH": "มหาวิทยาลัยสยาม",
                 "timestamp": "2026-06-22 12:00:00",
-                "PM25_value": 6.6,
-                "PM25_aqi": 11,
-                "overall_aqi": 11,
+                "PM25_value": 7.0,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "BKK"
             }
         },
