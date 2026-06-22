@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-22 09:30:36"
+        "last_updated_thai": "2026-06-22 10:00:35"
     },
     "features": [
         {
@@ -511,7 +511,7 @@
                 "stationID": "bkp123t",
                 "nameTH": "สวนสมเด็จพระนางเจ้าสิริกิติ์ฯ",
                 "timestamp": "2026-06-22 16:00:00",
-                "PM25_value": 7.0,
+                "PM25_value": 6.9,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "BKK"
@@ -738,7 +738,7 @@
             "properties": {
                 "stationID": "bkp58t",
                 "nameTH": "สำนักงานเขตราษฎร์บูรณะ กรุงเทพฯ",
-                "timestamp": "2026-06-22 15:00:00",
+                "timestamp": "2026-06-22 16:00:00",
                 "PM25_value": 15.8,
                 "PM25_aqi": 28,
                 "overall_aqi": 28,
@@ -815,9 +815,9 @@
                 "stationID": "bkp62t",
                 "nameTH": "วงเวียนโอเดียน",
                 "timestamp": "2026-06-22 16:00:00",
-                "PM25_value": 14.6,
-                "PM25_aqi": 24,
-                "overall_aqi": 24,
+                "PM25_value": 14.7,
+                "PM25_aqi": 25,
+                "overall_aqi": 25,
                 "stationType": "BKK"
             }
         },
@@ -969,7 +969,7 @@
                 "timestamp": "2026-06-22 16:00:00",
                 "PM25_value": 6.3,
                 "PM25_aqi": 11,
-                "overall_aqi": 19,
+                "overall_aqi": 17,
                 "stationType": "BKK"
             }
         },
@@ -1195,9 +1195,9 @@
                 "stationID": "bkp83t",
                 "nameTH": "ห้องสมุดใต้สะพานสมเด็จพระเจ้าตากสิน",
                 "timestamp": "2026-06-22 16:00:00",
-                "PM25_value": 6.4,
-                "PM25_aqi": 11,
-                "overall_aqi": 11,
+                "PM25_value": 7.3,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "BKK"
             }
         },
@@ -1271,7 +1271,7 @@
                 "stationID": "bkp87t",
                 "nameTH": "ตลาดธนบุรีสนามหลวง 2",
                 "timestamp": "2026-06-22 16:00:00",
-                "PM25_value": 9.5,
+                "PM25_value": 9.3,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "BKK"
@@ -2144,8 +2144,8 @@
             "properties": {
                 "stationID": "21t",
                 "nameTH": "โรงเรียนอยุธยาวิทยาลัย",
-                "timestamp": "2026-06-22 14:00:00",
-                "PM25_value": 6.3,
+                "timestamp": "2026-06-22 16:00:00",
+                "PM25_value": 6.8,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
