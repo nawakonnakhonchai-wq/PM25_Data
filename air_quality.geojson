@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-23 21:22:34"
+        "last_updated_thai": "2026-06-23 21:30:30"
     },
     "features": [
         {
@@ -17,9 +17,9 @@
                 "stationID": "119t",
                 "nameTH": "สวนสาธารณะธารา",
                 "timestamp": "2026-06-24 04:00:00",
-                "PM25_value": 7.2,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "PM25_value": 6.4,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
@@ -1802,7 +1802,7 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-06-24 03:00:00",
+                "timestamp": "2026-06-24 04:00:00",
                 "PM25_value": 11.0,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
@@ -1916,7 +1916,7 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-06-24 03:00:00",
+                "timestamp": "2026-06-24 04:00:00",
                 "PM25_value": 10.6,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
@@ -2126,7 +2126,7 @@
                 "stationID": "121t",
                 "nameTH": "ศูนย์ป่าไม้จังหวัดปัตตานี",
                 "timestamp": "2026-06-24 04:00:00",
-                "PM25_value": 7.4,
+                "PM25_value": 7.0,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
