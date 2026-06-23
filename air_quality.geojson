@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-23 05:30:25"
+        "last_updated_thai": "2026-06-23 06:00:30"
     },
     "features": [
         {
@@ -1897,7 +1897,7 @@
             "properties": {
                 "stationID": "89t",
                 "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
-                "timestamp": "2026-06-23 11:00:00",
+                "timestamp": "2026-06-23 12:00:00",
                 "PM25_value": 6.2,
                 "PM25_aqi": 10,
                 "overall_aqi": 10,
@@ -1973,7 +1973,7 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-23 11:00:00",
+                "timestamp": "2026-06-23 12:00:00",
                 "PM25_value": 6.3,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
@@ -2106,10 +2106,10 @@
             "properties": {
                 "stationID": "77t",
                 "nameTH": "ศาลาประชาคมบ้านบุยายใบ",
-                "timestamp": "2026-06-23 10:00:00",
-                "PM25_value": 22.5,
-                "PM25_aqi": 44,
-                "overall_aqi": 44,
+                "timestamp": "2026-06-23 12:00:00",
+                "PM25_value": 22.3,
+                "PM25_aqi": 43,
+                "overall_aqi": 43,
                 "stationType": "GROUND"
             }
         },
@@ -2296,7 +2296,7 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-06-23 11:00:00",
+                "timestamp": "2026-06-23 12:00:00",
                 "PM25_value": 6.1,
                 "PM25_aqi": 10,
                 "overall_aqi": 10,
@@ -2734,9 +2734,9 @@
                 "stationID": "16t",
                 "nameTH": "โรงไฟฟ้าพระนครใต้ ",
                 "timestamp": "2026-06-23 12:00:00",
-                "PM25_value": 8.0,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "PM25_value": 8.4,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
                 "stationType": "GROUND"
             }
         },
