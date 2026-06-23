@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-23 16:19:21"
+        "last_updated_thai": "2026-06-23 16:30:38"
     },
     "features": [
         {
@@ -16,10 +16,10 @@
             "properties": {
                 "stationID": "119t",
                 "nameTH": "สวนสาธารณะธารา",
-                "timestamp": "2026-06-23 22:00:00",
-                "PM25_value": 6.3,
+                "timestamp": "2026-06-23 23:00:00",
+                "PM25_value": 6.4,
                 "PM25_aqi": 11,
-                "overall_aqi": 12,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
@@ -35,10 +35,10 @@
             "properties": {
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
-                "timestamp": "2026-06-23 22:00:00",
-                "PM25_value": 12.9,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "timestamp": "2026-06-23 23:00:00",
+                "PM25_value": 12.7,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
                 "stationType": "GROUND"
             }
         },
@@ -1517,8 +1517,8 @@
             "properties": {
                 "stationID": "o10",
                 "nameTH": "เคหะชุมชนคลองจั่น",
-                "timestamp": "2026-06-23 22:00:00",
-                "PM25_value": 12.1,
+                "timestamp": "2026-06-23 23:00:00",
+                "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
@@ -2125,10 +2125,10 @@
             "properties": {
                 "stationID": "121t",
                 "nameTH": "ศูนย์ป่าไม้จังหวัดปัตตานี",
-                "timestamp": "2026-06-23 22:00:00",
-                "PM25_value": 6.8,
-                "PM25_aqi": 11,
-                "overall_aqi": 11,
+                "timestamp": "2026-06-23 23:00:00",
+                "PM25_value": 7.0,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
@@ -2448,8 +2448,8 @@
             "properties": {
                 "stationID": "o38",
                 "nameTH": "ค่ายสุรสิงหนาท",
-                "timestamp": "2026-06-23 22:00:00",
-                "PM25_value": 10.3,
+                "timestamp": "2026-06-23 23:00:00",
+                "PM25_value": 10.2,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "MOBILE"
@@ -3151,10 +3151,10 @@
             "properties": {
                 "stationID": "116t",
                 "nameTH": " สวนน้ำเฉลิมพระเกียรติ ",
-                "timestamp": "2026-06-23 22:00:00",
-                "PM25_value": 9.5,
+                "timestamp": "2026-06-23 23:00:00",
+                "PM25_value": 9.3,
                 "PM25_aqi": 16,
-                "overall_aqi": 21,
+                "overall_aqi": 20,
                 "stationType": "GROUND"
             }
         },
