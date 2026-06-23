@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-23 00:30:28"
+        "last_updated_thai": "2026-06-23 01:00:27"
     },
     "features": [
         {
@@ -35,10 +35,10 @@
             "properties": {
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
-                "timestamp": "2026-06-22 21:00:00",
-                "PM25_value": 11.5,
-                "PM25_aqi": 19,
-                "overall_aqi": 19,
+                "timestamp": "2026-06-23 07:00:00",
+                "PM25_value": 13.0,
+                "PM25_aqi": 22,
+                "overall_aqi": 22,
                 "stationType": "GROUND"
             }
         },
@@ -2468,7 +2468,7 @@
                 "stationID": "26t",
                 "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่8",
                 "timestamp": "2026-06-23 07:00:00",
-                "PM25_value": 13.5,
+                "PM25_value": 13.8,
                 "PM25_aqi": 23,
                 "overall_aqi": 23,
                 "stationType": "GROUND"
