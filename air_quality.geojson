@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-23 23:30:28"
+        "last_updated_thai": "2026-06-23 23:54:49"
     },
     "features": [
         {
@@ -168,10 +168,10 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-06-24 05:00:00",
-                "PM25_value": 14.1,
-                "PM25_aqi": 24,
-                "overall_aqi": 24,
+                "timestamp": "2026-06-24 06:00:00",
+                "PM25_value": 13.9,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -1879,9 +1879,9 @@
                 "stationID": "47t",
                 "nameTH": "สถานีสูบน้ำประตูพลแสน",
                 "timestamp": "2026-06-24 06:00:00",
-                "PM25_value": 25.4,
-                "PM25_aqi": 52,
-                "overall_aqi": 52,
+                "PM25_value": 16.0,
+                "PM25_aqi": 28,
+                "overall_aqi": 28,
                 "stationType": "GROUND"
             }
         },
@@ -2315,8 +2315,8 @@
             "properties": {
                 "stationID": "78t",
                 "nameTH": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
-                "timestamp": "2026-06-24 05:00:00",
-                "PM25_value": 6.7,
+                "timestamp": "2026-06-24 06:00:00",
+                "PM25_value": 6.8,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
