@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-24 14:30:28"
+        "last_updated_thai": "2026-06-24 15:00:34"
     },
     "features": [
         {
@@ -17,8 +17,8 @@
                 "stationID": "119t",
                 "nameTH": "สวนสาธารณะธารา",
                 "timestamp": "2026-06-24 21:00:00",
-                "PM25_value": 6.2,
-                "PM25_aqi": 10,
+                "PM25_value": 7.1,
+                "PM25_aqi": 12,
                 "overall_aqi": 15,
                 "stationType": "GROUND"
             }
@@ -1765,9 +1765,9 @@
                 "stationID": "93t",
                 "nameTH": "วิทยาลัยสารพัดช่างตรัง",
                 "timestamp": "2026-06-24 21:00:00",
-                "PM25_value": 6.6,
-                "PM25_aqi": 11,
-                "overall_aqi": 11,
+                "PM25_value": 7.1,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
@@ -2126,7 +2126,7 @@
                 "stationID": "121t",
                 "nameTH": "ศูนย์ป่าไม้จังหวัดปัตตานี",
                 "timestamp": "2026-06-24 21:00:00",
-                "PM25_value": 6.9,
+                "PM25_value": 7.3,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
@@ -2183,9 +2183,9 @@
                 "stationID": "120t",
                 "nameTH": "สนามกีฬากลางจังหวัดพัทลุง",
                 "timestamp": "2026-06-24 21:00:00",
-                "PM25_value": 7.7,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "PM25_value": 7.4,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
@@ -2316,7 +2316,7 @@
                 "stationID": "78t",
                 "nameTH": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
                 "timestamp": "2026-06-24 21:00:00",
-                "PM25_value": 7.0,
+                "PM25_value": 7.1,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
