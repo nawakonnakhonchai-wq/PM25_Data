@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-24 23:30:28"
+        "last_updated_thai": "2026-06-24 23:57:00"
     },
     "features": [
         {
@@ -54,8 +54,8 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-06-25 05:00:00",
-                "PM25_value": 12.0,
+                "timestamp": "2026-06-25 06:00:00",
+                "PM25_value": 12.2,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
@@ -168,8 +168,8 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-06-25 05:00:00",
-                "PM25_value": 12.4,
+                "timestamp": "2026-06-25 06:00:00",
+                "PM25_value": 12.6,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -226,9 +226,9 @@
                 "stationID": "bkp100t",
                 "nameTH": "สำนักงานเขตบึงกุ่ม",
                 "timestamp": "2026-06-25 06:00:00",
-                "PM25_value": 6.2,
-                "PM25_aqi": 10,
-                "overall_aqi": 10,
+                "PM25_value": 6.7,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "BKK"
             }
         },
@@ -815,9 +815,9 @@
                 "stationID": "bkp62t",
                 "nameTH": "วงเวียนโอเดียน",
                 "timestamp": "2026-06-25 06:00:00",
-                "PM25_value": 16.0,
-                "PM25_aqi": 28,
-                "overall_aqi": 28,
+                "PM25_value": 14.8,
+                "PM25_aqi": 25,
+                "overall_aqi": 25,
                 "stationType": "BKK"
             }
         },
@@ -929,7 +929,7 @@
                 "stationID": "bkp69t",
                 "nameTH": "ธนาคารกรุงศรีอยุธยา สำนักงานใหญ่",
                 "timestamp": "2026-06-25 06:00:00",
-                "PM25_value": 11.5,
+                "PM25_value": 11.4,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "BKK"
