@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-24 00:30:27"
+        "last_updated_thai": "2026-06-24 01:00:29"
     },
     "features": [
         {
@@ -2145,9 +2145,9 @@
                 "stationID": "21t",
                 "nameTH": "โรงเรียนอยุธยาวิทยาลัย",
                 "timestamp": "2026-06-24 07:00:00",
-                "PM25_value": 9.6,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "PM25_value": 10.0,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "GROUND"
             }
         },
