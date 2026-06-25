@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 09:30:26"
+        "last_updated_thai": "2026-06-25 10:00:30"
     },
     "features": [
         {
@@ -1802,7 +1802,7 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-06-25 15:00:00",
+                "timestamp": "2026-06-25 16:00:00",
                 "PM25_value": 9.1,
                 "PM25_aqi": 15,
                 "overall_aqi": 15,
@@ -1916,7 +1916,7 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-06-25 15:00:00",
+                "timestamp": "2026-06-25 16:00:00",
                 "PM25_value": 8.6,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
@@ -2524,7 +2524,7 @@
             "properties": {
                 "stationID": "37t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
-                "timestamp": "2026-06-25 15:00:00",
+                "timestamp": "2026-06-25 16:00:00",
                 "PM25_value": 10.4,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
@@ -2543,10 +2543,10 @@
             "properties": {
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
-                "timestamp": "2026-06-25 15:00:00",
+                "timestamp": "2026-06-25 16:00:00",
                 "PM25_value": 9.9,
                 "PM25_aqi": 17,
-                "overall_aqi": 21,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -2562,7 +2562,7 @@
             "properties": {
                 "stationID": "39t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
-                "timestamp": "2026-06-25 15:00:00",
+                "timestamp": "2026-06-25 16:00:00",
                 "PM25_value": 9.8,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
