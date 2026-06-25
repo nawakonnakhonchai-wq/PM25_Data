@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 07:30:25"
+        "last_updated_thai": "2026-06-25 08:00:29"
     },
     "features": [
         {
@@ -207,7 +207,7 @@
                 "stationID": "61t",
                 "nameTH": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
                 "timestamp": "2026-06-25 14:00:00",
-                "PM25_value": 10.4,
+                "PM25_value": 10.3,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -1479,10 +1479,10 @@
             "properties": {
                 "stationID": "bkp98t",
                 "nameTH": "สำนักงานเขตบางเขน",
-                "timestamp": "2026-06-25 06:00:00",
-                "PM25_value": 10.4,
-                "PM25_aqi": 17,
-                "overall_aqi": 17,
+                "timestamp": "2026-06-25 14:00:00",
+                "PM25_value": 10.7,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "BKK"
             }
         },
