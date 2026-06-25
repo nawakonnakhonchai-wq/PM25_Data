@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 16:14:37"
+        "last_updated_thai": "2026-06-25 16:30:28"
     },
     "features": [
         {
@@ -35,8 +35,8 @@
             "properties": {
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
-                "timestamp": "2026-06-25 22:00:00",
-                "PM25_value": 10.3,
+                "timestamp": "2026-06-25 23:00:00",
+                "PM25_value": 10.2,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -2334,10 +2334,10 @@
             "properties": {
                 "stationID": "109t",
                 "nameTH": "สวนสาธารณะพญาแถน",
-                "timestamp": "2026-06-25 22:00:00",
-                "PM25_value": 10.3,
+                "timestamp": "2026-06-25 23:00:00",
+                "PM25_value": 10.2,
                 "PM25_aqi": 17,
-                "overall_aqi": 41,
+                "overall_aqi": 36,
                 "stationType": "GROUND"
             }
         },
@@ -2448,8 +2448,8 @@
             "properties": {
                 "stationID": "o38",
                 "nameTH": "ค่ายสุรสิงหนาท",
-                "timestamp": "2026-06-25 22:00:00",
-                "PM25_value": 6.7,
+                "timestamp": "2026-06-25 23:00:00",
+                "PM25_value": 6.8,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "MOBILE"
@@ -2467,8 +2467,8 @@
             "properties": {
                 "stationID": "26t",
                 "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่8",
-                "timestamp": "2026-06-25 22:00:00",
-                "PM25_value": 12.2,
+                "timestamp": "2026-06-25 23:00:00",
+                "PM25_value": 12.0,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
@@ -2790,7 +2790,7 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-06-25 22:00:00",
+                "timestamp": "2026-06-25 23:00:00",
                 "PM25_value": 10.5,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
