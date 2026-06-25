@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 19:30:26"
+        "last_updated_thai": "2026-06-25 20:00:33"
     },
     "features": [
         {
@@ -1536,10 +1536,10 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-06-26 01:00:00",
-                "PM25_value": 14.1,
-                "PM25_aqi": 24,
-                "overall_aqi": 24,
+                "timestamp": "2026-06-26 02:00:00",
+                "PM25_value": 14.0,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -1802,10 +1802,10 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-06-25 20:00:00",
-                "PM25_value": 9.5,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "timestamp": "2026-06-26 02:00:00",
+                "PM25_value": 9.2,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
                 "stationType": "GROUND"
             }
         },
@@ -1916,8 +1916,8 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-06-25 20:00:00",
-                "PM25_value": 9.1,
+                "timestamp": "2026-06-26 02:00:00",
+                "PM25_value": 8.8,
                 "PM25_aqi": 15,
                 "overall_aqi": 15,
                 "stationType": "GROUND"
@@ -2145,9 +2145,9 @@
                 "stationID": "21t",
                 "nameTH": "โรงเรียนอยุธยาวิทยาลัย",
                 "timestamp": "2026-06-26 02:00:00",
-                "PM25_value": 124.9,
-                "PM25_aqi": 250,
-                "overall_aqi": 250,
+                "PM25_value": 6.9,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
@@ -2164,7 +2164,7 @@
                 "stationID": "70t",
                 "nameTH": "สนามกีฬาจังหวัดพะเยา",
                 "timestamp": "2026-06-26 02:00:00",
-                "PM25_value": 10.4,
+                "PM25_value": 10.3,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -2524,8 +2524,8 @@
             "properties": {
                 "stationID": "37t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
-                "timestamp": "2026-06-25 20:00:00",
-                "PM25_value": 10.3,
+                "timestamp": "2026-06-26 02:00:00",
+                "PM25_value": 10.2,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -2543,10 +2543,10 @@
             "properties": {
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
-                "timestamp": "2026-06-25 20:00:00",
-                "PM25_value": 9.9,
-                "PM25_aqi": 17,
-                "overall_aqi": 24,
+                "timestamp": "2026-06-26 02:00:00",
+                "PM25_value": 9.8,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
                 "stationType": "GROUND"
             }
         },
@@ -2582,7 +2582,7 @@
                 "stationID": "40t",
                 "nameTH": "การประปาส่วนภูมิภาคแม่เมาะ",
                 "timestamp": "2026-06-26 02:00:00",
-                "PM25_value": 10.3,
+                "PM25_value": 9.9,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -3304,9 +3304,9 @@
                 "stationID": "69t",
                 "nameTH": "อุตุนิยมวิทยาจังหวัดแพร่",
                 "timestamp": "2026-06-26 02:00:00",
-                "PM25_value": 8.8,
-                "PM25_aqi": 15,
-                "overall_aqi": 15,
+                "PM25_value": 9.9,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "GROUND"
             }
         },
