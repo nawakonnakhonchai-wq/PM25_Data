@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 17:30:38"
+        "last_updated_thai": "2026-06-25 18:00:33"
     },
     "features": [
         {
@@ -111,10 +111,10 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-06-25 23:00:00",
-                "PM25_value": 14.1,
-                "PM25_aqi": 24,
-                "overall_aqi": 24,
+                "timestamp": "2026-06-26 00:00:00",
+                "PM25_value": 14.0,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
