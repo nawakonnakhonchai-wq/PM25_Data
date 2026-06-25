@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 13:30:30"
+        "last_updated_thai": "2026-06-25 14:00:36"
     },
     "features": [
         {
@@ -1802,8 +1802,8 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-06-25 18:00:00",
-                "PM25_value": 9.4,
+                "timestamp": "2026-06-25 20:00:00",
+                "PM25_value": 9.5,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "GROUND"
@@ -1916,8 +1916,8 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-06-25 18:00:00",
-                "PM25_value": 8.9,
+                "timestamp": "2026-06-25 20:00:00",
+                "PM25_value": 9.1,
                 "PM25_aqi": 15,
                 "overall_aqi": 15,
                 "stationType": "GROUND"
@@ -2164,7 +2164,7 @@
                 "stationID": "70t",
                 "nameTH": "สนามกีฬาจังหวัดพะเยา",
                 "timestamp": "2026-06-25 20:00:00",
-                "PM25_value": 10.2,
+                "PM25_value": 10.0,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -2524,8 +2524,8 @@
             "properties": {
                 "stationID": "37t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
-                "timestamp": "2026-06-25 18:00:00",
-                "PM25_value": 10.4,
+                "timestamp": "2026-06-25 20:00:00",
+                "PM25_value": 10.3,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -2543,7 +2543,7 @@
             "properties": {
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
-                "timestamp": "2026-06-25 18:00:00",
+                "timestamp": "2026-06-25 20:00:00",
                 "PM25_value": 9.9,
                 "PM25_aqi": 17,
                 "overall_aqi": 24,
@@ -2562,7 +2562,7 @@
             "properties": {
                 "stationID": "39t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
-                "timestamp": "2026-06-25 18:00:00",
+                "timestamp": "2026-06-25 20:00:00",
                 "PM25_value": 9.8,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
@@ -2582,7 +2582,7 @@
                 "stationID": "40t",
                 "nameTH": "การประปาส่วนภูมิภาคแม่เมาะ",
                 "timestamp": "2026-06-25 20:00:00",
-                "PM25_value": 10.3,
+                "PM25_value": 10.0,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -3304,9 +3304,9 @@
                 "stationID": "69t",
                 "nameTH": "อุตุนิยมวิทยาจังหวัดแพร่",
                 "timestamp": "2026-06-25 20:00:00",
-                "PM25_value": 9.8,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "PM25_value": 10.0,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "GROUND"
             }
         },
