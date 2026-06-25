@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 05:30:25"
+        "last_updated_thai": "2026-06-25 06:00:38"
     },
     "features": [
         {
@@ -1024,7 +1024,7 @@
                 "stationID": "bkp74t",
                 "nameTH": "สำนักงานเขตดอนเมือง",
                 "timestamp": "2026-06-25 12:00:00",
-                "PM25_value": 6.8,
+                "PM25_value": 6.7,
                 "PM25_aqi": 11,
                 "overall_aqi": 13,
                 "stationType": "BKK"
