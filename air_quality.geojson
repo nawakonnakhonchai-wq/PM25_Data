@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 00:30:26"
+        "last_updated_thai": "2026-06-25 01:00:27"
     },
     "features": [
         {
@@ -339,7 +339,7 @@
             "properties": {
                 "stationID": "bkp114t",
                 "nameTH": "สวนลุมพินี ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน",
-                "timestamp": "2026-06-25 06:00:00",
+                "timestamp": "2026-06-25 07:00:00",
                 "PM25_value": 7.0,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
@@ -2373,9 +2373,9 @@
                 "stationID": "29t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลมาบตาพุด ",
                 "timestamp": "2026-06-25 07:00:00",
-                "PM25_value": 13.6,
-                "PM25_aqi": 23,
-                "overall_aqi": 23,
+                "PM25_value": 11.0,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
@@ -2867,8 +2867,8 @@
                 "stationID": "24t",
                 "nameTH": "สถานีตำรวจภูธรตำบลหน้าพระลาน ",
                 "timestamp": "2026-06-25 07:00:00",
-                "PM25_value": 15.8,
-                "PM25_aqi": 28,
+                "PM25_value": 15.5,
+                "PM25_aqi": 27,
                 "overall_aqi": 33,
                 "stationType": "GROUND"
             }
