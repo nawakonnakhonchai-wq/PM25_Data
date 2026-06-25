@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 18:30:33"
+        "last_updated_thai": "2026-06-25 19:00:25"
     },
     "features": [
         {
@@ -1631,7 +1631,7 @@
             "properties": {
                 "stationID": "60t",
                 "nameTH": "สำนักงานเทศบาลตำบลทุ่งสะเดา",
-                "timestamp": "2026-06-26 00:00:00",
+                "timestamp": "2026-06-26 01:00:00",
                 "PM25_value": 11.3,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
@@ -2790,8 +2790,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-06-26 00:00:00",
-                "PM25_value": 10.4,
+                "timestamp": "2026-06-26 01:00:00",
+                "PM25_value": 10.3,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
