@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-25 23:30:25"
+        "last_updated_thai": "2026-06-26 00:00:34"
     },
     "features": [
         {
@@ -1043,9 +1043,9 @@
                 "stationID": "bkp75t",
                 "nameTH": "สำนักงานเขตสายไหม",
                 "timestamp": "2026-06-26 06:00:00",
-                "PM25_value": 19.5,
-                "PM25_aqi": 37,
-                "overall_aqi": 37,
+                "PM25_value": 15.1,
+                "PM25_aqi": 26,
+                "overall_aqi": 26,
                 "stationType": "BKK"
             }
         },
@@ -1062,7 +1062,7 @@
                 "stationID": "bkp76t",
                 "nameTH": "สำนักงานเขตบางกะปิ",
                 "timestamp": "2026-06-26 06:00:00",
-                "PM25_value": 9.5,
+                "PM25_value": 9.4,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "BKK"
@@ -1100,9 +1100,9 @@
                 "stationID": "bkp78t",
                 "nameTH": "โรงพยาบาลลาดกระบัง",
                 "timestamp": "2026-06-26 06:00:00",
-                "PM25_value": 18.9,
-                "PM25_aqi": 35,
-                "overall_aqi": 35,
+                "PM25_value": 18.3,
+                "PM25_aqi": 34,
+                "overall_aqi": 34,
                 "stationType": "BKK"
             }
         },
