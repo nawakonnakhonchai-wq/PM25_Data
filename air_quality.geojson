@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-26 00:30:26"
+        "last_updated_thai": "2026-06-26 01:00:30"
     },
     "features": [
         {
@@ -73,7 +73,7 @@
             "properties": {
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
-                "timestamp": "2026-06-26 06:00:00",
+                "timestamp": "2026-06-26 07:00:00",
                 "PM25_value": 11.2,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
@@ -1708,9 +1708,9 @@
                 "stationID": "117t",
                 "nameTH": "สวนสาธารณะเฉลิมพระเกียรติ ร. 9",
                 "timestamp": "2026-06-26 07:00:00",
-                "PM25_value": 8.0,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "PM25_value": 8.3,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
                 "stationType": "GROUND"
             }
         },
@@ -2145,9 +2145,9 @@
                 "stationID": "21t",
                 "nameTH": "โรงเรียนอยุธยาวิทยาลัย",
                 "timestamp": "2026-06-26 07:00:00",
-                "PM25_value": 6.7,
-                "PM25_aqi": 11,
-                "overall_aqi": 11,
+                "PM25_value": 7.0,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
@@ -2790,8 +2790,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-06-26 06:00:00",
-                "PM25_value": 10.3,
+                "timestamp": "2026-06-26 07:00:00",
+                "PM25_value": 10.4,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
