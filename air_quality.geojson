@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-27 21:52:33"
+        "last_updated_thai": "2026-06-27 22:00:29"
     },
     "features": [
         {
@@ -36,7 +36,7 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-06-28 01:00:00",
-                "PM25_value": 13.2,
+                "PM25_value": 13.0,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
                 "stationType": "GROUND"
@@ -112,7 +112,7 @@
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
                 "timestamp": "2026-06-28 04:00:00",
-                "PM25_value": 16.9,
+                "PM25_value": 16.6,
                 "PM25_aqi": 30,
                 "overall_aqi": 30,
                 "stationType": "GROUND"
@@ -188,9 +188,9 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-06-28 04:00:00",
-                "PM25_value": 10.9,
-                "PM25_aqi": 18,
-                "overall_aqi": 18,
+                "PM25_value": 11.2,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
