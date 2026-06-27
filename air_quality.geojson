@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-27 22:52:46"
+        "last_updated_thai": "2026-06-27 23:00:30"
     },
     "features": [
         {
@@ -2657,10 +2657,10 @@
             "properties": {
                 "stationID": "44t",
                 "nameTH": "เทศบาลนครหาดใหญ่ ",
-                "timestamp": "2026-06-27 19:00:00",
-                "PM25_value": 8.2,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "timestamp": "2026-06-28 05:00:00",
+                "PM25_value": 8.0,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "GROUND"
             }
         },
@@ -2695,8 +2695,8 @@
             "properties": {
                 "stationID": "80t",
                 "nameTH": "ศาลากลาง จ.สตูล",
-                "timestamp": "2026-06-27 19:00:00",
-                "PM25_value": 7.7,
+                "timestamp": "2026-06-28 05:00:00",
+                "PM25_value": 7.5,
                 "PM25_aqi": 13,
                 "overall_aqi": 13,
                 "stationType": "GROUND"
@@ -2961,10 +2961,10 @@
             "properties": {
                 "stationID": "42t",
                 "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่ 14",
-                "timestamp": "2026-06-27 19:00:00",
-                "PM25_value": 7.6,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "timestamp": "2026-06-28 05:00:00",
+                "PM25_value": 7.4,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
