@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-27 11:18:37"
+        "last_updated_thai": "2026-06-27 11:30:25"
     },
     "features": [
         {
@@ -111,8 +111,8 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-06-27 17:00:00",
-                "PM25_value": 17.2,
+                "timestamp": "2026-06-27 18:00:00",
+                "PM25_value": 17.1,
                 "PM25_aqi": 31,
                 "overall_aqi": 31,
                 "stationType": "GROUND"
@@ -1669,8 +1669,8 @@
             "properties": {
                 "stationID": "33t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
-                "timestamp": "2026-06-27 17:00:00",
-                "PM25_value": 12.0,
+                "timestamp": "2026-06-27 18:00:00",
+                "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
