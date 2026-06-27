@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-27 08:30:23"
+        "last_updated_thai": "2026-06-27 09:00:26"
     },
     "features": [
         {
@@ -871,7 +871,7 @@
             "properties": {
                 "stationID": "bkp65t",
                 "nameTH": "สามย่านมิตรทาวน์",
-                "timestamp": "2026-06-27 14:00:00",
+                "timestamp": "2026-06-27 15:00:00",
                 "PM25_value": 17.3,
                 "PM25_aqi": 31,
                 "overall_aqi": 31,
