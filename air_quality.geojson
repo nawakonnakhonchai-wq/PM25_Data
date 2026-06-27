@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-27 23:30:27"
+        "last_updated_thai": "2026-06-27 23:52:19"
     },
     "features": [
         {
@@ -54,10 +54,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-06-28 05:00:00",
-                "PM25_value": 16.6,
-                "PM25_aqi": 30,
-                "overall_aqi": 30,
+                "timestamp": "2026-06-28 06:00:00",
+                "PM25_value": 16.4,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "GROUND"
             }
         },
@@ -168,8 +168,8 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-06-28 05:00:00",
-                "PM25_value": 16.9,
+                "timestamp": "2026-06-28 06:00:00",
+                "PM25_value": 16.7,
                 "PM25_aqi": 30,
                 "overall_aqi": 30,
                 "stationType": "GROUND"
@@ -1973,8 +1973,8 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-27 19:00:00",
-                "PM25_value": 7.4,
+                "timestamp": "2026-06-28 06:00:00",
+                "PM25_value": 7.2,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
@@ -2296,8 +2296,8 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-06-27 19:00:00",
-                "PM25_value": 7.3,
+                "timestamp": "2026-06-28 06:00:00",
+                "PM25_value": 7.0,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
