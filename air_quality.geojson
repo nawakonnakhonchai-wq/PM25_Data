@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-28 23:30:26"
+        "last_updated_thai": "2026-06-28 23:59:04"
     },
     "features": [
         {
@@ -54,10 +54,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-06-29 05:00:00",
-                "PM25_value": 12.9,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "timestamp": "2026-06-29 06:00:00",
+                "PM25_value": 12.8,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
                 "stationType": "GROUND"
             }
         },
@@ -168,8 +168,8 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-06-29 05:00:00",
-                "PM25_value": 13.3,
+                "timestamp": "2026-06-29 06:00:00",
+                "PM25_value": 13.1,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
                 "stationType": "GROUND"
@@ -226,9 +226,9 @@
                 "stationID": "bkp100t",
                 "nameTH": "สำนักงานเขตบึงกุ่ม",
                 "timestamp": "2026-06-29 06:00:00",
-                "PM25_value": 4.4,
-                "PM25_aqi": 7,
-                "overall_aqi": 7,
+                "PM25_value": 5.1,
+                "PM25_aqi": 9,
+                "overall_aqi": 9,
                 "stationType": "BKK"
             }
         },
@@ -986,9 +986,9 @@
                 "stationID": "bkp72t",
                 "nameTH": "บิ๊กซี ซุปเปอร์เซ็นเตอร์ บางนา",
                 "timestamp": "2026-06-29 06:00:00",
-                "PM25_value": 20.5,
-                "PM25_aqi": 39,
-                "overall_aqi": 39,
+                "PM25_value": 19.7,
+                "PM25_aqi": 37,
+                "overall_aqi": 37,
                 "stationType": "BKK"
             }
         },
@@ -1897,7 +1897,7 @@
             "properties": {
                 "stationID": "89t",
                 "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
-                "timestamp": "2026-06-29 05:00:00",
+                "timestamp": "2026-06-29 06:00:00",
                 "PM25_value": 6.4,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
@@ -1973,10 +1973,10 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-28 15:00:00",
-                "PM25_value": 7.2,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "timestamp": "2026-06-29 06:00:00",
+                "PM25_value": 6.4,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
