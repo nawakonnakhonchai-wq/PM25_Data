@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-28 03:30:25"
+        "last_updated_thai": "2026-06-28 04:00:32"
     },
     "features": [
         {
@@ -359,7 +359,7 @@
                 "stationID": "bkp115t",
                 "nameTH": "สวนวชิรเบญจทัศ ถนนกำแพงเพชร 3 แขวงลาดยาว เขตจตุจักร",
                 "timestamp": "2026-06-28 10:00:00",
-                "PM25_value": 10.8,
+                "PM25_value": 10.5,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
                 "stationType": "BKK"
@@ -871,8 +871,8 @@
             "properties": {
                 "stationID": "bkp65t",
                 "nameTH": "สามย่านมิตรทาวน์",
-                "timestamp": "2026-06-28 09:00:00",
-                "PM25_value": 13.8,
+                "timestamp": "2026-06-28 10:00:00",
+                "PM25_value": 14.0,
                 "PM25_aqi": 23,
                 "overall_aqi": 23,
                 "stationType": "BKK"
@@ -986,7 +986,7 @@
                 "stationID": "bkp72t",
                 "nameTH": "บิ๊กซี ซุปเปอร์เซ็นเตอร์ บางนา",
                 "timestamp": "2026-06-28 10:00:00",
-                "PM25_value": 17.4,
+                "PM25_value": 17.6,
                 "PM25_aqi": 32,
                 "overall_aqi": 33,
                 "stationType": "BKK"
@@ -1536,10 +1536,10 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-06-28 09:00:00",
-                "PM25_value": 13.4,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "timestamp": "2026-06-28 10:00:00",
+                "PM25_value": 13.5,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
