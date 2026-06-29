@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-29 23:30:31"
+        "last_updated_thai": "2026-06-29 23:52:15"
     },
     "features": [
         {
@@ -168,8 +168,8 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-06-30 05:00:00",
-                "PM25_value": 12.6,
+                "timestamp": "2026-06-30 06:00:00",
+                "PM25_value": 12.7,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -1897,7 +1897,7 @@
             "properties": {
                 "stationID": "89t",
                 "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
-                "timestamp": "2026-06-29 22:00:00",
+                "timestamp": "2026-06-30 06:00:00",
                 "PM25_value": 6.4,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
@@ -1973,8 +1973,8 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-06-29 22:00:00",
-                "PM25_value": 6.4,
+                "timestamp": "2026-06-30 06:00:00",
+                "PM25_value": 6.5,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
@@ -2259,9 +2259,9 @@
                 "stationID": "114t",
                 "nameTH": "สวนสุขภาพประมวลสุข",
                 "timestamp": "2026-06-30 06:00:00",
-                "PM25_value": 11.7,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "PM25_value": 11.6,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
@@ -2296,10 +2296,10 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-06-29 22:00:00",
-                "PM25_value": 6.2,
-                "PM25_aqi": 10,
-                "overall_aqi": 10,
+                "timestamp": "2026-06-30 06:00:00",
+                "PM25_value": 6.3,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
