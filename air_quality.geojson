@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-29 07:30:28"
+        "last_updated_thai": "2026-06-29 08:00:30"
     },
     "features": [
         {
@@ -872,7 +872,7 @@
                 "stationID": "bkp65t",
                 "nameTH": "สามย่านมิตรทาวน์",
                 "timestamp": "2026-06-29 14:00:00",
-                "PM25_value": 13.1,
+                "PM25_value": 13.2,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
                 "stationType": "BKK"
@@ -929,7 +929,7 @@
                 "stationID": "bkp69t",
                 "nameTH": "ธนาคารกรุงศรีอยุธยา สำนักงานใหญ่",
                 "timestamp": "2026-06-29 14:00:00",
-                "PM25_value": 9.1,
+                "PM25_value": 9.2,
                 "PM25_aqi": 15,
                 "overall_aqi": 15,
                 "stationType": "BKK"
@@ -1213,7 +1213,7 @@
             "properties": {
                 "stationID": "bkp84t",
                 "nameTH": "สี่แยกท่าพระ",
-                "timestamp": "2026-06-29 12:00:00",
+                "timestamp": "2026-06-29 14:00:00",
                 "PM25_value": 18.0,
                 "PM25_aqi": 33,
                 "overall_aqi": 33,
@@ -1613,9 +1613,9 @@
                 "stationID": "100t",
                 "nameTH": "สถานีอุตุนิยมวิทยาจันทบุรี",
                 "timestamp": "2026-06-29 14:00:00",
-                "PM25_value": -1.0,
-                "PM25_aqi": -1,
-                "overall_aqi": 3,
+                "PM25_value": 6.8,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
