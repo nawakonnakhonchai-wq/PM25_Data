@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-29 08:34:09"
+        "last_updated_thai": "2026-06-29 08:48:26"
     },
     "features": [
         {
@@ -700,7 +700,7 @@
             "properties": {
                 "stationID": "bkp56t",
                 "nameTH": "สำนักงานเขตดินแดง กรุงเทพฯ",
-                "timestamp": "2026-06-29 14:00:00",
+                "timestamp": "2026-06-29 15:00:00",
                 "PM25_value": 9.3,
                 "PM25_aqi": 16,
                 "overall_aqi": 19,
@@ -719,8 +719,8 @@
             "properties": {
                 "stationID": "bkp57t",
                 "nameTH": "สำนักงานเขตพระโขนง กรุงเทพฯ",
-                "timestamp": "2026-06-29 14:00:00",
-                "PM25_value": 11.3,
+                "timestamp": "2026-06-29 15:00:00",
+                "PM25_value": 11.2,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "BKK"
@@ -738,10 +738,10 @@
             "properties": {
                 "stationID": "bkp58t",
                 "nameTH": "สำนักงานเขตราษฎร์บูรณะ กรุงเทพฯ",
-                "timestamp": "2026-06-29 14:00:00",
-                "PM25_value": 16.7,
-                "PM25_aqi": 30,
-                "overall_aqi": 30,
+                "timestamp": "2026-06-29 15:00:00",
+                "PM25_value": 16.4,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "BKK"
             }
         },
