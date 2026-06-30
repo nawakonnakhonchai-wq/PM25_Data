@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-30 16:30:30"
+        "last_updated_thai": "2026-06-30 17:00:32"
     },
     "features": [
         {
@@ -111,10 +111,10 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-06-30 22:00:00",
-                "PM25_value": 11.6,
-                "PM25_aqi": 19,
-                "overall_aqi": 19,
+                "timestamp": "2026-06-30 23:00:00",
+                "PM25_value": 11.8,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
                 "stationType": "GROUND"
             }
         },
@@ -2505,10 +2505,10 @@
             "properties": {
                 "stationID": "99t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลพบุรี",
-                "timestamp": "2026-06-30 22:00:00",
-                "PM25_value": 8.2,
+                "timestamp": "2026-06-30 23:00:00",
+                "PM25_value": 8.5,
                 "PM25_aqi": 14,
-                "overall_aqi": 17,
+                "overall_aqi": 16,
                 "stationType": "GROUND"
             }
         },
