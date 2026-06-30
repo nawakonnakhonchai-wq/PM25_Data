@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-30 08:30:26"
+        "last_updated_thai": "2026-06-30 09:00:34"
     },
     "features": [
         {
@@ -796,9 +796,9 @@
                 "stationID": "bkp61t",
                 "nameTH": "สำนักงานคณะกรรมการพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
                 "timestamp": "2026-06-30 15:00:00",
-                "PM25_value": 8.1,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "PM25_value": 8.0,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "BKK"
             }
         },
@@ -2847,10 +2847,10 @@
             "properties": {
                 "stationID": "27t",
                 "nameTH": "โรงเรียนสมุทรสาครวิทยาลัย",
-                "timestamp": "2026-06-25 14:00:00",
-                "PM25_value": 7.3,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "timestamp": "2026-06-30 13:00:00",
+                "PM25_value": 14.1,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
                 "stationType": "GROUND"
             }
         },
