@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-30 00:30:27"
+        "last_updated_thai": "2026-06-30 01:00:31"
     },
     "features": [
         {
@@ -396,7 +396,7 @@
             "properties": {
                 "stationID": "bkp117t",
                 "nameTH": "สวนหลวง ร.9 ถนนเฉลิมพระเกียรติ ร.9 แขวงหนองบอน เขตประเวศ",
-                "timestamp": "2026-06-30 06:00:00",
+                "timestamp": "2026-06-30 07:00:00",
                 "PM25_value": 6.8,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
