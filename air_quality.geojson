@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-06-30 14:30:29"
+        "last_updated_thai": "2026-06-30 15:00:34"
     },
     "features": [
         {
@@ -2505,10 +2505,10 @@
             "properties": {
                 "stationID": "99t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลพบุรี",
-                "timestamp": "2026-06-30 20:00:00",
-                "PM25_value": 8.0,
-                "PM25_aqi": 13,
-                "overall_aqi": 19,
+                "timestamp": "2026-06-30 21:00:00",
+                "PM25_value": 8.1,
+                "PM25_aqi": 14,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
