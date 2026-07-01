@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-01 00:30:26"
+        "last_updated_thai": "2026-07-01 01:00:31"
     },
     "features": [
         {
@@ -339,8 +339,8 @@
             "properties": {
                 "stationID": "bkp114t",
                 "nameTH": "สวนลุมพินี ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน",
-                "timestamp": "2026-07-01 06:00:00",
-                "PM25_value": 6.6,
+                "timestamp": "2026-07-01 07:00:00",
+                "PM25_value": 6.7,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "BKK"
@@ -2373,9 +2373,9 @@
                 "stationID": "29t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลมาบตาพุด ",
                 "timestamp": "2026-07-01 07:00:00",
-                "PM25_value": 16.6,
-                "PM25_aqi": 30,
-                "overall_aqi": 30,
+                "PM25_value": 11.4,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
