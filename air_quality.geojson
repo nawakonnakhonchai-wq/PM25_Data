@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-01 03:30:27"
+        "last_updated_thai": "2026-07-01 04:00:32"
     },
     "features": [
         {
@@ -207,7 +207,7 @@
                 "stationID": "61t",
                 "nameTH": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
                 "timestamp": "2026-07-01 10:00:00",
-                "PM25_value": 10.3,
+                "PM25_value": 10.4,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -339,10 +339,10 @@
             "properties": {
                 "stationID": "bkp114t",
                 "nameTH": "สวนลุมพินี ถนนพระราม 4 แขวงวังใหม่ เขตปทุมวัน",
-                "timestamp": "2026-07-01 09:00:00",
-                "PM25_value": 6.1,
-                "PM25_aqi": 10,
-                "overall_aqi": 10,
+                "timestamp": "2026-07-01 10:00:00",
+                "PM25_value": 6.3,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "BKK"
             }
         },
@@ -1349,7 +1349,7 @@
                 "timestamp": "2026-07-01 10:00:00",
                 "PM25_value": 8.5,
                 "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "overall_aqi": 19,
                 "stationType": "BKK"
             }
         },
@@ -1518,7 +1518,7 @@
                 "stationID": "o10",
                 "nameTH": "เคหะชุมชนคลองจั่น",
                 "timestamp": "2026-07-01 10:00:00",
-                "PM25_value": 10.6,
+                "PM25_value": 10.5,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
                 "stationType": "GROUND"
@@ -1536,7 +1536,7 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-07-01 09:00:00",
+                "timestamp": "2026-07-01 10:00:00",
                 "PM25_value": 18.1,
                 "PM25_aqi": 33,
                 "overall_aqi": 33,
