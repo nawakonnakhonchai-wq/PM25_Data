@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-01 19:30:31"
+        "last_updated_thai": "2026-07-01 19:38:57"
     },
     "features": [
         {
@@ -1536,8 +1536,8 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-07-02 01:00:00",
-                "PM25_value": 17.3,
+                "timestamp": "2026-07-02 02:00:00",
+                "PM25_value": 17.0,
                 "PM25_aqi": 31,
                 "overall_aqi": 31,
                 "stationType": "GROUND"
@@ -2505,8 +2505,8 @@
             "properties": {
                 "stationID": "99t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลพบุรี",
-                "timestamp": "2026-07-02 01:00:00",
-                "PM25_value": 11.9,
+                "timestamp": "2026-07-02 02:00:00",
+                "PM25_value": 11.8,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
