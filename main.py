@@ -1,9 +1,16 @@
 import os
 import sys
 import requests
+import urllib3
 import json
 import traceback
 from datetime import datetime
+
+# air4thai.pcd.go.th ส่ง SSL certificate chain มาไม่ครบ (ขาด intermediate cert)
+# เบราว์เซอร์ทั่วไปแก้ปัญหานี้ให้เองอัตโนมัติ (AIA chasing) แต่ requests/urllib3 ไม่มีกลไกนี้
+# เนื่องจากเป็น public open-data API (ไม่มีข้อมูล sensitive/การ auth) จึงปิดการตรวจสอบ cert
+# เฉพาะจุดนี้ และปิด warning ที่จะแสดงออกมาด้วย
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 
 def fetch_air_quality_to_geojson():
@@ -21,7 +28,7 @@ def fetch_air_quality_to_geojson():
     print(f"[i] จะเขียนไฟล์ที่: {output_path}")
 
     try:
-        response = requests.get(url, headers=headers, timeout=30)
+        response = requests.get(url, headers=headers, timeout=30, verify=False)
         print(f"[i] HTTP status: {response.status_code}")
         # พิมพ์ตัวอย่าง response ไว้ debug เผื่อโดน block/redirect เป็นหน้าอื่น
         print(f"[i] Response (200 ตัวอักษรแรก): {response.text[:200]!r}")
