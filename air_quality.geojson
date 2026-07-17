@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-17 10:45:00",
+        "last_updated_thai": "2026-07-17 11:00:33",
         "latest_station_date": "2026-07-17"
     },
     "features": [
@@ -416,7 +416,7 @@
             "properties": {
                 "stationID": "bkp118t",
                 "nameTH": "สวน 60 พรรษาสมเด็จพระนางเจ้าพระบรมราชินีนาถ ถนนเคหะร่มเกล้า เขตลาดกระบัง",
-                "timestamp": "2026-07-17 16:00:00",
+                "timestamp": "2026-07-17 17:00:00",
                 "PM25_value": 20.0,
                 "PM25_aqi": 38,
                 "overall_aqi": 38,
@@ -740,9 +740,9 @@
                 "stationID": "bkp58t",
                 "nameTH": "สำนักงานเขตราษฎร์บูรณะ กรุงเทพฯ",
                 "timestamp": "2026-07-17 17:00:00",
-                "PM25_value": 33.0,
-                "PM25_aqi": 82,
-                "overall_aqi": 82,
+                "PM25_value": 27.8,
+                "PM25_aqi": 62,
+                "overall_aqi": 62,
                 "stationType": "BKK"
             }
         },
@@ -1025,9 +1025,9 @@
                 "stationID": "bkp74t",
                 "nameTH": "สำนักงานเขตดอนเมือง",
                 "timestamp": "2026-07-17 17:00:00",
-                "PM25_value": 16.1,
-                "PM25_aqi": 28,
-                "overall_aqi": 28,
+                "PM25_value": 16.4,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "BKK"
             }
         },
@@ -1120,7 +1120,7 @@
                 "stationID": "bkp79t",
                 "nameTH": "สวนเฉลิมพระเกียรติ ร.9",
                 "timestamp": "2026-07-17 17:00:00",
-                "PM25_value": 23.6,
+                "PM25_value": 23.9,
                 "PM25_aqi": 47,
                 "overall_aqi": 47,
                 "stationType": "BKK"
@@ -1350,7 +1350,7 @@
                 "timestamp": "2026-07-17 17:00:00",
                 "PM25_value": 16.5,
                 "PM25_aqi": 29,
-                "overall_aqi": 31,
+                "overall_aqi": 30,
                 "stationType": "BKK"
             }
         },
