@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-18 22:45:21",
+        "last_updated_thai": "2026-07-18 23:00:32",
         "latest_station_date": "2026-07-19"
     },
     "features": [
@@ -37,9 +37,9 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-07-19 05:00:00",
-                "PM25_value": 20.4,
-                "PM25_aqi": 39,
-                "overall_aqi": 39,
+                "PM25_value": 19.9,
+                "PM25_aqi": 38,
+                "overall_aqi": 38,
                 "stationType": "GROUND"
             }
         },
@@ -113,9 +113,9 @@
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
                 "timestamp": "2026-07-19 05:00:00",
-                "PM25_value": 23.6,
-                "PM25_aqi": 47,
-                "overall_aqi": 47,
+                "PM25_value": 23.5,
+                "PM25_aqi": 46,
+                "overall_aqi": 46,
                 "stationType": "GROUND"
             }
         },
@@ -132,9 +132,9 @@
                 "stationID": "52t",
                 "nameTH": "การไฟฟ้าย่อยธนบุรี ",
                 "timestamp": "2026-07-19 05:00:00",
-                "PM25_value": 22.3,
-                "PM25_aqi": 43,
-                "overall_aqi": 43,
+                "PM25_value": 23.3,
+                "PM25_aqi": 46,
+                "overall_aqi": 46,
                 "stationType": "GROUND"
             }
         },
@@ -151,9 +151,9 @@
                 "stationID": "53t",
                 "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
                 "timestamp": "2026-07-19 05:00:00",
-                "PM25_value": 22.0,
-                "PM25_aqi": 43,
-                "overall_aqi": 43,
+                "PM25_value": 23.2,
+                "PM25_aqi": 46,
+                "overall_aqi": 46,
                 "stationType": "GROUND"
             }
         },
@@ -169,10 +169,10 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-07-18 21:00:00",
-                "PM25_value": 25.5,
-                "PM25_aqi": 53,
-                "overall_aqi": 53,
+                "timestamp": "2026-07-19 05:00:00",
+                "PM25_value": 24.3,
+                "PM25_aqi": 48,
+                "overall_aqi": 48,
                 "stationType": "GROUND"
             }
         },
@@ -189,9 +189,9 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-07-19 05:00:00",
-                "PM25_value": 18.1,
-                "PM25_aqi": 33,
-                "overall_aqi": 33,
+                "PM25_value": 18.8,
+                "PM25_aqi": 35,
+                "overall_aqi": 35,
                 "stationType": "GROUND"
             }
         },
