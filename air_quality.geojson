@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-21 19:17:14",
+        "last_updated_thai": "2026-07-21 20:00:33",
         "latest_station_date": "2026-07-22"
     },
     "features": [
@@ -1537,10 +1537,10 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-07-22 01:00:00",
-                "PM25_value": 22.3,
-                "PM25_aqi": 43,
-                "overall_aqi": 43,
+                "timestamp": "2026-07-22 02:00:00",
+                "PM25_value": 22.4,
+                "PM25_aqi": 44,
+                "overall_aqi": 44,
                 "stationType": "GROUND"
             }
         },
@@ -1651,10 +1651,10 @@
             "properties": {
                 "stationID": "33t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
-                "timestamp": "2026-07-22 01:00:00",
-                "PM25_value": 11.8,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "timestamp": "2026-07-22 02:00:00",
+                "PM25_value": 11.6,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
@@ -1955,8 +1955,8 @@
             "properties": {
                 "stationID": "22t",
                 "nameTH": "มหาวิทยาลัยสุโขทัยธรรมาธิราช ",
-                "timestamp": "2026-07-22 01:00:00",
-                "PM25_value": 12.6,
+                "timestamp": "2026-07-22 02:00:00",
+                "PM25_value": 12.4,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -2791,8 +2791,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-07-22 00:00:00",
-                "PM25_value": 16.4,
+                "timestamp": "2026-07-22 02:00:00",
+                "PM25_value": 16.2,
                 "PM25_aqi": 29,
                 "overall_aqi": 29,
                 "stationType": "GROUND"
