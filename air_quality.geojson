@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-21 22:53:45",
+        "last_updated_thai": "2026-07-21 23:00:35",
         "latest_station_date": "2026-07-22"
     },
     "features": [
@@ -37,9 +37,9 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-07-22 05:00:00",
-                "PM25_value": 14.1,
-                "PM25_aqi": 24,
-                "overall_aqi": 24,
+                "PM25_value": 13.7,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -189,9 +189,9 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-07-22 05:00:00",
-                "PM25_value": 12.1,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "PM25_value": 12.8,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
                 "stationType": "GROUND"
             }
         },
@@ -3096,7 +3096,7 @@
                 "stationID": "92t",
                 "nameTH": "สวนมหามงคลเฉลิมพระชนมพรรษา 6 รอบ 5 ธันวาคม 2552 อุตรดิตถ์",
                 "timestamp": "2026-07-22 05:00:00",
-                "PM25_value": 13.3,
+                "PM25_value": 12.9,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
                 "stationType": "GROUND"
