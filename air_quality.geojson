@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-07-25 22:53:16",
+        "last_updated_thai": "2026-07-25 23:00:34",
         "latest_station_date": "2026-07-26"
     },
     "features": [
@@ -18,9 +18,9 @@
                 "stationID": "119t",
                 "nameTH": "สวนสาธารณะธารา",
                 "timestamp": "2026-07-26 05:00:00",
-                "PM25_value": 4.2,
-                "PM25_aqi": 7,
-                "overall_aqi": 7,
+                "PM25_value": 4.7,
+                "PM25_aqi": 8,
+                "overall_aqi": 8,
                 "stationType": "GROUND"
             }
         },
@@ -1747,8 +1747,8 @@
                 "stationID": "118t",
                 "nameTH": "สนามกีฬา จ.ชุมพร",
                 "timestamp": "2026-07-26 05:00:00",
-                "PM25_value": 5.1,
-                "PM25_aqi": 9,
+                "PM25_value": 4.8,
+                "PM25_aqi": 8,
                 "overall_aqi": 9,
                 "stationType": "GROUND"
             }
@@ -2127,9 +2127,9 @@
                 "stationID": "121t",
                 "nameTH": "ศูนย์ป่าไม้จังหวัดปัตตานี",
                 "timestamp": "2026-07-26 05:00:00",
-                "PM25_value": 5.3,
-                "PM25_aqi": 9,
-                "overall_aqi": 9,
+                "PM25_value": 4.8,
+                "PM25_aqi": 8,
+                "overall_aqi": 8,
                 "stationType": "GROUND"
             }
         },
@@ -2184,7 +2184,7 @@
                 "stationID": "120t",
                 "nameTH": "สนามกีฬากลางจังหวัดพัทลุง",
                 "timestamp": "2026-07-26 05:00:00",
-                "PM25_value": 4.6,
+                "PM25_value": 4.7,
                 "PM25_aqi": 8,
                 "overall_aqi": 8,
                 "stationType": "GROUND"
@@ -2317,9 +2317,9 @@
                 "stationID": "78t",
                 "nameTH": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
                 "timestamp": "2026-07-26 05:00:00",
-                "PM25_value": 4.4,
-                "PM25_aqi": 7,
-                "overall_aqi": 7,
+                "PM25_value": 4.5,
+                "PM25_aqi": 8,
+                "overall_aqi": 8,
                 "stationType": "GROUND"
             }
         },
@@ -2772,10 +2772,10 @@
             "properties": {
                 "stationID": "18t",
                 "nameTH": "ศาลากลางจังหวัดสมุทรปราการ ",
-                "timestamp": "2026-07-25 22:00:00",
-                "PM25_value": 25.5,
-                "PM25_aqi": 53,
-                "overall_aqi": 53,
+                "timestamp": "2026-07-26 05:00:00",
+                "PM25_value": 24.4,
+                "PM25_aqi": 49,
+                "overall_aqi": 49,
                 "stationType": "GROUND"
             }
         },
