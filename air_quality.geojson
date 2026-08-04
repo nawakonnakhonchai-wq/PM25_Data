@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-04 19:27:47",
+        "last_updated_thai": "2026-08-04 20:00:46",
         "latest_station_date": "2026-08-05"
     },
     "features": [
@@ -1537,8 +1537,8 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-08-05 01:00:00",
-                "PM25_value": 16.6,
+                "timestamp": "2026-08-05 02:00:00",
+                "PM25_value": 16.7,
                 "PM25_aqi": 30,
                 "overall_aqi": 30,
                 "stationType": "GROUND"
