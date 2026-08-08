@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-08 22:25:02",
+        "last_updated_thai": "2026-08-08 23:00:32",
         "latest_station_date": "2026-08-09"
     },
     "features": [
@@ -37,9 +37,9 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-08-09 05:00:00",
-                "PM25_value": 9.5,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "PM25_value": 8.9,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
                 "stationType": "GROUND"
             }
         },
@@ -113,9 +113,9 @@
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
                 "timestamp": "2026-08-09 05:00:00",
-                "PM25_value": 12.5,
-                "PM25_aqi": 21,
-                "overall_aqi": 21,
+                "PM25_value": 12.1,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
                 "stationType": "GROUND"
             }
         },
@@ -189,9 +189,9 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-08-09 05:00:00",
-                "PM25_value": 7.9,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "PM25_value": 8.3,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
                 "stationType": "GROUND"
             }
         },
@@ -2735,7 +2735,7 @@
                 "stationID": "16t",
                 "nameTH": "โรงไฟฟ้าพระนครใต้ ",
                 "timestamp": "2026-08-09 05:00:00",
-                "PM25_value": 9.8,
+                "PM25_value": 9.7,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "GROUND"
@@ -2754,9 +2754,9 @@
                 "stationID": "17t",
                 "nameTH": "บ้านพักกรมอุตสาหกรรมพื้นฐานและการเหมืองแร่",
                 "timestamp": "2026-08-09 05:00:00",
-                "PM25_value": 8.7,
-                "PM25_aqi": 15,
-                "overall_aqi": 15,
+                "PM25_value": 9.5,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
                 "stationType": "GROUND"
             }
         },
@@ -3096,9 +3096,9 @@
                 "stationID": "92t",
                 "nameTH": "สวนมหามงคลเฉลิมพระชนมพรรษา 6 รอบ 5 ธันวาคม 2552 อุตรดิตถ์",
                 "timestamp": "2026-08-09 05:00:00",
-                "PM25_value": 8.4,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "PM25_value": 9.0,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
                 "stationType": "GROUND"
             }
         },
@@ -3248,7 +3248,7 @@
                 "stationID": "97t",
                 "nameTH": "สวนเพชบุระ",
                 "timestamp": "2026-08-09 05:00:00",
-                "PM25_value": 8.3,
+                "PM25_value": 8.1,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
                 "stationType": "GROUND"
