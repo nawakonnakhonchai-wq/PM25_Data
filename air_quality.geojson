@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-09 15:28:12",
+        "last_updated_thai": "2026-08-09 16:30:34",
         "latest_station_date": "2026-08-09"
     },
     "features": [
@@ -2069,10 +2069,10 @@
             "properties": {
                 "stationID": "20t",
                 "nameTH": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
-                "timestamp": "2026-08-09 21:00:00",
-                "PM25_value": 17.4,
-                "PM25_aqi": 32,
-                "overall_aqi": 32,
+                "timestamp": "2026-08-09 22:00:00",
+                "PM25_value": 17.1,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
                 "stationType": "GROUND"
             }
         },
@@ -2506,10 +2506,10 @@
             "properties": {
                 "stationID": "99t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลพบุรี",
-                "timestamp": "2026-08-09 21:00:00",
-                "PM25_value": 8.0,
+                "timestamp": "2026-08-09 22:00:00",
+                "PM25_value": 7.9,
                 "PM25_aqi": 13,
-                "overall_aqi": 17,
+                "overall_aqi": 16,
                 "stationType": "GROUND"
             }
         },
