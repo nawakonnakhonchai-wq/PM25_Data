@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-09 10:31:15",
+        "last_updated_thai": "2026-08-09 11:00:32",
         "latest_station_date": "2026-08-09"
     },
     "features": [
@@ -1576,7 +1576,7 @@
                 "stationID": "94t",
                 "nameTH": "ลานอนุรักษ์วัฒนธรรมไทยสิริจิตอุทยาน",
                 "timestamp": "2026-08-09 17:00:00",
-                "PM25_value": 7.8,
+                "PM25_value": 7.7,
                 "PM25_aqi": 13,
                 "overall_aqi": 13,
                 "stationType": "GROUND"
@@ -1803,8 +1803,8 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-08-09 15:00:00",
-                "PM25_value": 8.6,
+                "timestamp": "2026-08-09 17:00:00",
+                "PM25_value": 8.5,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
                 "stationType": "GROUND"
@@ -1917,8 +1917,8 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-08-09 15:00:00",
-                "PM25_value": 8.3,
+                "timestamp": "2026-08-09 17:00:00",
+                "PM25_value": 8.2,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
                 "stationType": "GROUND"
@@ -2602,7 +2602,7 @@
                 "stationID": "68t",
                 "nameTH": "อุตุนิยมวิทยาลำพูน",
                 "timestamp": "2026-08-09 17:00:00",
-                "PM25_value": 8.9,
+                "PM25_value": 9.1,
                 "PM25_aqi": 15,
                 "overall_aqi": 15,
                 "stationType": "GROUND"
@@ -3096,7 +3096,7 @@
                 "stationID": "92t",
                 "nameTH": "สวนมหามงคลเฉลิมพระชนมพรรษา 6 รอบ 5 ธันวาคม 2552 อุตรดิตถ์",
                 "timestamp": "2026-08-09 17:00:00",
-                "PM25_value": 9.1,
+                "PM25_value": 8.9,
                 "PM25_aqi": 15,
                 "overall_aqi": 15,
                 "stationType": "GROUND"
@@ -3115,8 +3115,8 @@
                 "stationID": "98t",
                 "nameTH": "สถานีสวนเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เฉลิมพระชนมพรรษา 80 พรรษา",
                 "timestamp": "2026-08-09 17:00:00",
-                "PM25_value": 10.2,
-                "PM25_aqi": 17,
+                "PM25_value": 9.5,
+                "PM25_aqi": 16,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
             }
@@ -3286,9 +3286,9 @@
                 "stationID": "69t",
                 "nameTH": "อุตุนิยมวิทยาจังหวัดแพร่",
                 "timestamp": "2026-08-09 17:00:00",
-                "PM25_value": 8.7,
-                "PM25_aqi": 15,
-                "overall_aqi": 15,
+                "PM25_value": 8.6,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
                 "stationType": "GROUND"
             }
         },
