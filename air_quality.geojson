@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-10 22:34:10",
+        "last_updated_thai": "2026-08-10 23:00:40",
         "latest_station_date": "2026-08-11"
     },
     "features": [
@@ -189,9 +189,9 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-08-11 05:00:00",
-                "PM25_value": 9.0,
-                "PM25_aqi": 15,
-                "overall_aqi": 15,
+                "PM25_value": 9.7,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
                 "stationType": "GROUND"
             }
         },
@@ -1576,7 +1576,7 @@
                 "stationID": "94t",
                 "nameTH": "ลานอนุรักษ์วัฒนธรรมไทยสิริจิตอุทยาน",
                 "timestamp": "2026-08-11 05:00:00",
-                "PM25_value": 7.0,
+                "PM25_value": 7.2,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
@@ -1803,10 +1803,10 @@
             "properties": {
                 "stationID": "76t",
                 "nameTH": "ศูนย์การศึกษานอกโรงเรียน",
-                "timestamp": "2026-08-10 17:00:00",
-                "PM25_value": 8.1,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "timestamp": "2026-08-11 05:00:00",
+                "PM25_value": 7.7,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "GROUND"
             }
         },
@@ -1917,10 +1917,10 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-08-10 17:00:00",
-                "PM25_value": 7.9,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "timestamp": "2026-08-11 05:00:00",
+                "PM25_value": 7.4,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
@@ -2525,10 +2525,10 @@
             "properties": {
                 "stationID": "37t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
-                "timestamp": "2026-08-10 17:00:00",
-                "PM25_value": 7.9,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "timestamp": "2026-08-11 05:00:00",
+                "PM25_value": 8.1,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
                 "stationType": "GROUND"
             }
         },
@@ -2544,10 +2544,10 @@
             "properties": {
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
-                "timestamp": "2026-08-10 17:00:00",
-                "PM25_value": 7.5,
+                "timestamp": "2026-08-11 05:00:00",
+                "PM25_value": 7.7,
                 "PM25_aqi": 13,
-                "overall_aqi": 18,
+                "overall_aqi": 13,
                 "stationType": "GROUND"
             }
         },
@@ -2563,10 +2563,10 @@
             "properties": {
                 "stationID": "39t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
-                "timestamp": "2026-08-10 17:00:00",
-                "PM25_value": 7.3,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "timestamp": "2026-08-11 05:00:00",
+                "PM25_value": 7.5,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "GROUND"
             }
         },
@@ -2792,7 +2792,7 @@
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
                 "timestamp": "2026-08-11 05:00:00",
-                "PM25_value": 10.9,
+                "PM25_value": 10.8,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
                 "stationType": "GROUND"
@@ -3115,9 +3115,9 @@
                 "stationID": "98t",
                 "nameTH": "สถานีสวนเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เฉลิมพระชนมพรรษา 80 พรรษา",
                 "timestamp": "2026-08-11 05:00:00",
-                "PM25_value": 8.1,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "PM25_value": 7.9,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "GROUND"
             }
         },
