@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-11 01:29:19",
+        "last_updated_thai": "2026-08-11 02:00:32",
         "latest_station_date": "2026-08-11"
     },
     "features": [
@@ -55,10 +55,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-08-11 07:00:00",
-                "PM25_value": 14.6,
-                "PM25_aqi": 24,
-                "overall_aqi": 24,
+                "timestamp": "2026-08-11 08:00:00",
+                "PM25_value": 14.8,
+                "PM25_aqi": 25,
+                "overall_aqi": 25,
                 "stationType": "GROUND"
             }
         },
