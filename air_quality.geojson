@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-11 22:38:08",
+        "last_updated_thai": "2026-08-11 23:00:33",
         "latest_station_date": "2026-08-12"
     },
     "features": [
@@ -36,8 +36,8 @@
             "properties": {
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
-                "timestamp": "2026-08-12 04:00:00",
-                "PM25_value": 11.6,
+                "timestamp": "2026-08-12 05:00:00",
+                "PM25_value": 11.5,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "GROUND"
@@ -113,7 +113,7 @@
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
                 "timestamp": "2026-08-12 05:00:00",
-                "PM25_value": 16.4,
+                "PM25_value": 16.2,
                 "PM25_aqi": 29,
                 "overall_aqi": 29,
                 "stationType": "GROUND"
@@ -132,9 +132,9 @@
                 "stationID": "52t",
                 "nameTH": "การไฟฟ้าย่อยธนบุรี ",
                 "timestamp": "2026-08-12 05:00:00",
-                "PM25_value": 13.8,
-                "PM25_aqi": 23,
-                "overall_aqi": 23,
+                "PM25_value": 16.0,
+                "PM25_aqi": 28,
+                "overall_aqi": 28,
                 "stationType": "GROUND"
             }
         },
@@ -151,9 +151,9 @@
                 "stationID": "53t",
                 "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
                 "timestamp": "2026-08-12 05:00:00",
-                "PM25_value": 12.1,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "PM25_value": 15.7,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
                 "stationType": "GROUND"
             }
         },
@@ -169,10 +169,10 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-08-11 15:00:00",
-                "PM25_value": 16.4,
-                "PM25_aqi": 29,
-                "overall_aqi": 29,
+                "timestamp": "2026-08-12 05:00:00",
+                "PM25_value": 16.7,
+                "PM25_aqi": 30,
+                "overall_aqi": 30,
                 "stationType": "GROUND"
             }
         },
@@ -189,9 +189,9 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-08-12 05:00:00",
-                "PM25_value": 9.3,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "PM25_value": 10.0,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "GROUND"
             }
         },
@@ -2070,7 +2070,7 @@
                 "stationID": "20t",
                 "nameTH": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
                 "timestamp": "2026-08-12 05:00:00",
-                "PM25_value": 16.9,
+                "PM25_value": 16.8,
                 "PM25_aqi": 30,
                 "overall_aqi": 30,
                 "stationType": "GROUND"
@@ -2792,9 +2792,9 @@
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
                 "timestamp": "2026-08-12 05:00:00",
-                "PM25_value": 8.6,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "PM25_value": 9.2,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
                 "stationType": "GROUND"
             }
         },
