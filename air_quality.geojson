@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-13 01:44:24",
+        "last_updated_thai": "2026-08-13 02:00:31",
         "latest_station_date": "2026-08-13"
     },
     "features": [
@@ -55,10 +55,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-08-13 07:00:00",
-                "PM25_value": 16.0,
-                "PM25_aqi": 28,
-                "overall_aqi": 28,
+                "timestamp": "2026-08-13 08:00:00",
+                "PM25_value": 16.3,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "GROUND"
             }
         },
@@ -74,8 +74,8 @@
             "properties": {
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
-                "timestamp": "2026-08-13 07:00:00",
-                "PM25_value": 12.4,
+                "timestamp": "2026-08-13 08:00:00",
+                "PM25_value": 12.7,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -93,8 +93,8 @@
             "properties": {
                 "stationID": "12t",
                 "nameTH": "โรงเรียนนนทรีวิทยา ",
-                "timestamp": "2026-08-13 07:00:00",
-                "PM25_value": 12.3,
+                "timestamp": "2026-08-13 08:00:00",
+                "PM25_value": 12.5,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -208,7 +208,7 @@
                 "stationID": "61t",
                 "nameTH": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
                 "timestamp": "2026-08-13 08:00:00",
-                "PM25_value": 11.7,
+                "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
