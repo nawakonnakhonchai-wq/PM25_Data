@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-15 19:19:40",
+        "last_updated_thai": "2026-08-15 20:00:31",
         "latest_station_date": "2026-08-16"
     },
     "features": [
@@ -1537,7 +1537,7 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-08-16 01:00:00",
+                "timestamp": "2026-08-16 02:00:00",
                 "PM25_value": 17.4,
                 "PM25_aqi": 32,
                 "overall_aqi": 32,
@@ -2791,10 +2791,10 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-08-16 01:00:00",
-                "PM25_value": 12.2,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "timestamp": "2026-08-16 02:00:00",
+                "PM25_value": 12.4,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
                 "stationType": "GROUND"
             }
         },
