@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-17 04:37:47",
+        "last_updated_thai": "2026-08-17 05:00:31",
         "latest_station_date": "2026-08-17"
     },
     "features": [
@@ -75,9 +75,9 @@
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
                 "timestamp": "2026-08-17 11:00:00",
-                "PM25_value": 12.2,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "PM25_value": 10.4,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "GROUND"
             }
         },
