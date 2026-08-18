@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-18 15:28:14",
+        "last_updated_thai": "2026-08-18 16:27:26",
         "latest_station_date": "2026-08-18"
     },
     "features": [
@@ -1651,8 +1651,8 @@
             "properties": {
                 "stationID": "33t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
-                "timestamp": "2026-08-18 21:00:00",
-                "PM25_value": 10.7,
+                "timestamp": "2026-08-18 22:00:00",
+                "PM25_value": 10.9,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
                 "stationType": "GROUND"
