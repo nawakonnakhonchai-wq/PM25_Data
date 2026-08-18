@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-18 19:24:50",
+        "last_updated_thai": "2026-08-18 20:00:36",
         "latest_station_date": "2026-08-19"
     },
     "features": [
@@ -1537,10 +1537,10 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-08-19 01:00:00",
-                "PM25_value": 16.5,
-                "PM25_aqi": 29,
-                "overall_aqi": 29,
+                "timestamp": "2026-08-19 02:00:00",
+                "PM25_value": 17.1,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
                 "stationType": "GROUND"
             }
         },
@@ -1651,10 +1651,10 @@
             "properties": {
                 "stationID": "33t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเขาหิน",
-                "timestamp": "2026-08-19 00:00:00",
-                "PM25_value": 11.5,
-                "PM25_aqi": 19,
-                "overall_aqi": 19,
+                "timestamp": "2026-08-19 02:00:00",
+                "PM25_value": 11.7,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
                 "stationType": "GROUND"
             }
         },
@@ -2772,10 +2772,10 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-08-19 01:00:00",
-                "PM25_value": 12.4,
-                "PM25_aqi": 21,
-                "overall_aqi": 21,
+                "timestamp": "2026-08-19 02:00:00",
+                "PM25_value": 12.9,
+                "PM25_aqi": 22,
+                "overall_aqi": 22,
                 "stationType": "GROUND"
             }
         },
