@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-21 10:26:42",
+        "last_updated_thai": "2026-08-21 11:00:35",
         "latest_station_date": "2026-08-21"
     },
     "features": [
@@ -37,7 +37,7 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-08-21 17:00:00",
-                "PM25_value": 10.2,
+                "PM25_value": 9.9,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -55,8 +55,8 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-08-21 16:00:00",
-                "PM25_value": 13.0,
+                "timestamp": "2026-08-21 17:00:00",
+                "PM25_value": 12.9,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
                 "stationType": "GROUND"
@@ -74,7 +74,7 @@
             "properties": {
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
-                "timestamp": "2026-08-21 16:00:00",
+                "timestamp": "2026-08-21 17:00:00",
                 "PM25_value": 10.4,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
@@ -93,8 +93,8 @@
             "properties": {
                 "stationID": "12t",
                 "nameTH": "โรงเรียนนนทรีวิทยา ",
-                "timestamp": "2026-08-21 16:00:00",
-                "PM25_value": 10.3,
+                "timestamp": "2026-08-21 17:00:00",
+                "PM25_value": 10.2,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -151,7 +151,7 @@
                 "stationID": "53t",
                 "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
                 "timestamp": "2026-08-21 17:00:00",
-                "PM25_value": 12.0,
+                "PM25_value": 12.2,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
@@ -169,7 +169,7 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-08-21 16:00:00",
+                "timestamp": "2026-08-21 17:00:00",
                 "PM25_value": 13.0,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
@@ -189,8 +189,8 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-08-21 17:00:00",
-                "PM25_value": 9.2,
-                "PM25_aqi": 15,
+                "PM25_value": 9.5,
+                "PM25_aqi": 16,
                 "overall_aqi": 18,
                 "stationType": "GROUND"
             }
@@ -208,7 +208,7 @@
                 "stationID": "61t",
                 "nameTH": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
                 "timestamp": "2026-08-21 17:00:00",
-                "PM25_value": 10.1,
+                "PM25_value": 10.0,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "GROUND"
@@ -2735,9 +2735,9 @@
                 "stationID": "17t",
                 "nameTH": "บ้านพักกรมอุตสาหกรรมพื้นฐานและการเหมืองแร่",
                 "timestamp": "2026-08-21 17:00:00",
-                "PM25_value": 10.4,
-                "PM25_aqi": 17,
-                "overall_aqi": 17,
+                "PM25_value": 10.6,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
@@ -2772,8 +2772,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-08-21 16:00:00",
-                "PM25_value": 11.8,
+                "timestamp": "2026-08-21 17:00:00",
+                "PM25_value": 12.2,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
