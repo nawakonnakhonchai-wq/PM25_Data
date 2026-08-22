@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-22 19:20:05",
+        "last_updated_thai": "2026-08-22 20:00:31",
         "latest_station_date": "2026-08-23"
     },
     "features": [
@@ -112,8 +112,8 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-08-23 01:00:00",
-                "PM25_value": 12.4,
+                "timestamp": "2026-08-23 02:00:00",
+                "PM25_value": 12.6,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "GROUND"
@@ -1537,10 +1537,10 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-08-23 01:00:00",
-                "PM25_value": 15.3,
-                "PM25_aqi": 26,
-                "overall_aqi": 26,
+                "timestamp": "2026-08-23 02:00:00",
+                "PM25_value": 15.0,
+                "PM25_aqi": 25,
+                "overall_aqi": 25,
                 "stationType": "GROUND"
             }
         },
@@ -2772,8 +2772,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-08-23 01:00:00",
-                "PM25_value": 8.2,
+                "timestamp": "2026-08-23 02:00:00",
+                "PM25_value": 8.4,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
                 "stationType": "GROUND"
