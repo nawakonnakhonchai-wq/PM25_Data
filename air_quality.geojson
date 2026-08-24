@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-24 16:33:19",
+        "last_updated_thai": "2026-08-24 17:00:39",
         "latest_station_date": "2026-08-24"
     },
     "features": [
@@ -112,10 +112,10 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-08-24 22:00:00",
-                "PM25_value": 13.4,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "timestamp": "2026-08-24 23:00:00",
+                "PM25_value": 13.8,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -1898,10 +1898,10 @@
             "properties": {
                 "stationID": "89t",
                 "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
-                "timestamp": "2026-08-24 20:00:00",
-                "PM25_value": 27.5,
-                "PM25_aqi": 60,
-                "overall_aqi": 60,
+                "timestamp": "2026-08-24 23:00:00",
+                "PM25_value": 25.7,
+                "PM25_aqi": 53,
+                "overall_aqi": 53,
                 "stationType": "GROUND"
             }
         },
@@ -1974,10 +1974,10 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-08-24 20:00:00",
-                "PM25_value": 28.5,
-                "PM25_aqi": 64,
-                "overall_aqi": 64,
+                "timestamp": "2026-08-24 23:00:00",
+                "PM25_value": 26.7,
+                "PM25_aqi": 57,
+                "overall_aqi": 57,
                 "stationType": "GROUND"
             }
         },
@@ -2297,10 +2297,10 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-08-24 20:00:00",
-                "PM25_value": 27.9,
-                "PM25_aqi": 62,
-                "overall_aqi": 62,
+                "timestamp": "2026-08-24 23:00:00",
+                "PM25_value": 26.1,
+                "PM25_aqi": 55,
+                "overall_aqi": 55,
                 "stationType": "GROUND"
             }
         },
@@ -2677,10 +2677,10 @@
             "properties": {
                 "stationID": "80t",
                 "nameTH": "ศาลากลาง จ.สตูล",
-                "timestamp": "2026-08-24 20:00:00",
-                "PM25_value": 27.6,
-                "PM25_aqi": 61,
-                "overall_aqi": 61,
+                "timestamp": "2026-08-24 23:00:00",
+                "PM25_value": 25.9,
+                "PM25_aqi": 54,
+                "overall_aqi": 54,
                 "stationType": "GROUND"
             }
         },
@@ -2943,10 +2943,10 @@
             "properties": {
                 "stationID": "42t",
                 "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่ 14",
-                "timestamp": "2026-08-24 20:00:00",
-                "PM25_value": 27.2,
-                "PM25_aqi": 59,
-                "overall_aqi": 59,
+                "timestamp": "2026-08-24 23:00:00",
+                "PM25_value": 25.6,
+                "PM25_aqi": 53,
+                "overall_aqi": 53,
                 "stationType": "GROUND"
             }
         },
