@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-26 07:42:38",
+        "last_updated_thai": "2026-08-26 08:00:35",
         "latest_station_date": "2026-08-26"
     },
     "features": [
@@ -94,9 +94,9 @@
                 "stationID": "12t",
                 "nameTH": "โรงเรียนนนทรีวิทยา ",
                 "timestamp": "2026-08-26 14:00:00",
-                "PM25_value": 10.0,
-                "PM25_aqi": 17,
-                "overall_aqi": 17,
+                "PM25_value": 10.7,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
