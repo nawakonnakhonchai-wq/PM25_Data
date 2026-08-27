@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-27 13:44:15",
+        "last_updated_thai": "2026-08-27 14:00:36",
         "latest_station_date": "2026-08-27"
     },
     "features": [
@@ -1747,9 +1747,9 @@
                 "stationID": "118t",
                 "nameTH": "สนามกีฬา จ.ชุมพร",
                 "timestamp": "2026-08-27 20:00:00",
-                "PM25_value": 7.3,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "PM25_value": 7.8,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "GROUND"
             }
         },
@@ -1766,9 +1766,9 @@
                 "stationID": "93t",
                 "nameTH": "วิทยาลัยสารพัดช่างตรัง",
                 "timestamp": "2026-08-27 20:00:00",
-                "PM25_value": 11.1,
-                "PM25_aqi": 19,
-                "overall_aqi": 19,
+                "PM25_value": 12.4,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
                 "stationType": "GROUND"
             }
         },
@@ -2126,7 +2126,7 @@
             "properties": {
                 "stationID": "121t",
                 "nameTH": "ศูนย์ป่าไม้จังหวัดปัตตานี",
-                "timestamp": "2026-08-27 18:00:00",
+                "timestamp": "2026-08-27 20:00:00",
                 "PM25_value": 13.3,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
@@ -2184,9 +2184,9 @@
                 "stationID": "120t",
                 "nameTH": "สนามกีฬากลางจังหวัดพัทลุง",
                 "timestamp": "2026-08-27 20:00:00",
-                "PM25_value": 12.0,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "PM25_value": 12.6,
+                "PM25_aqi": 21,
+                "overall_aqi": 21,
                 "stationType": "GROUND"
             }
         },
@@ -2317,9 +2317,9 @@
                 "stationID": "78t",
                 "nameTH": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
                 "timestamp": "2026-08-27 20:00:00",
-                "PM25_value": 13.8,
-                "PM25_aqi": 23,
-                "overall_aqi": 23,
+                "PM25_value": 12.9,
+                "PM25_aqi": 22,
+                "overall_aqi": 22,
                 "stationType": "GROUND"
             }
         },
