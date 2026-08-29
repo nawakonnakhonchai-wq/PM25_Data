@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-29 10:45:09",
+        "last_updated_thai": "2026-08-29 11:00:36",
         "latest_station_date": "2026-08-29"
     },
     "features": [
@@ -2735,9 +2735,9 @@
                 "stationID": "17t",
                 "nameTH": "บ้านพักกรมอุตสาหกรรมพื้นฐานและการเหมืองแร่",
                 "timestamp": "2026-08-29 17:00:00",
-                "PM25_value": 9.7,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "PM25_value": 10.0,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "GROUND"
             }
         },
