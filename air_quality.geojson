@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-29 19:10:06",
+        "last_updated_thai": "2026-08-29 20:00:34",
         "latest_station_date": "2026-08-30"
     },
     "features": [
@@ -36,8 +36,8 @@
             "properties": {
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 10.6,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 10.7,
                 "PM25_aqi": 18,
                 "overall_aqi": 18,
                 "stationType": "GROUND"
@@ -265,7 +265,7 @@
                 "stationID": "bkp102t",
                 "nameTH": "สำนักงานเขตจอมทอง",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 7.9,
+                "PM25_value": 7.8,
                 "PM25_aqi": 13,
                 "overall_aqi": 17,
                 "stationType": "BKK"
@@ -283,8 +283,8 @@
             "properties": {
                 "stationID": "bkp103t",
                 "nameTH": "สำนักงานเขตบางพลัด",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 13.7,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 13.6,
                 "PM25_aqi": 23,
                 "overall_aqi": 23,
                 "stationType": "BKK"
@@ -303,7 +303,7 @@
                 "stationID": "bkp104t",
                 "nameTH": "สำนักงานเขตบางแค",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 9.6,
+                "PM25_value": 9.5,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "BKK"
@@ -378,8 +378,8 @@
             "properties": {
                 "stationID": "bkp116t",
                 "nameTH": "สวนจตุจักร ถนนพหลโยธิน แขวงจตุจักร เขตจตุจักร",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 10.1,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 10.2,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "BKK"
@@ -397,7 +397,7 @@
             "properties": {
                 "stationID": "bkp117t",
                 "nameTH": "สวนหลวง ร.9 ถนนเฉลิมพระเกียรติ ร.9 แขวงหนองบอน เขตประเวศ",
-                "timestamp": "2026-08-30 01:00:00",
+                "timestamp": "2026-08-30 02:00:00",
                 "PM25_value": 5.7,
                 "PM25_aqi": 10,
                 "overall_aqi": 10,
@@ -416,10 +416,10 @@
             "properties": {
                 "stationID": "bkp118t",
                 "nameTH": "สวน 60 พรรษาสมเด็จพระนางเจ้าพระบรมราชินีนาถ ถนนเคหะร่มเกล้า เขตลาดกระบัง",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 11.6,
-                "PM25_aqi": 19,
-                "overall_aqi": 19,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 11.8,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
                 "stationType": "BKK"
             }
         },
@@ -435,10 +435,10 @@
             "properties": {
                 "stationID": "bkp119t",
                 "nameTH": "อุทยานเบญจสิริ",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 10.7,
-                "PM25_aqi": 18,
-                "overall_aqi": 18,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 10.4,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "BKK"
             }
         },
@@ -454,10 +454,10 @@
             "properties": {
                 "stationID": "bkp120t",
                 "nameTH": "สวนรมณีย์ทุ่งสีกัน",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 11.0,
-                "PM25_aqi": 18,
-                "overall_aqi": 18,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 11.1,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "BKK"
             }
         },
@@ -473,7 +473,7 @@
             "properties": {
                 "stationID": "bkp121t",
                 "nameTH": "สวนธนบุรีรมย์",
-                "timestamp": "2026-08-30 01:00:00",
+                "timestamp": "2026-08-30 02:00:00",
                 "PM25_value": 6.3,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
@@ -492,8 +492,8 @@
             "properties": {
                 "stationID": "bkp122t",
                 "nameTH": "สวนเบญจกิติ",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 7.2,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 7.4,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "BKK"
@@ -511,8 +511,8 @@
             "properties": {
                 "stationID": "bkp123t",
                 "nameTH": "สวนสมเด็จพระนางเจ้าสิริกิติ์ฯ",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 7.8,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 7.9,
                 "PM25_aqi": 13,
                 "overall_aqi": 13,
                 "stationType": "BKK"
@@ -530,8 +530,8 @@
             "properties": {
                 "stationID": "bkp124t",
                 "nameTH": "สวนเฉลิมพระเกียรติ 80 พรรษา",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 12.6,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 12.4,
                 "PM25_aqi": 21,
                 "overall_aqi": 21,
                 "stationType": "BKK"
@@ -568,8 +568,8 @@
             "properties": {
                 "stationID": "bkp126t",
                 "nameTH": "สวนบางแคภิรมย์",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 12.0,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "BKK"
@@ -587,8 +587,8 @@
             "properties": {
                 "stationID": "bkp127t",
                 "nameTH": "สวนทวีวนารมย์",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 18.3,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 18.4,
                 "PM25_aqi": 34,
                 "overall_aqi": 34,
                 "stationType": "BKK"
@@ -606,10 +606,10 @@
             "properties": {
                 "stationID": "bkp128t",
                 "nameTH": "สวนพระนคร",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 5.6,
-                "PM25_aqi": 9,
-                "overall_aqi": 9,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 5.8,
+                "PM25_aqi": 10,
+                "overall_aqi": 10,
                 "stationType": "BKK"
             }
         },
@@ -625,10 +625,10 @@
             "properties": {
                 "stationID": "bkp129t",
                 "nameTH": "สวนหนองจอก",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 9.2,
-                "PM25_aqi": 15,
-                "overall_aqi": 15,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 9.5,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
                 "stationType": "BKK"
             }
         },
@@ -644,7 +644,7 @@
             "properties": {
                 "stationID": "bkp130t",
                 "nameTH": "สวนกีฬารามอินทรา",
-                "timestamp": "2026-08-30 01:00:00",
+                "timestamp": "2026-08-30 02:00:00",
                 "PM25_value": 10.4,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
@@ -663,10 +663,10 @@
             "properties": {
                 "stationID": "bkp131t",
                 "nameTH": "สวนสาธารณะเฉลิมพระเกียรติ 6 รอบพระชนมพรรษา",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 8.1,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 8.0,
+                "PM25_aqi": 13,
+                "overall_aqi": 13,
                 "stationType": "BKK"
             }
         },
@@ -682,8 +682,8 @@
             "properties": {
                 "stationID": "bkp133t",
                 "nameTH": "สวนหลวงพระราม 8",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 8.8,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 9.0,
                 "PM25_aqi": 15,
                 "overall_aqi": 15,
                 "stationType": "BKK"
@@ -778,7 +778,7 @@
                 "stationID": "bkp60t",
                 "nameTH": "ริมสวนหย่อมตรงข้ามสำนักงานเขตดุสิต",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 9.9,
+                "PM25_value": 10.1,
                 "PM25_aqi": 17,
                 "overall_aqi": 17,
                 "stationType": "BKK"
@@ -797,9 +797,9 @@
                 "stationID": "bkp61t",
                 "nameTH": "สำนักงานคณะกรรมการพัฒนาเศรษฐกิจและสังคมแห่งชาติ",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 10.8,
-                "PM25_aqi": 18,
-                "overall_aqi": 18,
+                "PM25_value": 11.1,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "BKK"
             }
         },
@@ -949,7 +949,7 @@
                 "stationID": "bkp70t",
                 "nameTH": "ริมถนนซอยสุขุมวิท 63",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 8.3,
+                "PM25_value": 8.2,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
                 "stationType": "BKK"
@@ -968,7 +968,7 @@
                 "stationID": "bkp71t",
                 "nameTH": "สำนักงานเขตสวนหลวง",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 7.6,
+                "PM25_value": 7.7,
                 "PM25_aqi": 13,
                 "overall_aqi": 16,
                 "stationType": "BKK"
@@ -1005,8 +1005,8 @@
             "properties": {
                 "stationID": "bkp73t",
                 "nameTH": "มหาวิทยาลัยเกษตรศาสตร์",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 14.6,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 14.4,
                 "PM25_aqi": 24,
                 "overall_aqi": 24,
                 "stationType": "BKK"
@@ -1025,7 +1025,7 @@
                 "stationID": "bkp74t",
                 "nameTH": "สำนักงานเขตดอนเมือง",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 9.7,
+                "PM25_value": 9.6,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "BKK"
@@ -1062,8 +1062,8 @@
             "properties": {
                 "stationID": "bkp76t",
                 "nameTH": "สำนักงานเขตบางกะปิ",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 9.3,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 9.4,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "BKK"
@@ -1082,9 +1082,9 @@
                 "stationID": "bkp77t",
                 "nameTH": "แยกสวนสยาม-รามอินทรา",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 10.4,
-                "PM25_aqi": 17,
-                "overall_aqi": 17,
+                "PM25_value": 10.5,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "BKK"
             }
         },
@@ -1139,9 +1139,9 @@
                 "stationID": "bkp80t",
                 "nameTH": "สำนักงานเขตหนองจอก",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 15.3,
-                "PM25_aqi": 26,
-                "overall_aqi": 26,
+                "PM25_value": 15.5,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
                 "stationType": "BKK"
             }
         },
@@ -1158,7 +1158,7 @@
                 "stationID": "bkp81t",
                 "nameTH": "ซีคอน สแควร์",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 17.7,
+                "PM25_value": 17.4,
                 "PM25_aqi": 32,
                 "overall_aqi": 38,
                 "stationType": "BKK"
@@ -1215,7 +1215,7 @@
                 "stationID": "bkp84t",
                 "nameTH": "สี่แยกท่าพระ",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 15.7,
+                "PM25_value": 15.4,
                 "PM25_aqi": 27,
                 "overall_aqi": 27,
                 "stationType": "BKK"
@@ -1253,9 +1253,9 @@
                 "stationID": "bkp86t",
                 "nameTH": "ถนนพุทธมณฑลสาย 1 ตัดกับถนนบรมราชชนนี",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 12.5,
-                "PM25_aqi": 21,
-                "overall_aqi": 21,
+                "PM25_value": 12.0,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
                 "stationType": "BKK"
             }
         },
@@ -1272,7 +1272,7 @@
                 "stationID": "bkp87t",
                 "nameTH": "ตลาดธนบุรีสนามหลวง 2",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 13.6,
+                "PM25_value": 13.7,
                 "PM25_aqi": 23,
                 "overall_aqi": 23,
                 "stationType": "BKK"
@@ -1290,8 +1290,8 @@
             "properties": {
                 "stationID": "bkp88t",
                 "nameTH": "มหาวิทยาลัยสยาม",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 12.0,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 11.8,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "BKK"
@@ -1310,7 +1310,7 @@
                 "stationID": "bkp89t",
                 "nameTH": "ริมถนนมาเจริญ เพชรเกษม 8, เขตหนองแขม",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 16.0,
+                "PM25_value": 15.9,
                 "PM25_aqi": 28,
                 "overall_aqi": 28,
                 "stationType": "BKK"
@@ -1329,9 +1329,9 @@
                 "stationID": "bkp90t",
                 "nameTH": "ตลาดบางบอน 5",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 12.4,
-                "PM25_aqi": 21,
-                "overall_aqi": 21,
+                "PM25_value": 12.2,
+                "PM25_aqi": 20,
+                "overall_aqi": 20,
                 "stationType": "BKK"
             }
         },
@@ -1348,7 +1348,7 @@
                 "stationID": "bkp91t",
                 "nameTH": "มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าธนบุรี",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 8.2,
+                "PM25_value": 8.1,
                 "PM25_aqi": 14,
                 "overall_aqi": 18,
                 "stationType": "BKK"
@@ -1404,7 +1404,7 @@
             "properties": {
                 "stationID": "bkp94t",
                 "nameTH": "สำนักงานเขตคลองเตย",
-                "timestamp": "2026-08-30 01:00:00",
+                "timestamp": "2026-08-30 02:00:00",
                 "PM25_value": 15.5,
                 "PM25_aqi": 27,
                 "overall_aqi": 27,
@@ -1461,8 +1461,8 @@
             "properties": {
                 "stationID": "bkp97t",
                 "nameTH": "สำนักงานเขตหลักสี่",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 14.1,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 14.2,
                 "PM25_aqi": 24,
                 "overall_aqi": 24,
                 "stationType": "BKK"
@@ -1500,9 +1500,9 @@
                 "stationID": "bkp99t",
                 "nameTH": "สำนักงานเขตสะพานสูง",
                 "timestamp": "2026-08-30 02:00:00",
-                "PM25_value": 8.6,
-                "PM25_aqi": 14,
-                "overall_aqi": 14,
+                "PM25_value": 8.8,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
                 "stationType": "BKK"
             }
         },
@@ -1537,8 +1537,8 @@
             "properties": {
                 "stationID": "79t",
                 "nameTH": "สถานีอุตุนิยมวิทยา จ.กาญจนบุรี",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 19.2,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 19.4,
                 "PM25_aqi": 36,
                 "overall_aqi": 36,
                 "stationType": "GROUND"
@@ -1632,10 +1632,10 @@
             "properties": {
                 "stationID": "60t",
                 "nameTH": "สำนักงานเทศบาลตำบลทุ่งสะเดา",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 13.7,
-                "PM25_aqi": 23,
-                "overall_aqi": 23,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 14.4,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
                 "stationType": "GROUND"
             }
         },
@@ -1689,8 +1689,8 @@
             "properties": {
                 "stationID": "o61",
                 "nameTH": "สนามกีฬาเทศบาลแหลมฉบัง ",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 8.2,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 8.3,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
                 "stationType": "GROUND"
@@ -2354,8 +2354,8 @@
             "properties": {
                 "stationID": "28t",
                 "nameTH": "สำนักงานสาธารณสุขอำเภอปลวกแดง",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 12.0,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 20,
                 "stationType": "GROUND"
@@ -2373,7 +2373,7 @@
             "properties": {
                 "stationID": "29t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลมาบตาพุด ",
-                "timestamp": "2026-08-30 01:00:00",
+                "timestamp": "2026-08-30 02:00:00",
                 "PM25_value": 11.9,
                 "PM25_aqi": 20,
                 "overall_aqi": 21,
@@ -2430,10 +2430,10 @@
             "properties": {
                 "stationID": "74t",
                 "nameTH": "ศูนย์ราชการจังหวัดระยอง ",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 15.7,
-                "PM25_aqi": 27,
-                "overall_aqi": 27,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 15.9,
+                "PM25_aqi": 28,
+                "overall_aqi": 28,
                 "stationType": "GROUND"
             }
         },
@@ -2449,10 +2449,10 @@
             "properties": {
                 "stationID": "o63",
                 "nameTH": "ค่ายสุรสิงหนาท",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 7.0,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 6.8,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "MOBILE"
             }
         },
@@ -2468,8 +2468,8 @@
             "properties": {
                 "stationID": "26t",
                 "nameTH": "สำนักงานสิ่งแวดล้อมภาคที่8",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 14.2,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 14.3,
                 "PM25_aqi": 24,
                 "overall_aqi": 24,
                 "stationType": "GROUND"
@@ -2772,7 +2772,7 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-08-30 01:00:00",
+                "timestamp": "2026-08-30 02:00:00",
                 "PM25_value": 8.3,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
@@ -3209,8 +3209,8 @@
             "properties": {
                 "stationID": "36t",
                 "nameTH": "โรงเรียนยุพราชวิทยาลัย ",
-                "timestamp": "2026-08-30 01:00:00",
-                "PM25_value": 9.5,
+                "timestamp": "2026-08-30 02:00:00",
+                "PM25_value": 9.4,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "GROUND"
