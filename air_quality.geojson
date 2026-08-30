@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-08-30 13:30:48",
+        "last_updated_thai": "2026-08-30 14:00:38",
         "latest_station_date": "2026-08-30"
     },
     "features": [
@@ -2772,8 +2772,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-08-30 19:00:00",
-                "PM25_value": 9.6,
+                "timestamp": "2026-08-30 20:00:00",
+                "PM25_value": 9.8,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "GROUND"
