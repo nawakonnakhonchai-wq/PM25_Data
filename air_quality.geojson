@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-09-02 01:38:04",
+        "last_updated_thai": "2026-09-02 02:00:34",
         "latest_station_date": "2026-09-02"
     },
     "features": [
@@ -37,7 +37,7 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-09-02 08:00:00",
-                "PM25_value": 16.4,
+                "PM25_value": 16.3,
                 "PM25_aqi": 29,
                 "overall_aqi": 29,
                 "stationType": "GROUND"
@@ -55,10 +55,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-09-01 15:00:00",
-                "PM25_value": 20.1,
-                "PM25_aqi": 38,
-                "overall_aqi": 38,
+                "timestamp": "2026-09-02 08:00:00",
+                "PM25_value": 21.1,
+                "PM25_aqi": 41,
+                "overall_aqi": 41,
                 "stationType": "GROUND"
             }
         },
@@ -74,8 +74,8 @@
             "properties": {
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
-                "timestamp": "2026-09-02 07:00:00",
-                "PM25_value": 17.1,
+                "timestamp": "2026-09-02 08:00:00",
+                "PM25_value": 17.2,
                 "PM25_aqi": 31,
                 "overall_aqi": 31,
                 "stationType": "GROUND"
@@ -93,10 +93,10 @@
             "properties": {
                 "stationID": "12t",
                 "nameTH": "โรงเรียนนนทรีวิทยา ",
-                "timestamp": "2026-09-01 17:00:00",
-                "PM25_value": 16.4,
-                "PM25_aqi": 29,
-                "overall_aqi": 29,
+                "timestamp": "2026-09-02 08:00:00",
+                "PM25_value": 17.0,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
                 "stationType": "GROUND"
             }
         },
@@ -151,9 +151,9 @@
                 "stationID": "53t",
                 "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
                 "timestamp": "2026-09-02 08:00:00",
-                "PM25_value": 20.6,
-                "PM25_aqi": 39,
-                "overall_aqi": 39,
+                "PM25_value": 20.7,
+                "PM25_aqi": 40,
+                "overall_aqi": 40,
                 "stationType": "GROUND"
             }
         },
@@ -169,7 +169,7 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-09-02 07:00:00",
+                "timestamp": "2026-09-02 08:00:00",
                 "PM25_value": 21.2,
                 "PM25_aqi": 41,
                 "overall_aqi": 41,
@@ -208,7 +208,7 @@
                 "stationID": "61t",
                 "nameTH": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
                 "timestamp": "2026-09-02 08:00:00",
-                "PM25_value": 16.3,
+                "PM25_value": 16.4,
                 "PM25_aqi": 29,
                 "overall_aqi": 29,
                 "stationType": "GROUND"
@@ -1519,9 +1519,9 @@
                 "stationID": "o10",
                 "nameTH": "เคหะชุมชนคลองจั่น",
                 "timestamp": "2026-09-02 08:00:00",
-                "PM25_value": 16.3,
-                "PM25_aqi": 29,
-                "overall_aqi": 29,
+                "PM25_value": 16.7,
+                "PM25_aqi": 30,
+                "overall_aqi": 30,
                 "stationType": "GROUND"
             }
         },
@@ -2430,10 +2430,10 @@
             "properties": {
                 "stationID": "74t",
                 "nameTH": "ศูนย์ราชการจังหวัดระยอง ",
-                "timestamp": "2026-09-02 02:00:00",
-                "PM25_value": 20.3,
-                "PM25_aqi": 39,
-                "overall_aqi": 39,
+                "timestamp": "2026-09-02 08:00:00",
+                "PM25_value": 18.6,
+                "PM25_aqi": 34,
+                "overall_aqi": 34,
                 "stationType": "GROUND"
             }
         },
