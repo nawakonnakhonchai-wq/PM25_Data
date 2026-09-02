@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-09-02 10:35:48",
+        "last_updated_thai": "2026-09-02 11:00:33",
         "latest_station_date": "2026-09-02"
     },
     "features": [
@@ -987,9 +987,9 @@
                 "stationID": "bkp72t",
                 "nameTH": "บิ๊กซี ซุปเปอร์เซ็นเตอร์ บางนา",
                 "timestamp": "2026-09-02 17:00:00",
-                "PM25_value": 28.0,
-                "PM25_aqi": 62,
-                "overall_aqi": 62,
+                "PM25_value": 25.9,
+                "PM25_aqi": 54,
+                "overall_aqi": 54,
                 "stationType": "BKK"
             }
         },
