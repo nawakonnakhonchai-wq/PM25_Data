@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-09-04 10:33:28",
+        "last_updated_thai": "2026-09-04 11:00:33",
         "latest_station_date": "2026-09-04"
     },
     "features": [
@@ -55,10 +55,10 @@
             "properties": {
                 "stationID": "03t",
                 "nameTH": "ริมถนนทางหลวงหมายเลข 3902 ",
-                "timestamp": "2026-09-04 15:00:00",
-                "PM25_value": 18.6,
-                "PM25_aqi": 34,
-                "overall_aqi": 34,
+                "timestamp": "2026-09-04 17:00:00",
+                "PM25_value": 18.1,
+                "PM25_aqi": 33,
+                "overall_aqi": 33,
                 "stationType": "GROUND"
             }
         },
@@ -189,9 +189,9 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-09-04 17:00:00",
-                "PM25_value": 13.3,
-                "PM25_aqi": 22,
-                "overall_aqi": 22,
+                "PM25_value": 13.9,
+                "PM25_aqi": 23,
+                "overall_aqi": 23,
                 "stationType": "GROUND"
             }
         },
@@ -208,7 +208,7 @@
                 "stationID": "61t",
                 "nameTH": "โรงเรียนบดินทรเดชา (สิงห์ สิงหเสนี) ",
                 "timestamp": "2026-09-04 17:00:00",
-                "PM25_value": 14.4,
+                "PM25_value": 14.5,
                 "PM25_aqi": 24,
                 "overall_aqi": 24,
                 "stationType": "GROUND"
@@ -1519,7 +1519,7 @@
                 "stationID": "o10",
                 "nameTH": "เคหะชุมชนคลองจั่น",
                 "timestamp": "2026-09-04 17:00:00",
-                "PM25_value": 14.8,
+                "PM25_value": 14.9,
                 "PM25_aqi": 25,
                 "overall_aqi": 25,
                 "stationType": "GROUND"
@@ -2012,10 +2012,10 @@
             "properties": {
                 "stationID": "75t",
                 "nameTH": "โรงพยาบาลเฉลิมพระเกียรติ ",
-                "timestamp": "2026-09-04 15:00:00",
-                "PM25_value": 9.5,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "timestamp": "2026-09-04 16:00:00",
+                "PM25_value": 9.0,
+                "PM25_aqi": 15,
+                "overall_aqi": 15,
                 "stationType": "GROUND"
             }
         },
