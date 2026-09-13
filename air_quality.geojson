@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-09-13 22:51:02",
+        "last_updated_thai": "2026-09-13 23:00:33",
         "latest_station_date": "2026-09-14"
     },
     "features": [
@@ -2544,10 +2544,10 @@
             "properties": {
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
-                "timestamp": "2026-09-13 17:00:00",
-                "PM25_value": 14.9,
-                "PM25_aqi": 25,
-                "overall_aqi": 33,
+                "timestamp": "2026-09-14 05:00:00",
+                "PM25_value": 15.2,
+                "PM25_aqi": 26,
+                "overall_aqi": 26,
                 "stationType": "GROUND"
             }
         },
@@ -2563,8 +2563,8 @@
             "properties": {
                 "stationID": "39t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
-                "timestamp": "2026-09-13 17:00:00",
-                "PM25_value": 14.8,
+                "timestamp": "2026-09-14 05:00:00",
+                "PM25_value": 14.9,
                 "PM25_aqi": 25,
                 "overall_aqi": 25,
                 "stationType": "GROUND"
