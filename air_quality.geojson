@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-09-15 22:48:09",
+        "last_updated_thai": "2026-09-15 23:00:35",
         "latest_station_date": "2026-09-16"
     },
     "features": [
@@ -74,10 +74,10 @@
             "properties": {
                 "stationID": "05t",
                 "nameTH": "กรมอุตุนิยมวิทยาบางนา",
-                "timestamp": "2026-09-15 15:00:00",
-                "PM25_value": 17.3,
-                "PM25_aqi": 31,
-                "overall_aqi": 31,
+                "timestamp": "2026-09-16 05:00:00",
+                "PM25_value": 14.5,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
                 "stationType": "GROUND"
             }
         },
@@ -2525,10 +2525,10 @@
             "properties": {
                 "stationID": "37t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
-                "timestamp": "2026-09-15 17:00:00",
-                "PM25_value": 12.3,
-                "PM25_aqi": 21,
-                "overall_aqi": 21,
+                "timestamp": "2026-09-16 05:00:00",
+                "PM25_value": 11.5,
+                "PM25_aqi": 19,
+                "overall_aqi": 19,
                 "stationType": "GROUND"
             }
         },
@@ -2544,10 +2544,10 @@
             "properties": {
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
-                "timestamp": "2026-09-15 17:00:00",
-                "PM25_value": 12.0,
-                "PM25_aqi": 20,
-                "overall_aqi": 21,
+                "timestamp": "2026-09-16 05:00:00",
+                "PM25_value": 11.0,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
@@ -2563,10 +2563,10 @@
             "properties": {
                 "stationID": "39t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
-                "timestamp": "2026-09-15 17:00:00",
-                "PM25_value": 11.8,
-                "PM25_aqi": 20,
-                "overall_aqi": 20,
+                "timestamp": "2026-09-16 05:00:00",
+                "PM25_value": 10.9,
+                "PM25_aqi": 18,
+                "overall_aqi": 18,
                 "stationType": "GROUND"
             }
         },
