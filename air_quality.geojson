@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-09-15 16:13:15",
+        "last_updated_thai": "2026-09-15 17:00:35",
         "latest_station_date": "2026-09-15"
     },
     "features": [
@@ -36,8 +36,8 @@
             "properties": {
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 15.5,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 15.4,
                 "PM25_aqi": 27,
                 "overall_aqi": 27,
                 "stationType": "GROUND"
@@ -112,10 +112,10 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 17.6,
-                "PM25_aqi": 32,
-                "overall_aqi": 32,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 17.3,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
                 "stationType": "GROUND"
             }
         },
@@ -1689,8 +1689,8 @@
             "properties": {
                 "stationID": "o61",
                 "nameTH": "สนามกีฬาเทศบาลแหลมฉบัง ",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 11.1,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 11.2,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "GROUND"
@@ -1955,8 +1955,8 @@
             "properties": {
                 "stationID": "22t",
                 "nameTH": "มหาวิทยาลัยสุโขทัยธรรมาธิราช ",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 13.3,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 13.0,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
                 "stationType": "GROUND"
@@ -2069,10 +2069,10 @@
             "properties": {
                 "stationID": "20t",
                 "nameTH": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 22.5,
-                "PM25_aqi": 44,
-                "overall_aqi": 44,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 22.3,
+                "PM25_aqi": 43,
+                "overall_aqi": 43,
                 "stationType": "GROUND"
             }
         },
@@ -2278,8 +2278,8 @@
             "properties": {
                 "stationID": "102t",
                 "nameTH": "สนามกีฬากลางจังหวัดมุกดาหาร",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 9.6,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 9.5,
                 "PM25_aqi": 16,
                 "overall_aqi": 16,
                 "stationType": "GROUND"
@@ -3114,8 +3114,8 @@
             "properties": {
                 "stationID": "83t",
                 "nameTH": "ศูนย์แสดงและจำหน่ายสินค้า OTOP จังหวัดอุบลราชธานี",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 6.5,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 6.7,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
@@ -3133,8 +3133,8 @@
             "properties": {
                 "stationID": "116t",
                 "nameTH": " สวนน้ำเฉลิมพระเกียรติ ",
-                "timestamp": "2026-09-15 22:00:00",
-                "PM25_value": 14.5,
+                "timestamp": "2026-09-15 23:00:00",
+                "PM25_value": 14.1,
                 "PM25_aqi": 24,
                 "overall_aqi": 24,
                 "stationType": "GROUND"
