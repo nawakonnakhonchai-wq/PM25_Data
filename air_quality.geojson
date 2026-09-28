@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-09-28 10:31:49",
+        "last_updated_thai": "2026-09-28 11:00:34",
         "latest_station_date": "2026-09-28"
     },
     "features": [
@@ -873,9 +873,9 @@
                 "stationID": "bkp65t",
                 "nameTH": "สามย่านมิตรทาวน์",
                 "timestamp": "2026-09-28 17:00:00",
-                "PM25_value": 8.9,
-                "PM25_aqi": 15,
-                "overall_aqi": 15,
+                "PM25_value": 9.3,
+                "PM25_aqi": 16,
+                "overall_aqi": 16,
                 "stationType": "BKK"
             }
         },
@@ -1006,7 +1006,7 @@
                 "stationID": "bkp73t",
                 "nameTH": "มหาวิทยาลัยเกษตรศาสตร์",
                 "timestamp": "2026-09-28 17:00:00",
-                "PM25_value": 7.8,
+                "PM25_value": 7.9,
                 "PM25_aqi": 13,
                 "overall_aqi": 13,
                 "stationType": "BKK"
@@ -1120,9 +1120,9 @@
                 "stationID": "bkp79t",
                 "nameTH": "สวนเฉลิมพระเกียรติ ร.9",
                 "timestamp": "2026-09-28 17:00:00",
-                "PM25_value": 9.8,
-                "PM25_aqi": 16,
-                "overall_aqi": 16,
+                "PM25_value": 9.9,
+                "PM25_aqi": 17,
+                "overall_aqi": 17,
                 "stationType": "BKK"
             }
         },
@@ -1917,8 +1917,8 @@
             "properties": {
                 "stationID": "41t",
                 "nameTH": "โครงการชลประทานนครสวรรค์",
-                "timestamp": "2026-09-28 15:00:00",
-                "PM25_value": 7.0,
+                "timestamp": "2026-09-28 17:00:00",
+                "PM25_value": 7.1,
                 "PM25_aqi": 12,
                 "overall_aqi": 12,
                 "stationType": "GROUND"
@@ -2525,10 +2525,10 @@
             "properties": {
                 "stationID": "37t",
                 "nameTH": "สถานีอุตุนิยมวิทยาลำปาง",
-                "timestamp": "2026-09-28 15:00:00",
-                "PM25_value": 6.7,
-                "PM25_aqi": 11,
-                "overall_aqi": 11,
+                "timestamp": "2026-09-28 17:00:00",
+                "PM25_value": 6.9,
+                "PM25_aqi": 12,
+                "overall_aqi": 12,
                 "stationType": "GROUND"
             }
         },
@@ -2545,7 +2545,7 @@
                 "stationID": "38t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านสบป้าด ",
                 "timestamp": "2026-09-28 17:00:00",
-                "PM25_value": 6.3,
+                "PM25_value": 6.6,
                 "PM25_aqi": 11,
                 "overall_aqi": 14,
                 "stationType": "GROUND"
@@ -2564,9 +2564,9 @@
                 "stationID": "39t",
                 "nameTH": "โรงพยาบาลส่งเสริมสุขภาพตำบลท่าสี ",
                 "timestamp": "2026-09-28 17:00:00",
-                "PM25_value": 7.5,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "PM25_value": 6.4,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
@@ -2772,8 +2772,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-09-28 16:00:00",
-                "PM25_value": 6.6,
+                "timestamp": "2026-09-28 17:00:00",
+                "PM25_value": 6.7,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
