@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-10-04 22:42:34",
+        "last_updated_thai": "2026-10-04 23:00:33",
         "latest_station_date": "2026-10-05"
     },
     "features": [
@@ -37,9 +37,9 @@
                 "stationID": "02t",
                 "nameTH": "มหาวิทยาลัยราชภัฏบ้านสมเด็จเจ้าพระยา",
                 "timestamp": "2026-10-05 05:00:00",
-                "PM25_value": 18.0,
-                "PM25_aqi": 33,
-                "overall_aqi": 33,
+                "PM25_value": 17.2,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
                 "stationType": "GROUND"
             }
         },
@@ -113,7 +113,7 @@
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
                 "timestamp": "2026-10-05 05:00:00",
-                "PM25_value": 21.3,
+                "PM25_value": 21.1,
                 "PM25_aqi": 41,
                 "overall_aqi": 41,
                 "stationType": "GROUND"
@@ -132,9 +132,9 @@
                 "stationID": "52t",
                 "nameTH": "การไฟฟ้าย่อยธนบุรี ",
                 "timestamp": "2026-10-05 05:00:00",
-                "PM25_value": 19.1,
-                "PM25_aqi": 36,
-                "overall_aqi": 36,
+                "PM25_value": 20.8,
+                "PM25_aqi": 40,
+                "overall_aqi": 40,
                 "stationType": "GROUND"
             }
         },
@@ -151,9 +151,9 @@
                 "stationID": "53t",
                 "nameTH": "สถานีตำรวจนครบาลโชคชัย ",
                 "timestamp": "2026-10-05 05:00:00",
-                "PM25_value": 20.1,
-                "PM25_aqi": 38,
-                "overall_aqi": 38,
+                "PM25_value": 20.7,
+                "PM25_aqi": 40,
+                "overall_aqi": 40,
                 "stationType": "GROUND"
             }
         },
@@ -189,7 +189,7 @@
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
                 "timestamp": "2026-10-05 05:00:00",
-                "PM25_value": 15.8,
+                "PM25_value": 16.0,
                 "PM25_aqi": 28,
                 "overall_aqi": 28,
                 "stationType": "GROUND"
