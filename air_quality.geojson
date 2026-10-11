@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-10-11 16:32:15",
+        "last_updated_thai": "2026-10-11 17:00:33",
         "latest_station_date": "2026-10-11"
     },
     "features": [
@@ -1898,10 +1898,10 @@
             "properties": {
                 "stationID": "89t",
                 "nameTH": "ศูนย์ฟื้นฟูสุขภาพผู้สูงอายุ",
-                "timestamp": "2026-10-11 19:00:00",
-                "PM25_value": 13.6,
-                "PM25_aqi": 23,
-                "overall_aqi": 23,
+                "timestamp": "2026-10-11 23:00:00",
+                "PM25_value": 13.0,
+                "PM25_aqi": 22,
+                "overall_aqi": 22,
                 "stationType": "GROUND"
             }
         },
@@ -2772,8 +2772,8 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-10-11 22:00:00",
-                "PM25_value": 11.2,
+                "timestamp": "2026-10-11 23:00:00",
+                "PM25_value": 11.1,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "GROUND"
