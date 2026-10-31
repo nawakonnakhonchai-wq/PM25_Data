@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-10-31 19:13:29",
+        "last_updated_thai": "2026-10-31 20:00:34",
         "latest_station_date": "2026-11-01"
     },
     "features": [
@@ -17,10 +17,10 @@
             "properties": {
                 "stationID": "119t",
                 "nameTH": "สวนสาธารณะธารา",
-                "timestamp": "2026-11-01 01:00:00",
-                "PM25_value": 6.2,
-                "PM25_aqi": 10,
-                "overall_aqi": 10,
+                "timestamp": "2026-11-01 02:00:00",
+                "PM25_value": 6.4,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
@@ -188,7 +188,7 @@
             "properties": {
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
-                "timestamp": "2026-11-01 01:00:00",
+                "timestamp": "2026-11-01 02:00:00",
                 "PM25_value": 15.2,
                 "PM25_aqi": 26,
                 "overall_aqi": 26,
@@ -1005,7 +1005,7 @@
             "properties": {
                 "stationID": "bkp73t",
                 "nameTH": "มหาวิทยาลัยเกษตรศาสตร์",
-                "timestamp": "2026-11-01 01:00:00",
+                "timestamp": "2026-11-01 02:00:00",
                 "PM25_value": 21.4,
                 "PM25_aqi": 41,
                 "overall_aqi": 41,
@@ -1955,10 +1955,10 @@
             "properties": {
                 "stationID": "22t",
                 "nameTH": "มหาวิทยาลัยสุโขทัยธรรมาธิราช ",
-                "timestamp": "2026-11-01 01:00:00",
-                "PM25_value": 20.9,
-                "PM25_aqi": 40,
-                "overall_aqi": 40,
+                "timestamp": "2026-11-01 02:00:00",
+                "PM25_value": 21.6,
+                "PM25_aqi": 42,
+                "overall_aqi": 42,
                 "stationType": "GROUND"
             }
         },
@@ -2069,10 +2069,10 @@
             "properties": {
                 "stationID": "20t",
                 "nameTH": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
-                "timestamp": "2026-11-01 01:00:00",
-                "PM25_value": 26.3,
-                "PM25_aqi": 56,
-                "overall_aqi": 56,
+                "timestamp": "2026-11-01 02:00:00",
+                "PM25_value": 26.6,
+                "PM25_aqi": 57,
+                "overall_aqi": 57,
                 "stationType": "GROUND"
             }
         },
@@ -2449,8 +2449,8 @@
             "properties": {
                 "stationID": "o63",
                 "nameTH": "ค่ายสุรสิงหนาท",
-                "timestamp": "2026-11-01 01:00:00",
-                "PM25_value": 8.3,
+                "timestamp": "2026-11-01 02:00:00",
+                "PM25_value": 8.1,
                 "PM25_aqi": 14,
                 "overall_aqi": 14,
                 "stationType": "MOBILE"
@@ -2772,10 +2772,10 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-11-01 01:00:00",
-                "PM25_value": 17.4,
-                "PM25_aqi": 32,
-                "overall_aqi": 32,
+                "timestamp": "2026-11-01 02:00:00",
+                "PM25_value": 17.1,
+                "PM25_aqi": 31,
+                "overall_aqi": 31,
                 "stationType": "GROUND"
             }
         },
@@ -3114,8 +3114,8 @@
             "properties": {
                 "stationID": "83t",
                 "nameTH": "ศูนย์แสดงและจำหน่ายสินค้า OTOP จังหวัดอุบลราชธานี",
-                "timestamp": "2026-11-01 01:00:00",
-                "PM25_value": 6.3,
+                "timestamp": "2026-11-01 02:00:00",
+                "PM25_value": 6.5,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
