@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-11-02 19:09:06",
+        "last_updated_thai": "2026-11-02 20:00:38",
         "latest_station_date": "2026-11-03"
     },
     "features": [
@@ -112,10 +112,10 @@
             "properties": {
                 "stationID": "50t",
                 "nameTH": "โรงพยาบาลจุฬาลงกรณ์",
-                "timestamp": "2026-11-03 01:00:00",
-                "PM25_value": 24.0,
-                "PM25_aqi": 48,
-                "overall_aqi": 48,
+                "timestamp": "2026-11-03 02:00:00",
+                "PM25_value": 24.7,
+                "PM25_aqi": 49,
+                "overall_aqi": 49,
                 "stationType": "GROUND"
             }
         },
@@ -188,8 +188,8 @@
             "properties": {
                 "stationID": "59t",
                 "nameTH": "กรมประชาสัมพันธ์",
-                "timestamp": "2026-11-03 01:00:00",
-                "PM25_value": 12.9,
+                "timestamp": "2026-11-03 02:00:00",
+                "PM25_value": 13.1,
                 "PM25_aqi": 22,
                 "overall_aqi": 22,
                 "stationType": "GROUND"
@@ -1005,8 +1005,8 @@
             "properties": {
                 "stationID": "bkp73t",
                 "nameTH": "มหาวิทยาลัยเกษตรศาสตร์",
-                "timestamp": "2026-11-03 01:00:00",
-                "PM25_value": 25.5,
+                "timestamp": "2026-11-03 02:00:00",
+                "PM25_value": 25.7,
                 "PM25_aqi": 53,
                 "overall_aqi": 53,
                 "stationType": "BKK"
@@ -1632,10 +1632,10 @@
             "properties": {
                 "stationID": "60t",
                 "nameTH": "สำนักงานเทศบาลตำบลทุ่งสะเดา",
-                "timestamp": "2026-11-02 23:00:00",
-                "PM25_value": 16.7,
-                "PM25_aqi": 30,
-                "overall_aqi": 30,
+                "timestamp": "2026-11-03 02:00:00",
+                "PM25_value": 17.4,
+                "PM25_aqi": 32,
+                "overall_aqi": 32,
                 "stationType": "GROUND"
             }
         },
@@ -2069,10 +2069,10 @@
             "properties": {
                 "stationID": "20t",
                 "nameTH": "มหาวิทยาลัยกรุงเทพ วิทยาเขตรังสิต ",
-                "timestamp": "2026-11-03 01:00:00",
-                "PM25_value": 20.2,
-                "PM25_aqi": 38,
-                "overall_aqi": 38,
+                "timestamp": "2026-11-03 02:00:00",
+                "PM25_value": 20.8,
+                "PM25_aqi": 40,
+                "overall_aqi": 40,
                 "stationType": "GROUND"
             }
         },
@@ -2449,8 +2449,8 @@
             "properties": {
                 "stationID": "o63",
                 "nameTH": "ค่ายสุรสิงหนาท",
-                "timestamp": "2026-11-03 01:00:00",
-                "PM25_value": 11.1,
+                "timestamp": "2026-11-03 02:00:00",
+                "PM25_value": 11.2,
                 "PM25_aqi": 19,
                 "overall_aqi": 19,
                 "stationType": "MOBILE"
@@ -2772,10 +2772,10 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-11-03 01:00:00",
-                "PM25_value": 19.8,
-                "PM25_aqi": 37,
-                "overall_aqi": 37,
+                "timestamp": "2026-11-03 02:00:00",
+                "PM25_value": 20.4,
+                "PM25_aqi": 39,
+                "overall_aqi": 39,
                 "stationType": "GROUND"
             }
         },
