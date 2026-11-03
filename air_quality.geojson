@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-11-03 22:52:53",
+        "last_updated_thai": "2026-11-03 23:00:37",
         "latest_station_date": "2026-11-04"
     },
     "features": [
@@ -169,10 +169,10 @@
             "properties": {
                 "stationID": "54t",
                 "nameTH": "การเคหะชุมชนดินแดง ",
-                "timestamp": "2026-11-03 18:00:00",
-                "PM25_value": 30.8,
-                "PM25_aqi": 74,
-                "overall_aqi": 74,
+                "timestamp": "2026-11-04 05:00:00",
+                "PM25_value": 28.0,
+                "PM25_aqi": 62,
+                "overall_aqi": 62,
                 "stationType": "GROUND"
             }
         },
@@ -1519,9 +1519,9 @@
                 "stationID": "o10",
                 "nameTH": "เคหะชุมชนคลองจั่น",
                 "timestamp": "2026-11-04 05:00:00",
-                "PM25_value": 20.3,
-                "PM25_aqi": 39,
-                "overall_aqi": 39,
+                "PM25_value": 20.9,
+                "PM25_aqi": 40,
+                "overall_aqi": 40,
                 "stationType": "GROUND"
             }
         },
