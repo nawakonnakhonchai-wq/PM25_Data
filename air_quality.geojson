@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-11-05 22:30:58",
+        "last_updated_thai": "2026-11-05 23:00:35",
         "latest_station_date": "2026-11-06"
     },
     "features": [
@@ -18,9 +18,9 @@
                 "stationID": "119t",
                 "nameTH": "สวนสาธารณะธารา",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 6.4,
-                "PM25_aqi": 11,
-                "overall_aqi": 11,
+                "PM25_value": 6.2,
+                "PM25_aqi": 10,
+                "overall_aqi": 10,
                 "stationType": "GROUND"
             }
         },
@@ -1576,9 +1576,9 @@
                 "stationID": "94t",
                 "nameTH": "ลานอนุรักษ์วัฒนธรรมไทยสิริจิตอุทยาน",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 17.4,
-                "PM25_aqi": 32,
-                "overall_aqi": 32,
+                "PM25_value": 16.3,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "GROUND"
             }
         },
@@ -1747,7 +1747,7 @@
                 "stationID": "118t",
                 "nameTH": "สนามกีฬา จ.ชุมพร",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 6.5,
+                "PM25_value": 6.4,
                 "PM25_aqi": 11,
                 "overall_aqi": 11,
                 "stationType": "GROUND"
@@ -1974,10 +1974,10 @@
             "properties": {
                 "stationID": "62t",
                 "nameTH": "ศาลากลางจังหวัดนราธิวาส ",
-                "timestamp": "2026-11-06 04:00:00",
-                "PM25_value": 8.0,
-                "PM25_aqi": 13,
-                "overall_aqi": 13,
+                "timestamp": "2026-11-06 05:00:00",
+                "PM25_value": 8.1,
+                "PM25_aqi": 14,
+                "overall_aqi": 14,
                 "stationType": "GROUND"
             }
         },
@@ -2165,9 +2165,9 @@
                 "stationID": "70t",
                 "nameTH": "สนามกีฬาจังหวัดพะเยา",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 16.9,
-                "PM25_aqi": 30,
-                "overall_aqi": 30,
+                "PM25_value": 16.2,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "GROUND"
             }
         },
@@ -2184,9 +2184,9 @@
                 "stationID": "120t",
                 "nameTH": "สนามกีฬากลางจังหวัดพัทลุง",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 6.9,
-                "PM25_aqi": 12,
-                "overall_aqi": 12,
+                "PM25_value": 6.4,
+                "PM25_aqi": 11,
+                "overall_aqi": 11,
                 "stationType": "GROUND"
             }
         },
@@ -2297,8 +2297,8 @@
             "properties": {
                 "stationID": "63t",
                 "nameTH": "สนามโรงพิธีช้างเผือก ",
-                "timestamp": "2026-11-06 04:00:00",
-                "PM25_value": 7.8,
+                "timestamp": "2026-11-06 05:00:00",
+                "PM25_value": 8.0,
                 "PM25_aqi": 13,
                 "overall_aqi": 13,
                 "stationType": "GROUND"
@@ -2316,8 +2316,8 @@
             "properties": {
                 "stationID": "78t",
                 "nameTH": "ศูนย์พัฒนาเด็กเล็กเทศบาลเมืองเบตง",
-                "timestamp": "2026-11-06 04:00:00",
-                "PM25_value": 7.5,
+                "timestamp": "2026-11-06 05:00:00",
+                "PM25_value": 7.6,
                 "PM25_aqi": 13,
                 "overall_aqi": 13,
                 "stationType": "GROUND"
@@ -2583,9 +2583,9 @@
                 "stationID": "40t",
                 "nameTH": "การประปาส่วนภูมิภาคแม่เมาะ",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 13.7,
-                "PM25_aqi": 23,
-                "overall_aqi": 23,
+                "PM25_value": 14.6,
+                "PM25_aqi": 24,
+                "overall_aqi": 24,
                 "stationType": "GROUND"
             }
         },
@@ -2602,9 +2602,9 @@
                 "stationID": "68t",
                 "nameTH": "อุตุนิยมวิทยาลำพูน",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 18.4,
-                "PM25_aqi": 34,
-                "overall_aqi": 34,
+                "PM25_value": 16.5,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "GROUND"
             }
         },
@@ -2753,10 +2753,10 @@
             "properties": {
                 "stationID": "18t",
                 "nameTH": "ศาลากลางจังหวัดสมุทรปราการ ",
-                "timestamp": "2026-11-06 04:00:00",
-                "PM25_value": 31.6,
-                "PM25_aqi": 77,
-                "overall_aqi": 77,
+                "timestamp": "2026-11-06 05:00:00",
+                "PM25_value": 31.9,
+                "PM25_aqi": 78,
+                "overall_aqi": 78,
                 "stationType": "GROUND"
             }
         },
@@ -2772,10 +2772,10 @@
             "properties": {
                 "stationID": "19t",
                 "nameTH": "การเคหะชุมชนเมืองใหม่บางพลี ",
-                "timestamp": "2026-11-06 04:00:00",
-                "PM25_value": 16.5,
-                "PM25_aqi": 29,
-                "overall_aqi": 29,
+                "timestamp": "2026-11-06 05:00:00",
+                "PM25_value": 16.8,
+                "PM25_aqi": 30,
+                "overall_aqi": 30,
                 "stationType": "GROUND"
             }
         },
@@ -3077,9 +3077,9 @@
                 "stationID": "92t",
                 "nameTH": "สวนมหามงคลเฉลิมพระชนมพรรษา 6 รอบ 5 ธันวาคม 2552 อุตรดิตถ์",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 18.2,
-                "PM25_aqi": 34,
-                "overall_aqi": 34,
+                "PM25_value": 15.7,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
                 "stationType": "GROUND"
             }
         },
@@ -3096,9 +3096,9 @@
                 "stationID": "98t",
                 "nameTH": "สถานีสวนเฉลิมพระเกียรติพระบาทสมเด็จพระเจ้าอยู่หัว เฉลิมพระชนมพรรษา 80 พรรษา",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 16.9,
-                "PM25_aqi": 30,
-                "overall_aqi": 30,
+                "PM25_value": 15.6,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
                 "stationType": "GROUND"
             }
         },
@@ -3229,9 +3229,9 @@
                 "stationID": "97t",
                 "nameTH": "สวนเพชบุระ",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 19.9,
-                "PM25_aqi": 38,
-                "overall_aqi": 38,
+                "PM25_value": 16.3,
+                "PM25_aqi": 29,
+                "overall_aqi": 29,
                 "stationType": "GROUND"
             }
         },
@@ -3267,9 +3267,9 @@
                 "stationID": "69t",
                 "nameTH": "อุตุนิยมวิทยาจังหวัดแพร่",
                 "timestamp": "2026-11-06 05:00:00",
-                "PM25_value": 18.1,
-                "PM25_aqi": 33,
-                "overall_aqi": 33,
+                "PM25_value": 15.5,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
                 "stationType": "GROUND"
             }
         },
