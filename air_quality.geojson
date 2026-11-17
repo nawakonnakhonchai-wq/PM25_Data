@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection",
     "metadata": {
-        "last_updated_thai": "2026-11-17 19:35:16",
+        "last_updated_thai": "2026-11-17 20:00:32",
         "latest_station_date": "2026-11-18"
     },
     "features": [
@@ -1841,10 +1841,10 @@
             "properties": {
                 "stationID": "o69",
                 "nameTH": "อ่างเก็บน้ำประปา",
-                "timestamp": "2026-11-18 01:00:00",
-                "PM25_value": 15.0,
-                "PM25_aqi": 25,
-                "overall_aqi": 25,
+                "timestamp": "2026-11-18 02:00:00",
+                "PM25_value": 15.7,
+                "PM25_aqi": 27,
+                "overall_aqi": 27,
                 "stationType": "GROUND"
             }
         },
